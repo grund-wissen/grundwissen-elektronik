@@ -2,7 +2,7 @@ Grundwissen Elektronik
 ======================
 
 In dieser Dokumentation aus der `Grund-Wissen <http://www.grund-wissen.de>`_
--Reihe geht es um einige grundlegende Themen der Elektroni.
+-Reihe geht es um einige grundlegende Themen der Elektronik.
 
 Das Projekt verwendet `Sphinx <http://sphinx-doc.org/>`_ als Programm zum
 Erstellen der HTML- bzw. PDF-Dokumente. Die Dokumentation wird kontinuierlich
@@ -11,7 +11,6 @@ ausgebaut, Unterstützung bei der Weiterentwicklung ist gerne willkommen.
 Eine HTML-Version dieser Seite ist unter folgender Adresse abrufbar:
 
 http://www.grund-wissen.de/physik
-
 
 Lokale Kopien und eigene Änderungen
 -----------------------------------
@@ -30,7 +29,7 @@ Anschließend kann das Repository heruntergeladen werden:
 
 .. code-block:: bash
 
-    git clone https://github.com//grund-wissen/grundwissen-linux.git
+    git clone https://github.com//grund-wissen/grundwissen-elektronik.git
 
 Im Projektverzeichnis können dann aus den Quelldateien wahlweise HTML-Seiten
 oder ein PDF-Dokument erstellt werden:
