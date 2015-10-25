@@ -11,12 +11,12 @@ wird die den elektrischen Strom hemmende Eigenschaft von Materialien als
 Widerstand bezeichnet; zum anderen wird mit "Widerstand" ein speziell zu diesem
 Zweck gefertigtes Bauteil bezeichnet.
 
-..  
+..
     Wird ein Widerstand von einem Strom durchflossen, so fällt an ihm eine
     Spannung ab, die sich nach dem Ohmschen Gesetz ergibt. U = R \cdot I
-    
+
     Beispiel: :math:`R = \unit[20]{\Omega } ,\, I = \unit[4]{A} \quad
-    \rightarrow \quad U = R \cdot I = \unit[80]{V}`  
+    \rightarrow \quad U = R \cdot I = \unit[80]{V}`
 
 .. _Normale Widerstände:
 
@@ -40,7 +40,7 @@ und von allen Seiten gleichermaßen lesbar zu machen.
     Schaltzeichen eines Widerstandes (allgemein).
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Widerstand
         <../pics/bauteile/schaltzeichen-widerstand.svg>`
 
@@ -85,8 +85,8 @@ ihnen aufgedruckten Ringe. Auf Kohleschicht-Widerständen werden, wie in Tabelle
 aufgedruckt:
 
 * Die ersten beiden Ringe stellen die ersten beiden Ziffern des
-  Widerstandswertes dar. 
-* Der dritte Ring legt als Multiplikator die Anzahl der Nullen fest. 
+  Widerstandswertes dar.
+* Der dritte Ring legt als Multiplikator die Anzahl der Nullen fest.
 * Der vierte Ring, der bei Kohleschicht-Widerständen meist silbern oder golden
   ist, ist etwas nach rechts abgesetzt und gibt den Toleranzwert an; an seinem
   Abstand zu den übrigen Ringen kann man sich vergewissern, den Widerstandswert
@@ -94,7 +94,7 @@ aufgedruckt:
 
 .. list-table:: Farbtabelle (Kohleschicht-Widerstände)
     :name:  tab-farbtabelle-kohleschichtwiderstand
-    :widths: 50 50 50 50 50 50 
+    :widths: 50 50 50 50 50 50
 
     * - Farbring
       - Farbe
@@ -102,80 +102,80 @@ aufgedruckt:
       - \2. Ring
       - \3. Ring
       - \4. Ring
-    * - 
-      - 
+    * -
+      -
       - \1. Ziffer
       - \2. Ziffer
       - Nullen
       - Toleranz
     * - .. image:: ../pics/bauteile/widerstandsring-schwarz.png
-      - schwarz  
+      - schwarz
       -  :math:`0`
       -  :math:`0`
       -  ---
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-braun.png
-      - braun  
+      - braun
       -  :math:`1`
       -  :math:`1`
       -  :math:`0`
       -  :math:`\pm 1\%`
     * - .. image:: ../pics/bauteile/widerstandsring-rot.png
-      - rot  
+      - rot
       -  :math:`2`
       -  :math:`2`
       -  :math:`00`
       -  :math:`\pm 2\%`
     * - .. image:: ../pics/bauteile/widerstandsring-orange.png
-      - orange  
+      - orange
       -  :math:`3`
       -  :math:`3`
       -  :math:`000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-gelb.png
-      - gelb  
-      -  :math:`4` 
-      -  :math:`4` 
-      -  :math:`0\,000` 
+      - gelb
+      -  :math:`4`
+      -  :math:`4`
+      -  :math:`0\,000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-gruen.png
-      - grün 
-      -  :math:`5` 
-      -  :math:`5` 
+      - grün
+      -  :math:`5`
+      -  :math:`5`
       -  :math:`00\,000`
       -  :math:`\pm 0,5\%`
     * - .. image:: ../pics/bauteile/widerstandsring-blau.png
-      - blau  
-      -  :math:`6` 
-      -  :math:`6` 
-      -  :math:`000\,000` 
+      - blau
+      -  :math:`6`
+      -  :math:`6`
+      -  :math:`000\,000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-violett.png
-      - violett  
-      -  :math:`7` 
-      -  :math:`7` 
-      -  :math:`0\,000\,000` 
+      - violett
+      -  :math:`7`
+      -  :math:`7`
+      -  :math:`0\,000\,000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-grau.png
-      - grau  
-      -  :math:`8` 
-      -  :math:`8` 
-      -  :math:`00\,000\,000` 
+      - grau
+      -  :math:`8`
+      -  :math:`8`
+      -  :math:`00\,000\,000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-weiss.png
-      - weiß  
-      -  :math:`9` 
-      -  :math:`9` 
-      -  :math:`000\,000\,000` 
+      - weiß
+      -  :math:`9`
+      -  :math:`9`
+      -  :math:`000\,000\,000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-gold.png
-      - gold  
+      - gold
       -  ---
       -  ---
       -  ---
       -  :math:`\pm 5\%`
     * - .. image:: ../pics/bauteile/widerstandsring-silber.png
-      - silber  
+      - silber
       -  ---
       -  ---
       -  ---
@@ -188,7 +188,7 @@ aufgedruckt. Der Widerstandswert wird mit vier Ringen dargestellt, wobei die
 ersten drei Ringe die ersten drei Ziffern des Widerstandswertes darstellen und
 der vierte Ring als Multiplikator die Anzahl der anzufügenden Nullen angibt. Auf
 diese Weise sind auch feinere Abstufungen der Widerstandswerte wie
-beispielsweise :math:`\unit[4,7]{\Omega }` darstellbar. 
+beispielsweise :math:`\unit[4,7]{\Omega }` darstellbar.
 
 .. list-table:: Farbtabelle (Metallschicht-Widerstände)
     :name:  tab-farbtabelle-metallschichtwiderstand
@@ -201,92 +201,92 @@ beispielsweise :math:`\unit[4,7]{\Omega }` darstellbar.
       - \3. Ring
       - \4. Ring
       - \5. Ring
-    * - 
-      - 
+    * -
+      -
       - \1. Ziffer
       - \2. Ziffer
       - \3. Ziffer
       - Nullen
       - Toleranz
     * - .. image:: ../pics/bauteile/widerstandsring-schwarz.png
-      - schwarz  
+      - schwarz
       -  :math:`0`
       -  :math:`0`
       -  :math:`0`
       -  ---
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-braun.png
-      - braun  
+      - braun
       -  :math:`1`
       -  :math:`1`
       -  :math:`1`
       -  :math:`0`
       -  :math:`\pm 1\%`
     * - .. image:: ../pics/bauteile/widerstandsring-rot.png
-      - rot  
+      - rot
       -  :math:`2`
       -  :math:`2`
       -  :math:`2`
       -  :math:`00`
       -  :math:`\pm 2\%`
     * - .. image:: ../pics/bauteile/widerstandsring-orange.png
-      - orange  
+      - orange
       -  :math:`3`
       -  :math:`3`
       -  :math:`3`
       -  :math:`000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-gelb.png
-      - gelb  
-      -  :math:`4` 
-      -  :math:`4` 
-      -  :math:`4` 
-      -  :math:`0\,000` 
+      - gelb
+      -  :math:`4`
+      -  :math:`4`
+      -  :math:`4`
+      -  :math:`0\,000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-gruen.png
-      - grün 
-      -  :math:`5` 
-      -  :math:`5` 
-      -  :math:`5` 
+      - grün
+      -  :math:`5`
+      -  :math:`5`
+      -  :math:`5`
       -  :math:`00\,000`
       -  :math:`\pm 0,5\%`
     * - .. image:: ../pics/bauteile/widerstandsring-blau.png
-      - blau  
-      -  :math:`6` 
-      -  :math:`6` 
-      -  :math:`6` 
-      -  :math:`000\,000` 
+      - blau
+      -  :math:`6`
+      -  :math:`6`
+      -  :math:`6`
+      -  :math:`000\,000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-violett.png
-      - violett  
-      -  :math:`7` 
-      -  :math:`7` 
-      -  :math:`7` 
-      -  :math:`0\,000\,000` 
+      - violett
+      -  :math:`7`
+      -  :math:`7`
+      -  :math:`7`
+      -  :math:`0\,000\,000`
       -  :math:`\pm 0,1\%`
     * - .. image:: ../pics/bauteile/widerstandsring-grau.png
-      - grau  
-      -  :math:`8` 
-      -  :math:`8` 
-      -  :math:`8` 
-      -  :math:`00\,000\,000` 
+      - grau
+      -  :math:`8`
+      -  :math:`8`
+      -  :math:`8`
+      -  :math:`00\,000\,000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-weiss.png
-      - weiß  
-      -  :math:`9` 
-      -  :math:`9` 
-      -  :math:`9` 
-      -  :math:`000\,000\,000` 
+      - weiß
+      -  :math:`9`
+      -  :math:`9`
+      -  :math:`9`
+      -  :math:`000\,000\,000`
       -  ---
     * - .. image:: ../pics/bauteile/widerstandsring-gold.png
-      - gold  
+      - gold
       -  ---
       -  ---
       -  ---
       -  :math:`0,1`
       -  :math:`\pm 5\%`
     * - .. image:: ../pics/bauteile/widerstandsring-silber.png
-      - silber  
+      - silber
       -  ---
       -  ---
       -  ---
@@ -303,7 +303,7 @@ anzuschließen (siehe :ref:`Leuchtdiode mit Vorwiderstand`). Angenommen, dass es
 sich um einen Kohleschicht-Widerstand handelt, so entspricht die erste Ziffer
 :math:`(4)` einem gelben Ring, die zweite Ziffer :math:`(7)` einem violetten. An
 den so codierten Wert :math:`(47)` muss noch eine Null angehängt werden; dies
-lässt sich erreichen, indem der dritte Ring in brauner Farbe aufgedruckt wird. 
+lässt sich erreichen, indem der dritte Ring in brauner Farbe aufgedruckt wird.
 
 .. figure::
     ../pics/bauteile/widerstand-farbringe-beispiel-470-ohm.png
@@ -315,7 +315,7 @@ lässt sich erreichen, indem der dritte Ring in brauner Farbe aufgedruckt wird.
     Farbringe eines :math:`\unit[470]{\Omega }`-Widerstands.
 
     .. only:: html
-    
+
         :download:`SVG: Farbringe-Beispiel (470 Ohm)
         <../pics/bauteile/widerstand-farbringe-beispiel-470-ohm.svg>`
 
@@ -323,14 +323,14 @@ Ist der vierte Ring des Kohlenschicht-Widerstandes goldfarben, so ist eine
 Toleranz von :math:`5\%` erlaubt -- der tatsächliche Wert des Widerstands
 liegt somit zwischen :math:`\unit[446,5]{\Omega }` und :math:`493,5` Ohm.
 
-    
-.. todo:: 
+
+.. todo::
 
     Belastbarkeit von Widerstaenden
     Widerstandsreihe http://www.elektronik-kompendium.de/sites/bau/1109071.htm
 
 
-.. index:: 
+.. index::
     single: Widerstand; Fotowiderstand
 
 .. _Fotowiderstand:
@@ -341,7 +341,7 @@ Fotowiderstände
 Fotowiderstände -- auch "LDR" (Light Dependend Resistor) genannt -- haben, wenn
 sie voll beleuchtet werden, einen Widerstand von einigen hundert
 :math:`\unit[]{\Omega}`. Bei sinkender Lichtintensität steigt der Widerstand --
-je nach Bauart -- bis auf einige :math:`\unit[]{M \Omega}` an. 
+je nach Bauart -- bis auf einige :math:`\unit[]{M \Omega}` an.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-widerstand-fotowiderstand.png
@@ -353,7 +353,7 @@ je nach Bauart -- bis auf einige :math:`\unit[]{M \Omega}` an.
     Schaltzeichen eines Fotowiderstandes.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Fotowiderstand
         <../pics/bauteile/schaltzeichen-widerstand-fotowiderstand.svg>`
 
@@ -394,7 +394,7 @@ Temperaturen zunimmt.
     Schaltzeichen eines Kaltleiters (PTC).
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Kaltleiter (PTC)
         <../pics/bauteile/schaltzeichen-widerstand-kaltleiter.svg>`
 
@@ -407,7 +407,7 @@ Als "Heißleiter" oder NTC-Widerstand ("NTC" = "Nositive Temperature
 Coefficient") werden Stoffe bezeichnet, deren Widerstand bei steigenden
 Temperaturen abnimmt.
 
-..  The value of an NTC (e.g. 10k)  is usually given at an ambient temperature of 25 degrees Celsius. 
+..  The value of an NTC (e.g. 10k)  is usually given at an ambient temperature of 25 degrees Celsius.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-widerstand-heissleiter.png
@@ -419,7 +419,7 @@ Temperaturen abnimmt.
     Schaltzeichen eines Heißleiters (NTC).
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Heißleiter (NTC)
         <../pics/bauteile/schaltzeichen-widerstand-heissleiter.svg>`
 
@@ -434,7 +434,7 @@ Schleifkontakt (meist) von null bis zum angegebenen Höchstwert verändert werde
 kann. Dabei unterscheidet man zwischen auch im laufenden Betrieb regelbaren
 Potentiometern und fest einstellbaren Trimmwiderständen.
 
-.. index:: 
+.. index::
     single: Widerstand; Potentiometer
     single: Potentiometer
 .. _Potentiometer:
@@ -442,7 +442,7 @@ Potentiometern und fest einstellbaren Trimmwiderständen.
 .. rubric:: Potentiometer
 
 Ein Potentiometer (kurz: "Poti") ermöglicht eine Einstellung des
-Widerstandswertes von außen mit Hilfe eines Drehknopfes oder Schiebers. 
+Widerstandswertes von außen mit Hilfe eines Drehknopfes oder Schiebers.
 
 Jedes Potentiometer besitzt drei Anschlüsse, wobei zwischen den beiden äußeren
 Anschlüssen der auf dem Potentiometer angegebene Widerstandswert in voller Höhe
@@ -460,7 +460,7 @@ null und dem maximalen Wert verändert werden.
     Schaltzeichen eines Potentiometers.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Potentiometer
         <../pics/bauteile/schaltzeichen-widerstand-potentiometer.svg>`
 
@@ -471,7 +471,7 @@ bei der Einstellung der Lautstärke an einem Radio.
 
 
 .. _Trimmwiderstand:
-.. index:: 
+.. index::
     single: Widerstand; Trimmwiderstand
     single: Trimmwiderstand
 
@@ -492,11 +492,11 @@ vorgesehen.
     Schaltzeichen eines Trimmwiderstands.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Trimmwiderstand
         <../pics/bauteile/schaltzeichen-widerstand-trimmwiderstand.svg>`
 
-.. Einsatzgebiet: 
+.. Einsatzgebiet:
 
 
 .. raw:: html
@@ -507,7 +507,7 @@ vorgesehen.
 
     .. rubric:: Anmerkungen:
 
-.. [#]  Früher waren auch Masse- und Drahtwiderstände weit verbreitet. 
+.. [#]  Früher waren auch Masse- und Drahtwiderstände weit verbreitet.
 
     * Bei Massewiderständen bildet ein stabförmige Körper, der aus einem
       Gemisch an leitenden und nichtleitenden Stoffen besteht, den
@@ -529,10 +529,10 @@ vorgesehen.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu
     Widerständen>`.
-    
+
 .. :ref:`Versuche <Versuche zu Widerständen>`
 

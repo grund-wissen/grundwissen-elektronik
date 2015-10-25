@@ -21,7 +21,7 @@ Taktgeber, typischerweise mit einer Frequenz von :math:`\unit[32,768]{kHz}`.
     Schaltzeichen eines Quarzoszillators.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Quarzoszillator
         <../pics/bauteile/schaltzeichen-quarzoszillator.svg>`
 

@@ -7,7 +7,7 @@ Dioden
 
 Ähnlich wie eine :ref:`Röhrendiode <Röhrendiode>` stellt eine Halbleiter-Diode
 eine "elektrische Einbahnstraße" dar; elektrischer Strom kann eine
-Halbleiter-Diode in nur einer Richtung passieren. 
+Halbleiter-Diode in nur einer Richtung passieren.
 
 .. _Normale Diode:
 
@@ -20,7 +20,7 @@ die Kathode zum Minus-Pol zeigt; in der Gegenrichtung sperrt sie. Auf dem
 Bauteil ist die Kathoden-Seite durch ein schwarzen oder weißen Ring
 gekennzeichnet. Ab einer anliegenden Spannungsdifferenz von etwa
 :math:`U _{\rm{D}} = \unit[0,7]{V}` beginnt in Durchlassrichtung Strom zu
-fließen. 
+fließen.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-diode.png
@@ -33,7 +33,7 @@ fließen.
     Kathode genannt.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Diode
         <../pics/bauteile/schaltzeichen-diode.svg>`
 
@@ -41,7 +41,7 @@ Beim Durchgang durch eine Diode sinkt die Spannung -- anders als bei Ohmschen
 Widerständen, die zum Durchlassen einer größeren Stromstärke stets auch eine
 größere anliegende elektrische Spannung benötigen -- relativ konstant um
 :math:`\unit[0,7]{V}` -- weitgehend unabhängig von der Stärke des fließenden
-Stroms. Das Ohmsche Gesetz :math:`U = R \cdot I` ist somit nicht auf Dioden 
+Stroms. Das Ohmsche Gesetz :math:`U = R \cdot I` ist somit nicht auf Dioden
 anwendbar.
 
 .. figure::
@@ -54,7 +54,7 @@ anwendbar.
     Kennlinie einer Diode in Durchlassrichtung.
 
     .. only:: html
-    
+
         :download:`SVG: Kennlinie einer Diode in Durchlassrichtung.
         <../pics/bauteile/kennlinie-diode-durchlassrichtung.svg>`
 
@@ -75,7 +75,7 @@ zerstört werden.
     Kennlinie einer :math:`\unit[100]{V}`-Diode in Sperrichtung.
 
     .. only:: html
-    
+
         :download:`SVG: Kennlinie einer 100-V-Diode in Sperrichtung.
         <../pics/bauteile/kennlinie-diode-sperrrichtung.svg>`
 
@@ -99,7 +99,7 @@ werden kann.
   höchstens :math:`\unit[1]{A}` betragen.
 
 
-.. index:: 
+.. index::
     single: Diode; Leuchtdiode (LED)
     single: Leuchtdiode (LED)
 .. _Leuchtdiode:
@@ -113,7 +113,7 @@ sie fließt. Die übliche Betriebspannung einer Leuchtdiode liegt normalerweise
 bei :math:`U = \unit[1,4]{V}`; maximal darf an LEDs (je nach Bautyp) eine
 Spannung von :math:`\unit[1,6]{V} \le U _{\rm{max}} \le \unit[2,4]{V}` angelegt
 werden. [#]_ Die Stromstärke :math:`I` beträgt dabei zwischen
-:math:`\unit[15]{mA}` und :math:`\unit[25]{mA}`. 
+:math:`\unit[15]{mA}` und :math:`\unit[25]{mA}`.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-diode-leuchtdiode.png
@@ -125,7 +125,7 @@ werden. [#]_ Die Stromstärke :math:`I` beträgt dabei zwischen
     Schaltzeichen einer Leuchtdiode (LED).
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Leuchtdiode
         <../pics/bauteile/schaltzeichen-diode-leuchtdiode.svg>`
 
@@ -145,11 +145,11 @@ dargestellt, ebenfalls anhand ihres Innenaufbaus erkennen.
     Bauform einer Leuchtdiode (LED).
 
     .. only:: html
-    
+
         :download:`SVG: Bauform einer Leuchtdiode
         <../pics/bauteile/bauform-leuchtdiode.svg>`
 
-.. index:: 
+.. index::
     single: Diode; Photodiode
     single: Photodiode
 
@@ -173,7 +173,7 @@ Ultraviolett- oder im sichtbaren Bereich des Lichts.
     Schaltzeichen einer Fotodiode.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Fotodiode
         <../pics/bauteile/schaltzeichen-diode-fotodiode.svg>`
 
@@ -197,7 +197,7 @@ Ultraviolett- oder im sichtbaren Bereich des Lichts.
 ..  (Leerlaufspannung) an; sie sinnkt, wenn ein Verbraucher angeschlossen wird.
 
 
-.. todo:: 
+.. todo::
 
     Zener-Dioden
 
@@ -205,13 +205,13 @@ Ultraviolett- oder im sichtbaren Bereich des Lichts.
     aufgrund des Zener- oder Lawineneffektes. Diese Diode ist für Dauerbetrieb
     im Durchbruchbereich vorgesehen.
 
-..  
+..
     Ein ganz anderes "Verhalten" weisen die so genannten Zenerdioden auf: Sie
     funktionieren als eine Art Spannungsbarrieren (nach Abb. 3.22a) bzw. als
     "Spannungsschlucker" (nach Abb. 3.22b). Man macht sich diese Eigenheit der
     Zenerdioden u.a. dort zu Nutzen, wo man in einem kleinen Schaltungsteil eine
     stabile "Zweitspannung" benötigt.
-    
+
     Wenn uns beispielsweise in einem Gerät nur eine 9-V-Versorgungsspannung zur
     Verfügung steht und wir benötigen zusätzlich eine 5,1-V-Zweitspannung, so kann
     dies nach Abb. 3.22a bewerkstelligt werden. Der Ohmsche Wert des Vorwiderstandes
@@ -222,13 +222,13 @@ Ultraviolett- oder im sichtbaren Bereich des Lichts.
     wiederum zu niedrig, fließt durch die Zenerdiode ein zu hoher Strom, der sie
     entweder nur sehr aufheizt oder sogar vernichtet (hier ist – ähnlich, wie bei
     einem Widerstand – auf die Leistung der angewendeten Zenerdiode zu achten).
-    
+
     Zenerdioden sind für Festspannungen von 1 V bis ca. 180 V erhältlich --
     allerdings in einer etwas gröberen Abstufung. Üblicherweise geht bei Zenerdioden
     bereits aus der Typenbezeichnung – die z.B. „ZPD 5,1 V“ lautet – hervor, für
     welche Zenerspannung sie ausgelegt sind. Sie sind zudem – ähnlich wie
     Widerstände – für verschiedene Leistungen erhältlich.
-    
+
     Die Zenerdiode (ZPD 3 V) in Abb. 3.22b fungiert zwar elektrisch auf dieselbe
     Weise, wie die Zenerdiode in Abb. 3.22a, ist jedoch in der Schaltung ein wenig
     anders angeordnet. Sie verhält sich hier als ein „Spannungsschlucker“ und
@@ -238,12 +238,12 @@ Ultraviolett- oder im sichtbaren Bereich des Lichts.
     gut, wenn man z.B. in dem Schaltbeispiel nach Abb. 3.22b das IC1 mit einer
     6-V-Spannung und das IC2 mit der vorhandenen 9-V-Spannung versorgen möchte (oder
     muss).
-    
+
     Wenn wir beispielsweise in dieser Schaltung anstelle der 9-V-Spannung eine
     23-V-Spannung über eine 10-V-Zenerdiode zum IC1 führen würden, bekäme dieses IC
     eine „Restspannung“ von 13 V. Die 10-V-Zenerspannung würde die Zenerdiode (z.B.
     die Type ZPD 10 V) für sich behalten.
-    
+
     Wozu so etwas in der Praxis überhaupt gut sein kann, darauf kommen wir noch im
     Zusammenhang mit „Sound-ICs“ später zurück.
 
@@ -263,7 +263,7 @@ Ultraviolett- oder im sichtbaren Bereich des Lichts.
     teilweise sogar mit :math:`3 \text{ bis } \unit[3,5]{V}` betrieben. Die
     Stromstärke liegt jeweils bei :math:`\unit[20]{mA}`.
 
-..      
+..
     Die Diode gehört zur Gruppe der Halbleiter. Sie ist ein Bauelement mit einem
     pn-Übergang. Der Anschluss am p-Bereich heisst Anode, der am n-Bereich
     Kathode. Je nach Richtung der angelegten Spannung lässt die Diode den Strom
@@ -271,7 +271,7 @@ Ultraviolett- oder im sichtbaren Bereich des Lichts.
     Schaltung eingebaut werden. In der Regel ist die Kathode durch einen Ring am
     Gehäuse gekennzeichnet. Bei mehreren Ringen auf dem Gehäuse kennzeichnet der
     erste breite Ring die Kathode.
-    
+
     Halbleiter sind Stoffe, deren spezifischer Widerstand (bzw. Leitfähigkeit)
     zwischen dem von Leitern (z.B. Metall) und dem von Isolatoren (z.B. Glas,
     Keramik) liegt, da sie im Gegensatz zu Leitern kaum freie Elektronen
@@ -280,4 +280,4 @@ Ultraviolett- oder im sichtbaren Bereich des Lichts.
     Halbleiterbauelementen benötigt man Halbleitermaterial, dessen Leitfähigkeit
     weitgehend temperaturunabhängig und sehr viel höher ist als bei der
     Eigenleitung. Deshalb fügt man in das Siliziumkristallgitter Fremdatome ein.
-    
+

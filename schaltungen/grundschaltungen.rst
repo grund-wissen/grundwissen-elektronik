@@ -18,7 +18,7 @@ Leuchtdiode mit Vorwiderstand
 eingesetzt, um auf den ersten Blick zu erkennen, ob an einer bestimmten Stelle
 Strom fließt oder nicht. Damit eine Leuchtdiode mit "normaler" Helligkeit
 aufleuchtet, benötigt sie eine Gleichspannung von rund :math:`U =
-\unit[1,4]{V}`. 
+\unit[1,4]{V}`.
 
 Da zu hohe Spannungen (:math:`U > \unit[2,5]{V}`) das Bauteil gefährden können,
 schaltet man vor eine Leuchtdiode :math:`D` meist einen so genannten
@@ -35,7 +35,7 @@ Stromquelle bewirkt.
     Schaltung einer LED mit Vorwiderstand.
 
     .. only:: html
-    
+
         :download:`SVG: LED mit Vorwiderstand
         <../pics/schaltungen/led-mit-vorwiderstand.svg>`
 
@@ -47,17 +47,17 @@ erreichen. Beträgt der Wert des Vorwiderstandes beispielsweise :math:`R =
 durch den Widerstand von:
 
 .. math::
-    
+
     I = \frac{U _{\rm{R}}}{R} = \frac{\unit[7,6]{V}}{\unit[470]{\Omega }} =
     \unit[0,016]{A} = \unit[16]{mA}
-    
+
 Der gleiche Strom fließt, da der Vorwiderstand und die Leuchtdiode als
 Reihenschaltung vorliegen, auch durch die LED. Bei kleineren Vorwiderständen
 ergeben sich entsprechend höhere Stromstärken bzw. an der Leuchtdiode anliegende
 Spannungen, wobei die Herstellerangaben zu beachten sind, um ein "Durchglühen"
 der Leuchtdiode zu verhindern. Bei kleineren Versorgungsspannungen oder größeren
 Vorwiderständen lassen sich Leuchtdioden beliebig dimmen; hierzu kann man am
-einfachsten ein Potentiometer in Reihe zum Vorwiderstand schalten. 
+einfachsten ein Potentiometer in Reihe zum Vorwiderstand schalten.
 
 Man kann in Schaltung :ref:`LED mit Vorwiderstand <fig-led-mit-vorwiderstand>`
 den Taster :math:`S _{\rm{1}}` auch durch zwei offene Leiterenden ersetzen, um
@@ -77,7 +77,7 @@ Kondensator-Grundfunktion
 
 Kondensatoren haben die Fähigkeit elektrische Ladung zu speichern und sie
 langsam wieder abzugeben. Eine einfache Schaltung, die diese Funktionsweise
-veranschaulicht, ist folgende: 
+veranschaulicht, ist folgende:
 
 .. figure::
     ../pics/schaltungen/kondensator-grundfunktion.png
@@ -89,7 +89,7 @@ veranschaulicht, ist folgende:
     Grundfunktion eines Kondensators
 
     .. only:: html
-    
+
         :download:`SVG: Kondensator-Grundfunktion
         <../pics/schaltungen/kondensator-grundfunktion.svg>`
 
@@ -113,7 +113,7 @@ Transistor-Grundschaltungen
 ---------------------------
 
 Ein Transistor kann, je nach Schaltungsart, als elektronischer Schalter oder als
-regelbarer Verstärker eingesetzt werden. 
+regelbarer Verstärker eingesetzt werden.
 
 .. index:: Transistor; Emitterschaltung
 .. _Die Emitterschaltung:
@@ -123,7 +123,7 @@ regelbarer Verstärker eingesetzt werden.
 Bei der so genannten Emitter-Schaltung ist der Emitter des Transistors direkt
 mit dem ``-``-Pol der Stromquelle verbunden. In dieser Position funktioniert der
 Transistor als elektronischer Schalter, wobei sich der zu schaltende Teil des
-Stromkreises vor dem Kollektor-Anschluss befindet. 
+Stromkreises vor dem Kollektor-Anschluss befindet.
 
 .. figure::
     ../pics/schaltungen/transistor-emitterschaltung.png
@@ -135,7 +135,7 @@ Stromkreises vor dem Kollektor-Anschluss befindet.
     Emitterschaltung eines Transistors.
 
     .. only:: html
-    
+
         :download:`SVG: Emitterschaltung eines Transistors
         <../pics/schaltungen/transistor-emitterschaltung.svg>`
 
@@ -147,7 +147,7 @@ fließt ein schwacher Strom durch den Basiswiderstand :math:`R _{\rm{2}}` -- der
 einen um ein Vielfaches größeren Widerstandswert als der Lastwiderstand :math:`R
 _{\rm{1}}` besitzen darf -- an die Basis von :math:`T _{\rm{1}}`. [#]_ Die
 Kollektor-Emitter-Strecke des Transistors leitend, der Transistor "steuert
-durch". 
+durch".
 
 Ein schwacher Basis-Strom :math:`I _{\rm{B}}` kann auf diese Weise einen
 Kollektor-Emitter-Strom :math:`I _{\rm{CE}}` schalten, der je nach Bautyp des
@@ -177,7 +177,7 @@ sich hinter dem Emitter-Anschluss befindet.
     Kollektorschaltung eines Transistors.
 
     .. only:: html
-    
+
         :download:`SVG: Kollektorschaltung eines Transistors
         <../pics/schaltungen/transistor-kollektorschaltung.svg>`
 
@@ -204,7 +204,7 @@ Verstärkung) auch :math:`I _{\rm{R _{\rm{1}}}}`.
         gewisse Selbstentladung auf, wobei Ladung von der einen Plattenseite zur
         anderen fließt. Ist der Kondensator noch mit einer Stromquelle
         verbunden, so fließt diese Ladung von der Stromquelle auf den
-        Kondensator nach. 
+        Kondensator nach.
 
 .. [#]  Der Widerstand :math:`R _{\rm{3}}` hat lediglich die Aufgabe, die durch
         die Basis-Emitter-Strecke fließende Stromstärke :math:`I _{\rm{BE}}` zu
@@ -226,9 +226,9 @@ Verstärkung) auch :math:`I _{\rm{R _{\rm{1}}}}`.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu
     Grundschaltungen>`.
-    
+
 

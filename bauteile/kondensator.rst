@@ -25,7 +25,7 @@ gleichmäßig über die Metallplatten und die Verbindungsleitungen. Liegt an ein
 Kondensator eine Gleichspannung an, so fließen kurzzeitig zusätzliche Elektronen
 auf die mit dem Minus-Pol verbundene Metallfläche, von der mit dem Plus-Pol
 verbundenen Metallfläche werden Elektronen weggezogen -- die Kondensator-Platten
-laden sich elektrisch auf. 
+laden sich elektrisch auf.
 
 
 .. figure::
@@ -38,7 +38,7 @@ laden sich elektrisch auf.
     Schaltzeichen eines Kondensators.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Kondensator
         <../pics/bauteile/schaltzeichen-kondensator.svg>`
 
@@ -54,21 +54,21 @@ kann, begrenzt.
 
 .. math::
     :label: eqn-kapazität
-    
-    C = \frac{Q}{U} 
+
+    C = \frac{Q}{U}
 
 *Einheit:*
     Die Kapazität eines Kondensators wird in Farad :math:`(\unit[]{F})` angegeben.
 
 .. math::
-    
-    \unit[1]{F} = \frac{\unit[1]{C}}{\unit[1]{V}} 
+
+    \unit[1]{F} = \frac{\unit[1]{C}}{\unit[1]{V}}
 
 *Beispiele:*
 
 * Ein Kondensator, der durch eine Stromstärke von einem Ampere in einer Sekunde
   auf eine Spannung von einem Volt aufgeladen wird, hat eine Kapazität von einem
-  Farad. Eine derartige Kapazitätsmenge ist enorm hoch. 
+  Farad. Eine derartige Kapazitätsmenge ist enorm hoch.
 
 * Die Werte von normalen Folien- und Keramik-Kondensatoren liegen im Bereich
   einiger :math:`\unit[]{pF}`- oder :math:`\unit[]{nF}`, maximal einiger
@@ -76,7 +76,7 @@ kann, begrenzt.
   der unten genannten Notation aufgedruckt.
 
 .. math::
-    
+
     \unit[1]{pF} &= \unit[10 ^{-12}]{F} =
     \unit[\frac{1}{1\,000\,000\,000\,000}]{F} = \unit[0,000\,000\,000\,001]{F}
     \\[4pt]
@@ -106,10 +106,10 @@ Besonderheiten angegeben:
    gilt:
 
    .. math::
-       
+
        \unit[1]{nF} &= \unit[1\,000]{pF} = \unit[1 \cdot 10^3]{pF} \\[4pt]
-       \unit[1]{\mu F} &= \unit[1\,000]{nF} = \unit[1 \cdot 10^6]{pF} 
-   
+       \unit[1]{\mu F} &= \unit[1\,000]{nF} = \unit[1 \cdot 10^6]{pF}
+
 2. Ähnlich wie bei Widerständen werden Nachkommastellen stets hinter den
    Potenzfaktor geschrieben; eine Kapazitätsangabe von :math:`2n2` entspricht
    somit einem Kapazitätswert von :math:`\unit[2,2]{nF}`. Auf diese Weise ist
@@ -130,7 +130,7 @@ Besonderheiten angegeben:
 
 Um einen Kondensator voll aufzuladen, sind meist nur wenige
 Sekunden(-Bruchteile) nötig. Die Spannung zwischen den beiden Metallplatten ist
-dann gleich der Ladespannung. 
+dann gleich der Ladespannung.
 
 
 .. _Kondensator im Wechselstromkreis:
@@ -147,7 +147,7 @@ wird; im zeitlichen Durchschnitt ist daher der Mittelwert der auftretenden
 elektrischen Leistungen an einem (idealen) Kondensator gleich Null. Man spricht
 in diesem Zusammenhang auch von "Blindleistung"; den Kondensator bezeichnet man
 in einem Wechselstromkreis als "Blindwiderstand" oder "kapazitativen
-Scheinwiderstand". 
+Scheinwiderstand".
 
 Der kapazitative Scheinwiderstand ist von der Kapazität des
 Kondensators und der Frequenz des Wechselstroms abhängig; je größer die
@@ -155,15 +155,15 @@ Kapazität :math:`C` und je höher die Frequenz :math:`f` des Wechselstroms ist,
 desto, desto niedriger ist der kapazitative Scheinwiderstand des Kondensators:
 
 .. math::
-    
+
     R _{\rm{C}} = \frac{1}{2 \cdot \pi \cdot f \cdot C} = \frac{1}{\omega \cdot
-    C} 
+    C}
 
 Hierbei wird mit :math:`\omega = 2 \cdot \pi \cdot f` die Kreisfrequenz des
 Wechselstroms bezeichnet.
 
-..  pi-topologie: | cap -- res -- | cap 
-..  kondensator: 
+..  pi-topologie: | cap -- res -- | cap
+..  kondensator:
 ..  * ladungsspeicher Q = C \cdot U -> C sollte gross sein, um bei einer
 ..  bestimmten Spannung viel Ladung aufnehmen zu können
 ..  * filter: Z = 1/(j*omega*C) soll minimal werden -> C gross
@@ -174,7 +174,7 @@ Wechselstroms bezeichnet.
 
 .. 23 = 23 pf ; 182 = 18 00 pf = 1,8 nF
 
-.. index:: 
+.. index::
     single: Kondensator; Trimmkondensator
 .. _Trimmkondensator:
 
@@ -195,7 +195,7 @@ von Null bis zum angegebenen Höchstwert.
     Schaltzeichen eines Drehkondensators.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Drehkondensator
         <../pics/bauteile/schaltzeichen-kondensator-trimmkondensator.svg>`
 
@@ -206,7 +206,7 @@ meist unter :math:`\unit[500]{pF}`. Derartige Kondensatoren werden
 beispielsweise in Radios eingesetzt, um den Empfänger auf verschiedene
 Senderfrequenzen einstellen zu können.
 
-.. index:: 
+.. index::
     single: Kondensator; Elektrolytkondensator
     single: Elektrolyt-Kondensator
 .. _Elektrolyt-Kondensator:
@@ -219,7 +219,7 @@ Elektrolyt-Kondensatoren ("Elkos") haben meist hohe Kapazitätwerte von etwa
 Elektrolyt-Kondensatoren sind allerdings polarisiert, d.h. sie besitzen jeweils
 einen Plus- und einen Minusanschluß, den man nicht vertauschen darf. Die
 Anschlüsse sind deutlich gekennzeichnet, oftmals erkennt man den Pluspol
-zusätzlich am längeren Anschlußdraht. 
+zusätzlich am längeren Anschlußdraht.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-kondensator-elektrolytkondensator.png
@@ -231,7 +231,7 @@ zusätzlich am längeren Anschlußdraht.
     Schaltzeichen eines Elektrolyt-Kondensators.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Elektrolyt-Kondensator
         <../pics/bauteile/schaltzeichen-kondensator-elektrolytkondensator.svg>`
 

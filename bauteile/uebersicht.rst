@@ -17,11 +17,11 @@ Vollständigkeit -- einen Überblick über einige dieser "Schaltzeichen" bieten.
     Übersicht über häufige elektronische Schaltzeichen.
 
     .. only:: html
-    
+
         :download:`SVG: Elektronische Symbole
         <../pics/bauteile/schaltzeichen-uebersicht.svg>`
 
-..  
+..
     http://de.wikipedia.org/wiki/Liste_der_Schaltzeichen_(Elektrik/Elektronik)
     http://de.wikipedia.org/wiki/Liste_elektronischer_Bauteile
     http://de.wikipedia.org/wiki/Logikgatter

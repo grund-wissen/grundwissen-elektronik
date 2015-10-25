@@ -54,7 +54,7 @@ Parallelschaltungen <Reihen- und Parallelschaltungen>`.
   \unit[100]{\Omega }` und :math:`R _{\rm{2}} = \unit[50]{\Omega }` parallel
   zueinander geschaltet. Welcher Gesamtwiderstand ergibt sich in diesem Fall?
   Welche Stromstärken fließen durch die einzelnen Widerstände, wenn die
-  Spannung der Stromquelle eine :math:`\unit[9]{V}` beträgt? 
+  Spannung der Stromquelle eine :math:`\unit[9]{V}` beträgt?
 
   :ref:`Lösung <Reihen-und-Parallelschaltung-Widerstände-03-Lösung>`
 
@@ -80,30 +80,30 @@ Parallelschaltungen <Reihen- und Parallelschaltungen>`.
   zueinander geschalten; zusätzlich ist der Widerstand :math:`R _{\rm{3}} =
   \unit[560]{\Omega }` in Reihe eingebaut. Welche Teilströme bzw. -Spannungen
   ergeben sich an den einzelnen Widerständen, wenn eine Spannung von
-  :math:`\unit[9]{V}` anliegt? 
+  :math:`\unit[9]{V}` anliegt?
 
   :ref:`Lösung <Reihen-und-Parallelschaltung-Widerstände-05-Lösung>`
 
-..  
+..
     Zwei in einen mit einer Spannung von :math:`\unit[230]{V}` betriebenen
     Kochherd eingebaute Heizplatten geben in Reihe :math:`\unit[133]{W}` und
     parallel geschaltet :math:`\unit[600]{W}` an Leistung ab. Welche Leistungen
     geben die beiden Heizplatten ab, wenn sie jeweils einzeln eingeschaltet
     werden?
 
-..  
+..
     Wieviele Lampen mit je :math:`\unit[40]{W}` duerfen bei
     :math:`\unit[230]{V}` gleichzeitig brennen, wenn die Leitung mit
-    :math:`\unit[16]{A}` abgesichert ist? 
+    :math:`\unit[16]{A}` abgesichert ist?
 
 
 .. .. rubric:: Aufgaben zu :ref:`Reihen- und Parallelschaltung von Kondensatoren <Reihen- und Parallelschaltung von Kondensatoren>`
 
-..  
+..
     Welche Gesamt-Kapazitaet weisen die Schaltungen in der folgenden Abbildungen auf?
     Lindner-Aufgaben S.124
 
-..  
+..
     Zwei in Reihe geschaltene Kondensatoren mit den Kapazitaeten :math:`C
     _{\rm{1}} = \unit[1,5]{\mu F}` und :math:`C _{\rm{2}} = \unit[2,5]{\mu F}`
     werden an eine Spannung von :math:`\unit[24]{V}` angeschlossen. Auf welche
@@ -117,7 +117,7 @@ Parallelschaltungen <Reihen- und Parallelschaltungen>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Reihen- und Parallelschaltungen>`

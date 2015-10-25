@@ -10,7 +10,7 @@ der durch eine isolierende Kunststoffhülle ummantelt ist. In Leiterplatten
 Trägermaterial (meistens Glasfasern mit Epoxidharz).
 
 In Schaltplänen werden Leitungen durch gerade oder abgewinkelte
-Verbindungslinien dargestellt. 
+Verbindungslinien dargestellt.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-leitung.png
@@ -22,7 +22,7 @@ Verbindungslinien dargestellt.
     Schaltzeichen einer Leitung.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Leitung
         <../pics/bauteile/schaltzeichen-leitung.svg>`
 
@@ -34,7 +34,7 @@ Kreuzungen und Verbindungen
 
 Sind -- insbesondere bei komplexeren Schaltungen -- Leiterkreuzungen
 unvermeidbar, so wird im Normalfall angenommen, dass kein leitender Kontakt
-zwischen den sich kreuzenden Leitern besteht. 
+zwischen den sich kreuzenden Leitern besteht.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-leitung-kreuzung.png
@@ -46,7 +46,7 @@ zwischen den sich kreuzenden Leitern besteht.
     Schaltzeichen einer Leitungs-Kreuzung.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Leitungs-Kreuzung
         <../pics/bauteile/schaltzeichen-leitung-kreuzung.svg>`
 
@@ -63,7 +63,7 @@ explizit mit einem schwarzen Punkt gekennzeichnet.
     Schaltzeichen einer Leitungs-Verbindung.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Leitungs-Verbindung
         <../pics/bauteile/schaltzeichen-leitung-verbindung.svg>`
 
@@ -91,15 +91,15 @@ negativen Pol der Stromquelle.
     Schaltzeichen der Masse (GND).
 
     .. only:: html
-    
-        :download:`SVG: Schaltzeichen Masse 
+
+        :download:`SVG: Schaltzeichen Masse
         <../pics/bauteile/schaltzeichen-masse.svg>`
 
 In Schaltplänen sind oft sehr viele Leitungen mit der Masse verbunden. Um
 Leitungskreuzungen zu vermeiden, die Schaltpläne oftmals unübersichtlich
 erscheinen lassen, werden oftmals die Leitungen zum Masse-Anschluss
 "abgeschnitten" und stattdessen das Masse-Symbol eingezeichnet. Alle diese
-Punkte müssen in der realen Schaltung miteinander verbunden werden. 
+Punkte müssen in der realen Schaltung miteinander verbunden werden.
 
 
 .. _Feinsicherung:
@@ -122,13 +122,13 @@ Glashülle, der bei einer zu großen Stromstärke "durchschmilzt".
     Schaltzeichen einer Sicherung.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Sicherung
         <../pics/bauteile/schaltzeichen-sicherung.svg>`
 
 .. Schutzschalter, Sicherungsautomat..
 .. Kurzschluss; Geraeteschluss: Normalerweise isoliertes Metallisches Gehaeuse geraet unter Spannung.
- ..  
+ ..
      Schuko-Stecker; Aussen- und Nullleiter ueber Steckstifte mit Kontakten der
      Steckdose verbunden; Durch Aussenleiter fliesst Strom, Nullleiter ist
      geerdet. Zusaetzliche Sicherung: Dritter Leiter, gelb-gruener Schutzleiter,

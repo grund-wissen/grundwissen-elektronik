@@ -20,7 +20,7 @@ pumpt. Mit dieser Entdeckung gewann die Elektronik schnell an Bedeutung.
     Schaltzeichen einer Glühlampe.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Glühlampe
         <../pics/bauteile/schaltzeichen-gluehlampe.svg>`
 

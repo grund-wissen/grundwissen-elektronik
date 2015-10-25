@@ -17,7 +17,7 @@ Spannungsregler
 
 Spannungsregler liefern, wie ihr Name andeutet, stets eine bestimmte
 Gleichspannung; der Wert der Spannung kann bei unterschiedlichen Typen
-einstellbar oder vom Bauteil festgelegt sein. 
+einstellbar oder vom Bauteil festgelegt sein.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-spannungsregler.png
@@ -29,7 +29,7 @@ einstellbar oder vom Bauteil festgelegt sein.
     Schaltzeichen eines Spannungsreglers.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Spannungsregler
         <../pics/bauteile/schaltzeichen-spannungsregler.svg>`
 
@@ -37,7 +37,7 @@ Die Gehäuseform eines Spannungsreglers ähnelt der eines TO-220-Transistors. Am
 linken Anschluss wird der Spannungsregler mit der ``+``-Seite der Stromquelle
 :math:`(\rm{IN})` verbunden, am mittleren liegt die Masse :math:`(\rm{GND})` an.
 Am rechten Anschluss kann die vom Spannungsregler bereitgestellte konstante
-Ausgangsspannung :math:`(\rm{OUT})` abgegriffen werden. 
+Ausgangsspannung :math:`(\rm{OUT})` abgegriffen werden.
 
 ..  [#]_
 
@@ -49,7 +49,7 @@ Der NE555-Timer
 
 Der NE555-Timer ist seit seiner Erstentwicklung im Jahr 1970 einer der
 beliebtesten Integrierten Schaltkreise überhaupt. Er kann als einzelnes Bauteil
-beispielsweise als astabile oder monostabile Kippstufe verwendet werden. 
+beispielsweise als astabile oder monostabile Kippstufe verwendet werden.
 
 Der NE555 kann mit einer Spannungsquelle zwischen :math:`\unit[4,5]{V}` und
 :math:`\unit[15]{V}` betrieben werden; als Output liefert er ein digitales
@@ -66,7 +66,7 @@ mindestens :math:`\unit[2,5]{V}` "an" ist.
     Schaltzeichen des NE555-Timers.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen NE555
         <../pics/bauteile/schaltzeichen-ne555.svg>`
 

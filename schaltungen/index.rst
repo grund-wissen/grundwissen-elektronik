@@ -5,7 +5,7 @@ Elektronische Schaltungen
 
 Als Schaltplan wird eine schematische Zeichnung eines elektrischen Geräts oder
 Versuchaufbaus bezeichnet. In einem Schaltplan werden die einzelnen
-elektronischen Bauteile durch symbolische Schaltzeichen dargestellt. 
+elektronischen Bauteile durch symbolische Schaltzeichen dargestellt.
 
 .. der Strom nimmt stets den Weg des geringsten Widerstands!
 

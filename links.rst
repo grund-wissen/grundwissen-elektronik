@@ -6,9 +6,9 @@ Links
 Die folgenden Seiten bieten gute Einsteiger-Tutorials und/oder Pläne zum
 Nachbau eigener Schaltungen:
 
-* `Die Elektronikerseite <http://dieelektronikerseite.de/>`_ 
+* `Die Elektronikerseite <http://dieelektronikerseite.de/>`_
 * `Elektronik-Fibel <http://www.elektronik-kompendium.de/sites/grd/index.htm>`_
-* `Electronicsplanet <http://www.electronicsplanet.ch/indexes/ix_schal.html>`_ 
+* `Electronicsplanet <http://www.electronicsplanet.ch/indexes/ix_schal.html>`_
 * `Elektronikbasteln <https://sites.google.com/site/bastelnelektroelektrik/home>`_
 * `Elektronik-Ecke <http://pitts-electronics-home.de/electron/elececke.htm>`_
 * `Ferromel Elektronik <http://www.ferromel.de/>`_
@@ -16,8 +16,8 @@ Nachbau eigener Schaltungen:
 * `Elektroniktutor <http://www.elektroniktutor.de>`_
 * `Electronicsplanet <http://www.electronicsplanet.ch/indexes/ix_schal.html>`_
 * `JugendTechnikSchule <http://jugendtechnikschule.de/front_content.php?idcat=387>`_
-  
-..  
+
+..
     * `Bauanleitung Mendocino-Motor <http://mendocinomotor.de/Bauanleitung/1,000000869441,8,1>`_
 
 .. rubric:: Datenblätter
@@ -37,7 +37,7 @@ Erfahrungen habe ich bislang mit folgenden beiden Programmen gemacht:
   Schaltplan bzw. ein passendes Platinen-Layout zu erhalten. Für letzteres gibt
   es eine optimierende "Auto-Routing"-Funktion, die fertig entwickelbare
   Platinen-Layouts liefert (ähnlich wie das bekannte Freeware-Programm `Eagle
-  <http://www.cadsoft.de/?language=de>`_) . 
+  <http://www.cadsoft.de/?language=de>`_) .
 
 * `LTSpice <http://www.linear.com/designtools/software/#LTspice>`_: Dieses
   Programm ist zwar nicht Open Source, aber immerhin als Freeware frei nutzbar;
@@ -52,7 +52,7 @@ Erfahrungen habe ich bislang mit folgenden beiden Programmen gemacht:
   <https://de.wikipedia.org/wiki/Qucs>`_. Eine kostenlose Webbrowser-Applikation
   gibt es unter http://www.partsim.com/.
 
-.. Qucs 
+.. Qucs
 .. http://www.gnu-darwin.org/www001/src/ports/cad/qucs/work/qucs-0.0.12/qucs-help/docs/de/
 
 .. rubric:: Arduino
@@ -60,7 +60,7 @@ Erfahrungen habe ich bislang mit folgenden beiden Programmen gemacht:
 * `Arduino-Projekte von Alexander Hinkel <http://arduino-projekte.de/>`_
 * `Deskfactory: Arduino-Projekte von Robert Jänisch <http://deskfactory.de>`_
 
-..  
+..
     * `Learning Arduino Episode 1 (en.) <https://www.youtube.com/watch?v=9E779EfPLI4&feature=relmfu>`_
     * `Learning Arduino Episode 2 (en.) <https://www.youtube.com/watch?v=xKwox3dd-dE&feature=relmfu>`_
     * `Learning Arduino Episode 3 (en.) <https://www.youtube.com/watch?v=XQ_hDEoX5w8&feature=relmfu>`_

@@ -6,7 +6,7 @@ Gleich- und Wechselrichter
 An haushaltsüblichen Steckdosen liegt eine Wechselspannung mit einer effektiven
 Spannung von :math:`U _{\rm{eff}} = \unit[230]{V}` an. Diese Spannung kann mit
 eingebauten oder externen Transformatoren ("Netzteilen") leicht auf den
-gewünschten Spannungswert angepasst werden. 
+gewünschten Spannungswert angepasst werden.
 
 Viele elektronische Bauteile (beispielsweise Elektrolytkondensatoren, LEDs bzw.
 Dioden und Transistoren) sind jedoch nicht auf den Betrieb mit Wechselspannung
@@ -34,7 +34,7 @@ inzwischen werden fast ausschließlich Halbleiter-Dioden verwendet.
 
 Die folgenden Schaltungen setzen zum sicheren Experimentieren eine
 Wechselspannung von ungefähr :math:`\unit[9]{V} < U _{\rm{eff}} < \unit[12]{V}`
-voraus, wie sie von Labornetzteilen bereitgestellt wird. [#]_ 
+voraus, wie sie von Labornetzteilen bereitgestellt wird. [#]_
 
 
 Der Einweg-Gleichrichter
@@ -53,7 +53,7 @@ realisieren:
     Schaltplan eines Einweg-Gleichrichters.
 
     .. only:: html
-    
+
         :download:`SVG: Einweg-Gleichrichter
         <../pics/schaltungen/gleichrichter-einweg.svg>`
 
@@ -64,7 +64,7 @@ Die Schaltung funktioniert folgendermaßen:
   fließt Strom durch den Lastwiderstand.
 * Liegt am unteren Pol der Wechselspannungsquelle eine positive Spannung an, so
   sperrt die Diode. Der Kondensator entlädt sich und hält so den Stromfluss
-  durch den Lastwiderstand kurzzeitig aufrecht. 
+  durch den Lastwiderstand kurzzeitig aufrecht.
 
 .. figure::
     ../pics/schaltungen/gleichrichter-einweg-funktionsweise.png
@@ -77,11 +77,11 @@ Die Schaltung funktioniert folgendermaßen:
     Stromquelle.
 
     .. only:: html
-    
+
         :download:`SVG: Einweg-Gleichrichter (Funktionsweise)
         <../pics/schaltungen/gleichrichter-einweg-funktionsweise.svg>`
 
-  
+
 Ist der Lastwiderstand sehr groß, so kann nur eine sehr geringe Stromstärke
 auftreten. Der Kondensator entlädt sich folglich nur langsam und kann die
 Nennspannung bis zum nächsten Umpolen (weitgehend) aufrecht erhalten. In der
@@ -98,7 +98,7 @@ Der Zweiweg-Gleichrichter
 Durch den Einsatz von vier Dioden lassen sich -- anders als beim
 Einweg-Gleichrichter -- beide Polungen der Stromquelle, d.h. beide Halbbögen
 der sinusförmigen Wechselspannung nutzen. Der grundlegende Schaltplan sieht
-folgendermaßen aus: 
+folgendermaßen aus:
 
 .. figure::
     ../pics/schaltungen/gleichrichter-zweiweg.png
@@ -110,7 +110,7 @@ folgendermaßen aus:
     Schaltplan eines Zweiweg-Gleichrichters.
 
     .. only:: html
-    
+
         :download:`SVG: Zweiweg-Gleichrichter
         <../pics/schaltungen/gleichrichter-zweiweg.svg>`
 
@@ -139,19 +139,19 @@ Die Schaltung funktioniert folgendermaßen:
     Stromquelle.
 
     .. only:: html
-    
+
         :download:`SVG: Zweiweg-Gleichrichter (Funktionsweise)
         <../pics/schaltungen/gleichrichter-zweiweg-funktionsweise.svg>`
 
 Als Ausgangsspannung entsteht eine pulsierende Gleichspannung, die wie beim
-Einweg-Gleichrichter durch den Kondensator mehr oder weniger geglättet wird. 
+Einweg-Gleichrichter durch den Kondensator mehr oder weniger geglättet wird.
 
 Zweiweg-Gleichrichter werden oftmals in Netzteilen für elektronische Kleingeräte
 eingesetzt. Die besondere Anordnung der vier Dioden, auch "Grätz-Schaltung"
 genannt, gibt es auch als fertiges Bauelement ("Brückengleichrichter") zu
-kaufen. 
+kaufen.
 
-.. todo:: 
+.. todo::
 
     Pic Brueckengleichrichter
 
@@ -180,7 +180,7 @@ Wechselspannung entspricht hierbei der Schaltfrequenz des Polwechslers.
 
 .. [#]  Niemals mit Netzstrom aus der Steckdose experimenteren, das ist lebensgefährlich!
 
-.. todo:: 
+.. todo::
 
     spannungswandler http://de.wikipedia.org/wiki/DC-DC-Wandler
     pulsweitenmodulation http://de.wikipedia.org/wiki/Pulsweitenmodulation

@@ -1,4 +1,4 @@
-.. index:: 
+.. index::
     single: Transistor
 .. _Transistor:
 
@@ -6,19 +6,19 @@ Transistoren
 ============
 
 Transistoren sind Halbleiter-Bauteile, die als Schalter, Regler und Verstärker
-vielerlei Anwendung finden. 
+vielerlei Anwendung finden.
 
 Ein Transistor (Kurzwort für "transfer resistor") kann, je nach Schaltungsart,
 tatsächlich wie ein elektrisch regelbarer Widerstand eingesetzt werden.
 Grundsätzlich ähnelt ein Transistor allerdings vielmehr einer :ref:`Röhrentriode
-<Röhrentriode>`, weshalb er auch als "Halbleiter-Triode" bezeichnet wird. 
+<Röhrentriode>`, weshalb er auch als "Halbleiter-Triode" bezeichnet wird.
 
 Im Elektronik-Selbstbau werden meist so genannte "bipolare" Transistoren
 eingesetzt. Diese bestehen aus drei Halbleiterschichten, wobei je nach
 Reihenfolge der Dotierungen zwischen :math:`npn`- und :math:`pnp`-Transistoren
 unterschieden wird. Die drei an den Halbleiterschichten angebrachten Anschlüsse
 eines bipolaren Transistors werden Kollektor :math:`\rm{C}`, Basis :math:`\rm{B}` und
-Emitter :math:`\rm{E}` genannt. [#]_ 
+Emitter :math:`\rm{E}` genannt. [#]_
 
 
 .. figure::
@@ -32,7 +32,7 @@ Emitter :math:`\rm{E}` genannt. [#]_
     :math:`\rm{C}` und :math:`\rm{E}` vertauscht.
 
     .. only:: html
-    
+
         :download:`SVG: Bauformen von npn-Transistoren
         <../pics/bauteile/bauform-transistor-npn.svg>`
 
@@ -68,7 +68,7 @@ metallischen Anschluss-Kontakten verbunden.
     Innerer Aufbau eines :math:`npn`-Transistors.
 
     .. only:: html
-    
+
         :download:`SVG: Aufbau npn-Transistor
         <../pics/bauteile/aufbau-transistor-npn.svg>`
 
@@ -78,10 +78,10 @@ Gewöhnlich verläuft der zu steuernde Hauptstrom zwischen dem Kollektor
 Transistors wird dabei durch die Stromstärke bestimmt, die durch die Basis
 :math:`\rm{B}` fließt: [#]_
 
-* Fließt durch die Basis :math:`\rm{B}` kein Strom, so ist die 
+* Fließt durch die Basis :math:`\rm{B}` kein Strom, so ist die
   Kollektor-Emitter-Strecke :math:`\rm{CE}` des Transistors gesperrt. In seiner
   Wirkung entspricht er dabei einem unendlich großen Widerstand bzw. einem
-  geöffneten Schalter. 
+  geöffneten Schalter.
 
 * Fließt ein schwacher Strom durch die Basis :math:`\rm{B}`, so wird die
   Kollektor-Emitter-Strecke :math:`\rm{CE}` leitfähig. Je nach Art der
@@ -100,7 +100,7 @@ Transistors wird dabei durch die Stromstärke bestimmt, die durch die Basis
     Schaltzeichen eines :math:`npn`-Transistors.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen npn-Transistor
         <../pics/bauteile/schaltzeichen-transistor-npn.svg>`
 
@@ -123,7 +123,7 @@ derartiger Basis-Spannungen vielmehr wie ein Schalter.
 
 ..  Noch höhere Basis-Spannungen werden folglich nicht weiter verstärkt, sondern
 ..  vielmehr obertonreich "abgeschnitten", z.B. wenn eine Mikrofon-Aufnahme
-..  "übersteuert" wird. 
+..  "übersteuert" wird.
 
 .. Verstärker-Röhren haben einen weicheren Übergang in den
 ..  Sättigungsbereich, was zu Verzerrungen mit weniger Obertönen führt.
@@ -135,7 +135,7 @@ pnp-Transistoren
 
 Ein :math:`pnp`-Transistor besteht ebenfalls aus drei aufeinander folgenden
 Halbleiter-Schichten, wobei die beiden äußeren eine positive und die mittlere
-Schicht eine negative Dotierung aufweisen. 
+Schicht eine negative Dotierung aufweisen.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-transistor-pnp.png
@@ -147,7 +147,7 @@ Schicht eine negative Dotierung aufweisen.
     Schaltzeichen eines :math:`pnp`-Transistors.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen pnp-Transistor
         <../pics/bauteile/schaltzeichen-transistor-pnp.svg>`
 
@@ -159,10 +159,10 @@ Basis hin zeigt.
 
 Hierzu gibt es folgende Merksprüche:
 
-* :math:`npn`-Transistor: 
-    | "NPN means 'Not Pointing iN'", oder  
+* :math:`npn`-Transistor:
+    | "NPN means 'Not Pointing iN'", oder
     | "Naus, Pfeil 'naus!"
-* :math:`pnp`-Transistor: 
+* :math:`pnp`-Transistor:
     | "PNP heißt 'Pfeil Nach Platte'", oder
     | "Tut der Pfeil der Basis weh, handelt sich's um PNP"
 

@@ -11,7 +11,7 @@ Gesetzmäßigkeiten, die als Maschen- und Knotenregel oder nach ihrem Entdecker
 Regeln bekannt sind.
 
 
-.. index:: 
+.. index::
     single: Kirchhoffsche Regeln; Knotenregel
 .. _Die Knotenregel:
 
@@ -27,8 +27,8 @@ muss. Somit muss auch die Summe der zufließenden Stromstärken :math:`I _{\rm{i
 Stromstärken :math:`I _{\rm{out, 1}},\; I _{\rm{out, 2}},\; \ldots` sein.
 
 .. math::
-    
-    I _{\rm{in, 1}} + I _{\rm{in, 2}} + I _{\rm{in, 3}} + \ldots = 
+
+    I _{\rm{in, 1}} + I _{\rm{in, 2}} + I _{\rm{in, 3}} + \ldots =
     I _{\rm{out, 1}} + I _{\rm{out, 2}} + I _{\rm{out, 3}} + \ldots
 
 Zählt man die Werte der zufließenden Stromstärke(n) :math:`I _{\rm{in}}` als
@@ -39,7 +39,7 @@ als negativ, so lässt sich die obige Gleichung mit dem Summenzeichen
 .. math::
     :label: eqn-knotenregel
 
-    \sum_{}^{} I = 0 
+    \sum_{}^{} I = 0
 
 Sämtliche Ströme eines Knoten müssen in der Summe stets null ergeben.
 
@@ -53,12 +53,12 @@ Sämtliche Ströme eines Knoten müssen in der Summe stets null ergeben.
     Die Knotenregel ("1. Kirchhoffsche Regel").
 
     .. only:: html
-    
+
         :download:`SVG: Knotenregel
         <../pics/schaltungen/knotenregel.svg>`
 
 
-.. index:: 
+.. index::
     single: Kirchhoffsche Regeln; Maschenregel
 .. _Die Maschenregel:
 
@@ -70,11 +70,11 @@ Als Masche wird eine geschlossene Aneinanderreihung von Bauteilen bezeichnet.
 Die Spannungswerte der Stromquellen :math:`U _{\rm{\uparrow \, 1}},\; U
 _{\rm{\uparrow \, 2}},\; \ldots` müssen in der Summe gleich der Summe der
 einzelnen an den Verbrauchern anliegenden Spannungen :math:`U _{\rm{\downarrow \,
-1}},\; U _{\rm{\downarrow \, 2}},\; \ldots` sein. 
+1}},\; U _{\rm{\downarrow \, 2}},\; \ldots` sein.
 
 .. math::
-    
-    U _{\rm{\uparrow \, 1}} + U _{\rm{\uparrow \, 2}} + U _{\rm{\uparrow \, 3}} + \ldots = 
+
+    U _{\rm{\uparrow \, 1}} + U _{\rm{\uparrow \, 2}} + U _{\rm{\uparrow \, 3}} + \ldots =
     U _{\rm{\downarrow \, 1}} + U _{\rm{\downarrow \, 2}} + U _{\rm{\downarrow \, 3}} + \ldots
 
 Zählt man wiederum die Spannungswerte der Stromquellen :math:`U _{\rm{\uparrow
@@ -84,8 +84,8 @@ Zählt man wiederum die Spannungswerte der Stromquellen :math:`U _{\rm{\uparrow
 
 .. math::
     :label: eqn-maschenregel
-    
-    \sum_{}^{} U = 0 
+
+    \sum_{}^{} U = 0
 
 Sämtliche Spannungen innerhalb einer Masche müssen in der Summe stets null ergeben.
 
@@ -99,7 +99,7 @@ Sämtliche Spannungen innerhalb einer Masche müssen in der Summe stets null erg
     Die Maschenregel ("2. Kirchhoffsche Regel").
 
     .. only:: html
-    
+
         :download:`SVG: Maschenregel
         <../pics/schaltungen/maschenregel.svg>`
 

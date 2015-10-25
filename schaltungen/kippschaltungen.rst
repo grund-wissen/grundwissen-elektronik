@@ -4,7 +4,7 @@
 Kipp-Schaltungen
 ================
 
-.. index:: 
+.. index::
     single: Kippschaltung; bistabil
 .. _Die bistabile Kippschaltung:
 
@@ -25,7 +25,7 @@ werden kann.
     Schema einer bistabilen Kippschaltung.
 
     .. only:: html
-    
+
         :download:`SVG: Bistabile Kippschaltung
         <../pics/schaltungen/kippschaltung-bistabil.svg>`
 
@@ -72,7 +72,7 @@ den konkreten Bauteil-Eigenschaften ab.
     Funktionsweise einer bistabilen Kippschaltung.
 
     .. only:: html
-    
+
         :download:`SVG: Bistabile Kippschaltung (Funktionsweise)
         <../pics/schaltungen/kippschaltung-bistabil-funktionsweise.svg>`
 
@@ -93,7 +93,7 @@ bistabile Kippschaltungen zum Einsatz; anstelle der mechanischen Schalter werden
 hierbei stets elektrische Signale zum Schalten genutzt.
 
 
-.. index:: 
+.. index::
     single: Kippschaltung; astabil
 .. _Die astabile Kippschaltung:
 
@@ -101,7 +101,7 @@ Die astabile Kippschaltung
 --------------------------
 
 Eine astabile Kipp-Schaltung (auch "Multivibrator" genannt) hat keinen stabilen
-Zustand; sie kippt zwischen zwei Zuständen ständig hin und her. 
+Zustand; sie kippt zwischen zwei Zuständen ständig hin und her.
 
 .. figure::
     ../pics/schaltungen/kippschaltung-astabil.png
@@ -113,7 +113,7 @@ Zustand; sie kippt zwischen zwei Zuständen ständig hin und her.
     Schema einer astabilen Kippschaltung.
 
     .. only:: html
-    
+
         :download:`SVG: Astabile Kippschaltung
         <../pics/schaltungen/kippschaltung-astabil.svg>`
 
@@ -138,9 +138,9 @@ Welcher der beiden Transistoren :math:`T _{\rm{1}}` und :math:`T _{\rm{2}}`
 durch die Basis-Ströme als erster schaltet, kann beim Aufbau der Schaltung
 zunächst nicht vorhergesagt werden -- da die Schaltung aus zwei baugleichen
 Hälften besteht, entscheiden kleine Abweichungen der Bauteile von ihren
-Sollwerten darüber, auf welcher Seite der Einschaltvorgang schneller verläuft. 
+Sollwerten darüber, auf welcher Seite der Einschaltvorgang schneller verläuft.
 
-..  
+..
     todo:
     Fussnote: Abänderung der Schaltung, um ersten Schaltvorgang vorhersagbar zu
     machen..
@@ -153,8 +153,8 @@ Sollwerten darüber, auf welcher Seite der Einschaltvorgang schneller verläuft.
   Kondensators nach, wodurch diese sich negativ auflädt. Da die (nun) negativ
   geladene Kondensatorfläche direkt mit der Basis des Transistors :math:`T
   _{\rm{2}}` verbunden ist, fehlt auch diesem plötzlich die zum Durchschalten
-  notwendige positive Spannung an seiner Basis -- er sperrt. 
-  
+  notwendige positive Spannung an seiner Basis -- er sperrt.
+
   Die negative Ladung des Kondensators wird durch den schwachen Stromfluss über
   den großen Widerstand :math:`R _{\rm{2}}` nur langsam ausgeglichen. Wenn der
   Kondensator :math:`C _{\rm{1}}` vollständig entladen ist, fließt der Strom
@@ -181,7 +181,7 @@ Sollwerten darüber, auf welcher Seite der Einschaltvorgang schneller verläuft.
     Stromfluss in einer astabilen Kippschaltung.
 
     .. only:: html
-    
+
         :download:`SVG: Astabile Kippschaltung (Funktionsweise)
         <../pics/schaltungen/kippschaltung-astabil-funktionsweise.svg>`
 
@@ -192,13 +192,13 @@ Schaltungszuständen erfolgt, hängt von der Kapazität der beiden Kondensatoren
 großen Ladewiderständen erfolgt der Blinker-Wechsel nur langsam
 ("Baulicht-Schaltung"); bei kleinen Kapazitäten und geringen Ladewiderständen
 kann die Frequenz durchaus auch einige :math:`\unit[]{kHz}` oder sogar
-:math:`\unit[]{MHz}` betragen. 
+:math:`\unit[]{MHz}` betragen.
 
 Da die Ströme, die durch die LEDs :math:`D _{\rm{1}}` bzw. :math:`D _{\rm{2}}`
 fließen, auch anderweitig abgegriffen werden können, eignen sich astabile
 Kippschaltungen u.a. als Taktgeber und Ton- bzw. Signalgeneratoren.
 
-.. index:: 
+.. index::
     single: Kippschaltung; monostabil
 .. _Die monostabile Kippschaltung:
 
@@ -223,7 +223,7 @@ aufgebaut.
     Prinzip einer monostabilen Kippschaltung.
 
     .. only:: html
-    
+
         :download:`SVG: Monostabile Kippschaltung
         <../pics/schaltungen/kippschaltung-monostabil.svg>`
 
@@ -245,7 +245,7 @@ _{\rm{2}}` leuchtet auf.
   einerseits die Leuchtdiode :math:`D _{\rm{1}}` auf, andererseits wird die
   ``+``-Seite des Kondensators :math:`C _{\rm{1}}` schlagartig entladen; die
   negative Ladung seiner gegenüberliegenden Seite wird nur langsam durch den
-  schwachen Strom über :math:`R _{\rm{2}}` ausgeglichen. 
+  schwachen Strom über :math:`R _{\rm{2}}` ausgeglichen.
 
 * Solange der Kondensator über :math:`R _{\rm{2}}` entladen wird, sperrt der
   Transistor :math:`T _{\rm{2}}` -- auch wenn der Schalter :math:`S _{\rm{1}}`
@@ -263,7 +263,7 @@ _{\rm{2}}` leuchtet auf.
     Funktionsweise einer monostabilen Kippschaltung.
 
     .. only:: html
-    
+
         :download:`SVG: Monostabile Kippschaltung (Funktionsweise)
         <../pics/schaltungen/kippschaltung-monostabil-funktionsweise.svg>`
 

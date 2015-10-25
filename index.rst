@@ -10,12 +10,15 @@ Elektronik
     Das Wort "Elektronik" setzt sich zusammen aus den Worten "Elektrizität" und
     "Technik". Kurz gesagt geht es in der Elektronik somit um technische
     Anwendungen von Erkenntnissen aus der :ref:`Elektrizitätslehre
-    <gwp:Elektrizität und Magnetismus>`. 
+    <gwp:Elektrizität und Magnetismus>`.
 
     .. sidebar:: Hinweis
 
         Eine Druckversion dieser Seite ist als :download:`PDF-Dokument
         <grundwissen-elektronik.pdf>` verfügbar.
+
+        Der Quellcode zu diesem Projekt kann von `GitHub
+        <https://www.github.com/grund-wissen/grundwissen-elektronik>`_ heruntergeladen werden.
 
 .. toctree::
     :maxdepth: 2

@@ -35,14 +35,14 @@ geschlossen, so wird dem Hauptstromkreis die nötige Betriebsspannung entzogen.
     Schema einer NICHT-Schaltung mit einem mechanischen Schalter.
 
     .. only:: html
-    
+
         :download:`SVG: NICHT-Schaltung (mechanisch)
         <../pics/schaltungen/logikgatter-nicht-mechanisch.svg>`
 
 Durch eine Parallelschaltung wird somit die gewöhnliche Funktion des Schalters
 umgekehrt ("invertiert"). Als Alternative kann ebenso ein Taster bzw. Schalter
 (in Reihe) eingebaut werden, der im Ausgangszustand geschlossen ist und bei
-Betätigung den Stromkreis unterbricht. 
+Betätigung den Stromkreis unterbricht.
 
 
 .. _UND-Schaltung:
@@ -64,7 +64,7 @@ fließen, wenn *beide* Schalter gleichzeitig geschlossen sind.
     Schema einer UND-Schaltung mit zwei mechanischen Schaltern.
 
     .. only:: html
-    
+
         :download:`SVG: UND-Schaltung (mechanisch)
         <../pics/schaltungen/logikgatter-und-mechanisch.svg>`
 
@@ -92,7 +92,7 @@ beide zugleich geschlossen sind.
     Schema einer ODER-Schaltung mit zwei mechanischen Schaltern.
 
     .. only:: html
-    
+
         :download:`SVG: ODER-Schaltung (mechanisch)
         <../pics/schaltungen/logikgatter-oder-mechanisch.svg>`
 
@@ -113,7 +113,7 @@ geschlossen -- die LED im :ref:`Schema einer ODER-Schaltung
     Schema einer ODER-Schaltung mit zwei Transistoren
 
     .. only:: html
-    
+
         :download:`SVG: ODER-Schaltung
         <../pics/schaltungen/logikgatter-oder.svg>`
 
@@ -139,7 +139,7 @@ geschlossen oder geöffnet, kann kein Strom fließen.
     Schema einer XODER-Schaltung mit zwei mechanischen Wechselschaltern.
 
     .. only:: html
-    
+
         :download:`SVG: XODER-Schema (mechanisch)
         <../pics/schaltungen/logikgatter-xoder-mechanisch.svg>`
 

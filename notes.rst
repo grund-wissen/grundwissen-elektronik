@@ -1,6 +1,6 @@
 Die Bausteine in denen sich die Einchipcomputer befinden sind unscheinbar.
 Aufgrund der hohen Integrationsdichte befindet sich dennoch ein vollständiger
-Computer mit Prozessor, RAM, ROM und Schnittstellen auf dem Baustein. 
+Computer mit Prozessor, RAM, ROM und Schnittstellen auf dem Baustein.
 
 Ein Mikrocomputer besteht aus einer zentralen Prozess-Einheit CPU. Diese CPU ist
 über ein Bussystem (das sind Leitungen z.B. 8 parallele Leitungen bei 8 Bit) mit
@@ -29,7 +29,7 @@ Um Daten zu transportieren, ist der DATENBUS verantwortlich.
 Um der CPU mitteilen zu können, wo welche Daten gespeichert oder über die Ports
 ausgegeben oder eingelesen werden sollen, wird der ADRESSBUS verwendet. Die CPU
 bereitet diese Adressen in einem Doppelregister, dem Programm Counter (PC) vor.
-Im PC steht immer die Adresse, die als nächstes ausgegeben wird. 
+Im PC steht immer die Adresse, die als nächstes ausgegeben wird.
 
 
 Der Grundaufbau eines jeden Computers besteht also mindestens, aus einer CPU und
@@ -38,7 +38,7 @@ die Spannung ausgeschaltet wurde. Dieser ROM-Speicher enthält ein Programm, das
 nach dem Einschalten der Spannungsversorgung dafür sorgt, daß die CPU arbeiten
 kann, bis weitere Programme von einem Massenspeicher nachgeladen wurden. Bei
 PC's ist das der BIOS-ROM auf dem Mainboard und der Massenspeicher ist die
-Festplatte. 
+Festplatte.
 
 ATtiny
     Wie der Name schon verrät, ist diese Serie sehr klein und preislich
@@ -64,7 +64,7 @@ http://www.umnicom.de/Elektronik/Sonstiges/Messtechnik/tmKap2/tmKap212/tmKap212.
 Arduino
 =======
 
-Unbedingt anschauen: 
+Unbedingt anschauen:
 EasyDriver Schrittmotor Treiber (Allegro A3967 IC)
 http://arduino.alhin.de/index.php?n=44
 

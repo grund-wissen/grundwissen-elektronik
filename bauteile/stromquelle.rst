@@ -26,13 +26,13 @@ funktionieren, haben Gleichstromquellen eine besondere Bedeutung.
     Schaltzeichen einer Stromquelle mit Gleichspannung.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Stromquelle (Gleichspannung)
         <../pics/bauteile/schaltzeichen-stromquelle-gleichspannung.svg>`
 
 Am Minuspol einer Stromquelle besteht ein Elektronenüberschuss, am Pluspol ein
 Elektronenmangel. Beide Zustände werden durch Vorgänge im Inneren der
-Stromquelle erzeugt bzw. aufrecht erhalten. 
+Stromquelle erzeugt bzw. aufrecht erhalten.
 
 
 .. _Batterien:
@@ -66,7 +66,7 @@ freigegeben.
 ..  - Nickel-Cadmium-Akkumulator
 
 * Blei-Akkumulator:
-    
+
     Im ungeladenen Zustand bestehen die Platten aus Bleisulfat
     :math:`(\ce{PbSO4})`. Beim Aufladen reagiert die positive Elektrode zu
     Bleioxid :math:`(\ce{PbO2})` und die negative Elektrode zu Blei
@@ -124,7 +124,7 @@ eine Spannungsanpassung -- über (Hoch-)Spannungsleitungen an die jeweiligen Ort
     Schaltzeichen einer Stromquelle mit Wechselspannung.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Stromquelle (Wechselspannung)
         <../pics/bauteile/schaltzeichen-stromquelle-wechselspannung.svg>`
 
@@ -136,7 +136,7 @@ Stromnetzes :math:`(230 V)` mittels eines Transformators einfach auf eine
 geringere Spannung eingestellt werden. Je nach Bauweise können sich
 Transformatoren entweder direkt in den Geräten befinden (z.B. in Fernsehgeräten,
 Radios usw.), oder in Form von separaten Netzteilen vorliegen (z.B. bei
-Notebooks). 
+Notebooks).
 
 Auch für Elektronik-Versuche mit Wechselspannung sollte stets ein geeignetes
 Wechselspannungs-Netzteil ("AC" bzw. "Alternating Current") verwendet werden.

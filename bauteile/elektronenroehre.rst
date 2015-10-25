@@ -27,7 +27,7 @@ der Stromquelle verbunden war -- lag eine negative Spannung an der Platte an, so
 floss kein Strom. Edison bezeichnete die positiv geladene Metallplatte später
 als Anode.
 
-Ohne es zu ahnen, hatte Edison damit die erste Röhrendiode entwickelt. 
+Ohne es zu ahnen, hatte Edison damit die erste Röhrendiode entwickelt.
 
 .. _Röhrendiode:
 
@@ -36,7 +36,7 @@ Elektronenröhren-Dioden
 
 Eine Röhrendiode (*di* = griech. zwei) besteht aus einem vakuumierten
 Glaskolben, in den zwei metallische Elektroden -- eine Kathode und eine Anode --
-eingebaut sind.   
+eingebaut sind.
 
 
 .. figure::
@@ -49,7 +49,7 @@ eingebaut sind.
     Schaltzeichen einer Röhrendiode.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Röhrendiode
         <../pics/bauteile/schaltzeichen-roehrendiode.svg>`
 
@@ -60,7 +60,7 @@ auch Elektronen den Draht und umgeben ihn in Form einer winzigen "Ladungswolke".
 Beim Herauslösen der Elektronen bleiben in der Kathode positiv geladene
 Atomrümpfe zurück. Diese üben eine elektrische Anziehungskraft auf die
 ausgetretenen Elektronen aus, so dass sich ein Gleichgewicht zwischen der
-thermischen Bewegung und der elektrischen Anziehung einstellt. 
+thermischen Bewegung und der elektrischen Anziehung einstellt.
 
 .. pic Elektronenroehre PK89
 
@@ -101,7 +101,7 @@ metallischer Draht in Zickzack-Form ("Gitter") als dritte Elektrode befindet.
     Schaltzeichen einer Röhrentriode.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Röhrentriode
         <../pics/bauteile/schaltzeichen-roehrentriode.svg>`
 
@@ -110,7 +110,7 @@ metallischer Draht in Zickzack-Form ("Gitter") als dritte Elektrode befindet.
 
 Über die am Gitter :math:`\rm{G}` anliegende Spannung ist es auf einfache Weise
 möglich, die Stärke des durch die Elektronenröhre fließenden Stromes zu
-bestimmen: 
+bestimmen:
 
 * Liegt keine Spannung am Gitter an, so können die Elektronen es (nahezu)
   ungehindert durchdringen. Der Strom in der Elektronenröhre entspricht in
@@ -130,7 +130,7 @@ werden können. [#]_
 Die Signal verstärkende Wirkung von Röhrentrioden bildete die Grundlage für die
 Rundfunk- und Fernseh-Technik des 20. Jahrhunderts. Inzwischen wurden sie
 insbesondere aufgrund des vergleichsweise hohen Platzbedarfs und der hohen
-Herstellungskosten bis auf wenige Spezialfälle durch Transistoren ersetzt. 
+Herstellungskosten bis auf wenige Spezialfälle durch Transistoren ersetzt.
 
 .. raw:: html
 
@@ -149,6 +149,6 @@ Herstellungskosten bis auf wenige Spezialfälle durch Transistoren ersetzt.
         zum Gitter der zweiten Triode weitergeleitet und dienen dort als
         Reglersignal.
 
-..  
+..
     Braunsche Roehre PK104; Elektronenstrahl, der auf Leuchtschicht eines
-    Leuchtschirms trifft. 
+    Leuchtschirms trifft.

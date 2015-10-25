@@ -18,19 +18,19 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Widerstände
 * Der Widerstand in Abbildung :ref:`Farbringe-Beispiel 01
   <fig-widerstand-farbringe-01>` hat vier Farbringe mit folgenden Farben
   aufgedruckt: Braun, schwarz, gelb, und goldfarben. Welchen Widerstandswert und
-  welche Toleranz besitzt der Widerstand? 
-  
+  welche Toleranz besitzt der Widerstand?
+
   .. figure::
       ../pics/bauteile/widerstand-farbringe-01.png
       :name: fig-widerstand-farbringe-01
       :alt:  fig-widerstand-farbringe-01
       :align: center
       :width: 30%
-  
+
       Farbringe-Beispiel 01.
-  
+
       .. only:: html
-      
+
           :download:`SVG: Farbringe-Beispiel 01
           <../pics/bauteile/widerstand-farbringe-01.svg>`
 
@@ -42,7 +42,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Widerstände
 
 * Welchen Widerstandswert besitzt der Widerstand in Abbildung
   :ref:`Farbringe-Beispiel 02 <fig-widerstand-farbringe-02>`? Die Farbringe
-  haben die Farben rot, rot, orange und goldfarben. 
+  haben die Farben rot, rot, orange und goldfarben.
 
   .. figure::
       ../pics/bauteile/widerstand-farbringe-02.png
@@ -50,11 +50,11 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Widerstände
       :alt:  fig-widerstand-farbringe-02
       :align: center
       :width: 30%
-  
+
       Farbringe-Beispiel 02.
-  
+
       .. only:: html
-      
+
           :download:`SVG: Farbringe-Beispiel 02
           <../pics/bauteile/widerstand-farbringe-02.svg>`
 
@@ -76,7 +76,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Widerstände
 
 * Welchen Widerstandswert und welche Toleranz hat der Widerstand in Abbildung
   :ref:`Farbringe-Beispiel 03 <fig-widerstand-farbringe-03>`? Die Farbringe
-  haben die Farben braun, grün, schwarz, orange und violett. 
+  haben die Farben braun, grün, schwarz, orange und violett.
 
   .. figure::
       ../pics/bauteile/widerstand-farbringe-03.png
@@ -84,11 +84,11 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Widerstände
       :alt:  fig-widerstand-farbringe-03
       :align: center
       :width: 30%
-  
+
       Farbringe-Beispiel 03.
-  
+
       .. only:: html
-      
+
           :download:`SVG: Farbringe-Beispiel 03
           <../pics/bauteile/widerstand-farbringe-03.svg>`
 
@@ -121,7 +121,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Transformatoren
 
 *   Ein Transformator hat zwei Spulen mit unterschiedlicher Windungsanzahl
     :math:`(n _{\rm{1}} \ne n _{\rm{2}})`. An welcher Seite liegt stets die
-    höhere Spannung bzw. niedrigere Spannung an? 
+    höhere Spannung bzw. niedrigere Spannung an?
 
     :ref:`Lösung <Transformator-02-Lösung>`
 
@@ -132,11 +132,11 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Transformatoren
 *   In der Primärspule (Windungszahl :math:`n _{\rm{1}} = 300`) eines idealen
     Transformators fließt eine Stromstärke von :math:`I _{\rm{1}}  =
     \unit[2]{A}`. Wie hoch ist die Stromstärke in der Sekundärspule, wenn diese
-    :math:`n _{\rm{2}} = 1200` Windungen besitzt? 
-    
+    :math:`n _{\rm{2}} = 1200` Windungen besitzt?
+
     :ref:`Lösung <Transformator-03-Lösung>`
 
-..  
+..
     Welche Ladung hat ein auf :math:`\unit[9]{V}` aufgeladener Kondensator mit
     einer Kapazitaet von :math:`\unit[100]{\mu F}`?
 
@@ -148,7 +148,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Transformatoren
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Elektronische Bauteile>`

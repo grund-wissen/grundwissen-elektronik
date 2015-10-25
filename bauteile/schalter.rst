@@ -1,7 +1,7 @@
 .. index:: Schalter
 .. _Schalter:
 
-Schalter 
+Schalter
 ========
 
 Ein Schalter ist ein elektronisches Bauteil, mit dessen Hilfe eine leitende
@@ -30,7 +30,7 @@ einen Stromkreis im "Aus"-Zustand unterbricht und im "Ein"-Zustand schließt.
     Schaltzeichen eines Schalters.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Schalter
         <../pics/bauteile/schaltzeichen-schalter.svg>`
 
@@ -59,7 +59,7 @@ Schalterstellung einen Stromkreis schließt und den (oder die) anderen öffnet.
     Schaltzeichen eines Wechselschalters.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Wechselschalter
         <../pics/bauteile/schaltzeichen-schalter-wechselschalter.svg>`
 
@@ -91,7 +91,7 @@ Betätigung.
     Schaltzeichen eines Tasters ("normally open").
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Taster (("no")
         <../pics/bauteile/schaltzeichen-taster-offen.svg>`
 
@@ -109,7 +109,7 @@ Betätigung unterbrechen.
     Schaltzeichen eines Tasters ("normally closed").
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Taster ("nc")
         <../pics/bauteile/schaltzeichen-taster-geschlossen.svg>`
 
@@ -141,7 +141,7 @@ mechanisch, sondern durch eine elektrische Spannung bzw. einen Stromfluss statt.
 Dabei wird bei einer ausreichenden elektrischen Spannung aus einer Spule mit
 Eisenkern ein Elektromagnet, der einen Reedkontakt als eigentlichen Schalter
 betätigt. Je nach Bauform lassen sich damit normale Schalter, Wechsel-Schalter
-sowie Schutz-Schalter konstruieren. 
+sowie Schutz-Schalter konstruieren.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-relais.png
@@ -153,18 +153,18 @@ sowie Schutz-Schalter konstruieren.
     Schaltzeichen eines Relais.
 
     .. only:: html
-    
+
         :download:`SVG: Schaltzeichen Relais
         <../pics/bauteile/schaltzeichen-relais.svg>`
 
 
-..  
+..
     pic PK109
     Ruhe- und Arbeitsstromkreis; feder
     Mit schwachem Steuerstrom laesst sich starker Arbeitsstrom ein- und
     ausschalten.
 
-..  
+..
     Anfang und Mitte des 20. Jahrhunderst wichtigste elektromechanische
     Bauteile. Erster Computer von Konrad Zuse Rechenmaschine aus tausenden
     Relais.
@@ -172,7 +172,7 @@ sowie Schutz-Schalter konstruieren.
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
