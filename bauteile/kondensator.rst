@@ -27,7 +27,6 @@ auf die mit dem Minus-Pol verbundene Metallfläche, von der mit dem Plus-Pol
 verbundenen Metallfläche werden Elektronen weggezogen -- die Kondensator-Platten
 laden sich elektrisch auf.
 
-
 .. figure::
     ../pics/bauteile/schaltzeichen-kondensator.png
     :name: fig-schaltzeichen-kondensator
@@ -58,7 +57,7 @@ kann, begrenzt.
     C = \frac{Q}{U}
 
 *Einheit:*
-    Die Kapazität eines Kondensators wird in Farad :math:`(\unit[]{F})` angegeben.
+    Die Kapazität eines Kondensators wird in Farad :math:`(\unit{F})` angegeben.
 
 .. math::
 
@@ -71,8 +70,8 @@ kann, begrenzt.
   Farad. Eine derartige Kapazitätsmenge ist enorm hoch.
 
 * Die Werte von normalen Folien- und Keramik-Kondensatoren liegen im Bereich
-  einiger :math:`\unit[]{pF}`- oder :math:`\unit[]{nF}`, maximal einiger
-  :math:`\unit[]{\mu F}`. Der Kapazitätswert ist auf jedem Kondensator mit
+  einiger :math:`\unit{pF}`- oder :math:`\unit{nF}`, maximal einiger
+  :math:`\unit{\mu F}`. Der Kapazitätswert ist auf jedem Kondensator mit
   der unten genannten Notation aufgedruckt.
 
 .. math::
@@ -128,9 +127,47 @@ Besonderheiten angegeben:
 
 .. rubric:: Kondensatoren im Gleichstromkreis
 
-Um einen Kondensator voll aufzuladen, sind meist nur wenige
-Sekunden(-Bruchteile) nötig. Die Spannung zwischen den beiden Metallplatten ist
-dann gleich der Ladespannung.
+Um einen Kondensator komplett aufzuladen, sind je nach Kapazität des Kondensators
+und der Stromstärke des Ladestroms meist nur wenige Sekunden oder
+Sekundenbruchteile nötig.
+
+.. figure::
+    ../pics/schaltungen/kondensator-messschaltung.png
+    :name: fig-kondensator-messschaltung
+    :alt:  fig-kondensator-messschaltung
+    :align: center
+    :width: 40%
+
+    Prinzipieller Aufbau einer Schaltung zur Bestimmung der Ladekurve eines
+    Kondensators mit Vorwiderstand.
+
+    .. only:: html
+
+        :download:`SVG: Kondensator-Messschaltung
+        <../pics/schaltungen/kondensator-messschaltung.svg>`
+
+Der zeitliche Verlauf der Spannung :math:`U_{\mathrm{C}}` im Kondensator kann
+folgendermaßen beschrieben werden:
+
+.. math::
+    :label: eqn-kondensator-spannung-laden
+
+    U_{\mathrm{C}} = U \cdot \left(1 - e^{-\frac{t}{\tau}}\right)
+
+Für den Ladestrom :math:`I_{\mathrm{C}}` gilt entsprechend:
+
+.. math::
+    :label: eqn-kondensator-stromstaerke-laden
+
+    I_{\mathrm{C}} = \frac{U}{R} \cdot e^{-\frac{t}{\tau}}
+
+Hierbei ist :math:`\tau = R \cdot C` die sogenannte Zeitkonstante. Nach
+:math:`t = 1 \cdot \tau` hat die Kondensatorspannung :math:`1-\frac{1}{e}
+\approx 63\%` ihres Endwerts erreicht; der Ladestrom fällt nach der gleichen
+Zeit auf auf :math:`63\%` seines Anfangswertes ab. [#]_
+
+Nach dem Auflade-Vorgang ist die Spannung :math:`U_{\mathrm{C}}` zwischen den
+beiden Metallplatten gleich der Ladespannung :math:`U`.
 
 
 .. _Kondensator im Wechselstromkreis:
@@ -156,26 +193,19 @@ desto, desto niedriger ist der kapazitative Scheinwiderstand des Kondensators:
 
 .. math::
 
-    R _{\rm{C}} = \frac{1}{2 \cdot \pi \cdot f \cdot C} = \frac{1}{\omega \cdot
+    R_{\mathrm{C}} = \frac{1}{2 \cdot \pi \cdot f \cdot C} = \frac{1}{\omega \cdot
     C}
 
 Hierbei wird mit :math:`\omega = 2 \cdot \pi \cdot f` die Kreisfrequenz des
 Wechselstroms bezeichnet.
 
-..  pi-topologie: | cap -- res -- | cap
-..  kondensator:
-..  * ladungsspeicher Q = C \cdot U -> C sollte gross sein, um bei einer
+..  * Ladungsspeicher Q = C \cdot U -> C sollte groß sein, um bei einer
 ..  bestimmten Spannung viel Ladung aufnehmen zu können
-..  * filter: Z = 1/(j*omega*C) soll minimal werden -> C gross
-.. grösstmöglicher kondensator? wenn ideal, ja. sonst: NEIN!
-.. z impedance ("impiedäns")
+..  * Filter: Z = 1/(j*omega*C) soll minimal werden -> C groß
 
-.. versuch: 7483
+.. todo Notationsbeispiele: 23 = 23 pf ; 182 = 18 00 pf = 1,8 nF usw
 
-.. 23 = 23 pf ; 182 = 18 00 pf = 1,8 nF
-
-.. index::
-    single: Kondensator; Trimmkondensator
+.. index:: Kondensator; Trimmkondensator
 .. _Trimmkondensator:
 
 Trimmkondensatoren
@@ -217,9 +247,10 @@ Elektrolyt-Kondensatoren
 Elektrolyt-Kondensatoren ("Elkos") haben meist hohe Kapazitätwerte von etwa
 :math:`\unit[0,1]{\mu F}` bis :math:`\unit[1000]{\mu F}`, oder sogar mehr.
 Elektrolyt-Kondensatoren sind allerdings polarisiert, d.h. sie besitzen jeweils
-einen Plus- und einen Minusanschluß, den man nicht vertauschen darf. Die
-Anschlüsse sind deutlich gekennzeichnet, oftmals erkennt man den Pluspol
-zusätzlich am längeren Anschlußdraht.
+einen Plus- und einen Minus-Anschluss, die man nicht vertauschen darf. Die
+Anschlüsse sind deutlich gekennzeichnet, meist durch aufgedruckte Minus-Zeichen
+am Minus-Anschluss. Bei neuen Elkos kann man den Pluspol zusätzlich am längeren
+Anschlussdraht erkennen.
 
 .. figure::
     ../pics/bauteile/schaltzeichen-kondensator-elektrolytkondensator.png
@@ -234,4 +265,34 @@ zusätzlich am längeren Anschlußdraht.
 
         :download:`SVG: Schaltzeichen Elektrolyt-Kondensator
         <../pics/bauteile/schaltzeichen-kondensator-elektrolytkondensator.svg>`
+
+.. Superkondensatoren ("Gold Caps")
+.. Kapazitäten von :math:`100` bis :math:`\unit[1500]{F}`
+.. Verwenden Aktivkole als Trägermaterial für die Elektrolyten.
+.. 1 g Aktivkohle hat eine innere Oberfläche von 1000 m2!
+.. Künftig möglicherweise Ersatz für Ni-Cd-Akkus
+
+.. raw:: html
+
+    <hr />
+
+.. only:: html
+
+    .. rubric:: Anmerkungen:
+
+.. [#] Wird der Kondensator von der Spannungsquelle getrennt und über einen
+    Widerstand :math:`R` entladen, so gilt folgende Gleichung für die Spannung
+    :math:`U_{\mathrm{C}}` während des Entladens:
+
+    .. math::
+        :label: eqn-kondensator-spannung-entladen
+
+        U_{\mathrm{C}} = U \cdot e^{-\frac{t}{\tau}}
+
+    Für den Entladestrom :math:`I_{\mathrm{C}}` gilt entsprechend:
+
+    .. math::
+        :label: eqn-kondensator-stromstaerke-entladen
+
+        I_{\mathrm{C}} = \frac{U}{R} \cdot \left( 1 - e^{-\frac{t}{\tau}} \right)
 

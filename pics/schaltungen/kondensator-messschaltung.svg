@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1052.3622"
@@ -16,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="kondensator-grundfunktion.svg">
+   sodipodi:docname="kondensator-messschaltung.svg">
   <title
      id="title4355">Kondensator-Grundfunktion</title>
   <defs
@@ -1527,13 +1526,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34125864"
-     inkscape:cx="1422.6506"
-     inkscape:cy="158.34989"
+     inkscape:zoom="0.4826126"
+     inkscape:cx="66.827301"
+     inkscape:cy="679.17962"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-object-midpoints="true"
      inkscape:object-nodes="true"
@@ -1620,13 +1619,13 @@
        height="654.57886"
        x="12.013428"
        y="353.02551"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
        id="g3535"
-       transform="matrix(1.2122647,0,0,1,39.831025,350.07732)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       transform="matrix(1.6639559,0,0,1,102.45666,326.06094)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <g
@@ -1654,14 +1653,14 @@
                  style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none" />
               <g
                  id="g19624"
-                 style="stroke:#000000;stroke-width:0.90824133"
+                 style="stroke:#000000;stroke-width:0.77522737"
                  transform="translate(0,4.5957031e-5)">
                 <path
                    inkscape:connector-curvature="0"
                    sodipodi:nodetypes="cc"
                    id="path24693-2"
                    d="m 73.11215,921.75977 65.20392,0"
-                   style="fill:none;stroke:#000000;stroke-width:2.72472405;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+                   style="fill:none;stroke:#000000;stroke-width:2.32568216;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
               </g>
             </g>
           </g>
@@ -1725,10 +1724,10 @@
       </g>
     </g>
     <g
-       transform="matrix(0,1,-1,0,1436.3907,530.97889)"
+       transform="matrix(0,1,-1,0,1532.0405,506.96251)"
        id="layer1-9"
        inkscape:label="Ebene 1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <g
@@ -1765,10 +1764,10 @@
       </g>
     </g>
     <g
-       transform="matrix(0,-1,1,0,-854.69237,722.25963)"
+       transform="matrix(0,-1,1,0,-759.04262,698.24325)"
        id="layer1-13"
        inkscape:label="Ebene 1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -1781,8 +1780,8 @@
     <g
        inkscape:label="Ebene 1"
        id="layer1-8"
-       transform="translate(329.10734,-440.08014)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       transform="translate(424.75709,-464.09652)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <g
@@ -1795,7 +1794,7 @@
              id="g82383">
             <path
                style="fill:#0000de;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-               d="m 28.458619,683.25241 225.822941,0"
+               d="m 6.5647991,683.25241 247.7167709,0"
                id="path82385"
                sodipodi:nodetypes="cc"
                inkscape:connector-curvature="0" />
@@ -1829,8 +1828,8 @@
     <g
        inkscape:label="Ebene 1"
        id="g4088"
-       transform="matrix(0,1.011385,1,0,-854.69237,707.58543)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       transform="matrix(0,1.011385,1,0,-759.04262,683.56905)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -1841,10 +1840,10 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(-0.95543123,0,0,1,310.25442,31.565589)"
+       transform="matrix(-0.95543123,0,0,1,405.90417,7.5492113)"
        id="g4092"
        inkscape:label="Ebene 1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -1861,10 +1860,10 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1,0,0,-1,329.10734,1874.0851)"
+       transform="matrix(1,0,0,-1,424.75709,1850.0687)"
        id="g4096"
        inkscape:label="Ebene 1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <g
@@ -1911,12 +1910,12 @@
     <g
        inkscape:label="Ebene 1"
        id="g4116"
-       transform="matrix(0,-0.77877659,-1,0,1824.0365,702.65033)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       transform="matrix(0,-1.1736732,-1,0,1775.6863,791.1893)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
-         style="fill:none;stroke:#000000;stroke-width:3.39949775;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:none;stroke:#000000;stroke-width:2.76915717;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m 171.48302,921.25982 c 28.90544,0 84.63644,0 113.54187,0"
          id="path4118"
          sodipodi:nodetypes="cc"
@@ -1925,12 +1924,12 @@
     <g
        inkscape:label="Ebene 1"
        id="g4124"
-       transform="matrix(-0.80977516,0,0,1,824.39618,31.565559)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       transform="matrix(-0.38389785,0,0,1,816.77948,7.5491813)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
-         style="fill:none;stroke:#000000;stroke-width:3.33379579;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:none;stroke:#000000;stroke-width:4.84187269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m 129.5679,921.25982 c 37.63715,0 75.2743,0 112.91144,0"
          id="path4126"
          sodipodi:nodetypes="cc"
@@ -1940,13 +1939,13 @@
          sodipodi:nodetypes="cc"
          id="path4128"
          d="m -96.255029,921.25979 c 74.659319,0 151.163618,3e-5 225.822919,3e-5"
-         style="fill:none;stroke:#000000;stroke-width:3.33379555;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+         style="fill:none;stroke:#000000;stroke-width:4.84187269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     </g>
     <g
-       transform="matrix(0,-1,-1,0,1888.0365,1082.3932)"
+       transform="matrix(0,-1.4433447,-1,0,1839.6863,1115.82)"
        id="g4130"
        inkscape:label="Ebene 1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -1954,27 +1953,27 @@
          sodipodi:nodetypes="cc"
          id="path4132"
          d="m 129.5679,985.25982 c 37.63715,0 50.2865,0 87.92364,0"
-         style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+         style="fill:none;stroke:#000000;stroke-width:2.49710155;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
     </g>
     <g
-       transform="matrix(-0.8108034,0,0,1,824.6455,-440.08019)"
+       transform="matrix(-0.92109686,0,0,1,765.66703,-464.09657)"
        id="g4134"
        inkscape:label="Ebene 1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
-         style="fill:none;stroke:#000000;stroke-width:3.33168101;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         style="fill:none;stroke:#000000;stroke-width:3.12585306;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          d="m -96.362718,920.75981 c 74.791803,0 97.4411253,1.1e-4 172.232908,1.1e-4"
          id="path4138"
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0,-1,1,0,-792.79749,1013.6268)"
+       transform="matrix(0,-1,1,0,-697.14774,989.61042)"
        id="layer1-6"
        inkscape:label="Ebene 1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <g
@@ -2043,253 +2042,182 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <g
-       id="g4082"
-       transform="translate(-235.23266,47.671817)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <g
-         inkscape:label="Ebene 1"
-         id="layer1-1"
-         transform="matrix(0,2.0559825,-1,0,2059.2692,312.31088)">
-        <g
-           id="g14588"
-           transform="translate(6.1054688e-6,-1.4150817e-6)">
-          <g
-             transform="matrix(0.98229117,0,0,0.98229117,51.65774,-326.68584)"
-             id="g33173" />
-          <path
-             sodipodi:nodetypes="cc"
-             inkscape:connector-curvature="0"
-             id="path33175-8"
-             d="m 101.71325,921.25982 -25.147661,0"
-             style="fill:none;stroke:#000000;stroke-width:2.09224033;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <use
-             height="262.20471"
-             width="372.04724"
-             transform="translate(169.01965,1.4150817e-6)"
-             id="use14571"
-             xlink:href="#path33175-8"
-             y="0"
-             x="0"
-             style="stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
-        </g>
-        <g
-           transform="translate(6.1054688e-6,-1.4150817e-6)"
-           id="g15341">
-          <g
-             id="g15343"
-             transform="matrix(0.98229117,0,0,0.98229117,51.65774,-326.68584)" />
-        </g>
-      </g>
-      <rect
-         y="-667.23077"
-         x="-1167.4296"
-         height="143.36691"
-         width="58.840351"
-         id="rect33177"
-         style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-         transform="scale(-1,-1)" />
-      <g
-         inkscape:label="Ebene 1"
-         id="layer1-0"
-         transform="matrix(0,1,-1,0,2059.2692,600.9245)">
-        <g
-           id="g19628-9">
-          <g
-             style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
-             transform="translate(-536.1261,255.60605)"
-             id="g26229-9">
-            <path
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="cccc"
-               id="path24697"
-               d="m 748.13052,665.65372 -69.3591,39.23048 0,-78.46078 69.3591,39.2303 z"
-               style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
-            <path
-               inkscape:connector-curvature="0"
-               sodipodi:nodetypes="cc"
-               id="path24699"
-               d="m 752.43145,627.44271 0,76.42219"
-               style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-            <path
-               style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutM)"
-               d="M 695.75,614.61218 741.22058,569.1416"
-               id="path25261"
-               inkscape:connector-curvature="0" />
-            <use
-               style="stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-               x="0"
-               y="0"
-               xlink:href="#path25261"
-               id="use26211"
-               transform="translate(20.75,11.75)"
-               width="744.09448"
-               height="1052.3622" />
-          </g>
-          <g
-             transform="translate(0,4.5957031e-5)"
-             style="stroke:#000000"
-             id="g19624-3">
-            <path
-               style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-               d="m 67.298002,921.25977 75.347308,0"
-               id="path24693-2-7"
-               sodipodi:nodetypes="cc"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
-       transform="translate(-2549.3714,-478.8155)"
-       id="g119604"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <g
-         id="g119595">
-        <g
-           transform="translate(1279.6183,-335.05437)"
-           id="g103758">
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             d="m 1701.7853,1295.0495 -59.6255,0"
-             id="path103480"
-             sodipodi:nodetypes="cc" />
-          <path
-             transform="matrix(0.78846154,0,0,0.78846154,1476.0197,1336.2709)"
-             d="m 217.49999,-52.280678 c 0,3.747647 -3.03806,6.785714 -6.78571,6.785714 -3.74765,0 -6.78571,-3.038067 -6.78571,-6.785714 0,-3.747646 3.03806,-6.785714 6.78571,-6.785714 3.74765,0 6.78571,3.038068 6.78571,6.785714 z"
-             sodipodi:ry="6.7857141"
-             sodipodi:rx="6.7857141"
-             sodipodi:cy="-52.280678"
-             sodipodi:cx="210.71428"
-             id="path103486"
-             style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-             sodipodi:type="arc" />
-        </g>
-        <g
-           id="g119590">
-          <path
-             transform="matrix(0.78846154,0,0,0.78846154,2650.3635,1001.7164)"
-             d="m 217.49999,-52.280678 c 0,3.747647 -3.03806,6.785714 -6.78571,6.785714 -3.74765,0 -6.78571,-3.038067 -6.78571,-6.785714 0,-3.747646 3.03806,-6.785714 6.78571,-6.785714 3.74765,0 6.78571,3.038068 6.78571,6.785714 z"
-             sodipodi:ry="6.7857141"
-             sodipodi:rx="6.7857141"
-             sodipodi:cy="-52.280678"
-             sodipodi:cx="210.71428"
-             id="path103484"
-             style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-             sodipodi:type="arc" />
-          <g
-             id="g103762"
-             transform="matrix(-1,0,0,1,4458.6634,-334.55437)">
-            <path
-               inkscape:connector-curvature="0"
-               style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-               d="m 1701.7853,1295.0495 -59.6255,0"
-               id="path103764"
-               sodipodi:nodetypes="cc" />
-          </g>
-        </g>
-      </g>
-      <g
-         id="g105526"
-         transform="translate(1278.1183,-346.70082)">
-        <path
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc"
-           id="path82385-8"
-           d="m 1539.9191,1281.0495 102.2067,0"
-           style="fill:#0000de;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 1591.0225,1227.9994 0,53.0501"
-           id="path105506"
-           sodipodi:nodetypes="cc" />
-      </g>
-    </g>
-    <g
-       id="g4527"
-       transform="translate(-2158.6484,-479.3155)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <g
-         id="g4529">
-        <g
-           id="g4531"
-           transform="translate(1279.6183,-335.05437)">
-          <path
-             sodipodi:nodetypes="cc"
-             id="path4533"
-             d="m 1701.7853,1295.0495 -59.6255,0"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             inkscape:connector-curvature="0" />
-          <path
-             sodipodi:type="arc"
-             style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-             id="path4535"
-             sodipodi:cx="210.71428"
-             sodipodi:cy="-52.280678"
-             sodipodi:rx="6.7857141"
-             sodipodi:ry="6.7857141"
-             d="m 217.49999,-52.280678 c 0,3.747647 -3.03806,6.785714 -6.78571,6.785714 -3.74765,0 -6.78571,-3.038067 -6.78571,-6.785714 0,-3.747646 3.03806,-6.785714 6.78571,-6.785714 3.74765,0 6.78571,3.038068 6.78571,6.785714 z"
-             transform="matrix(0.78846154,0,0,0.78846154,1476.0197,1336.2709)" />
-        </g>
-        <g
-           id="g4537">
-          <path
-             sodipodi:type="arc"
-             style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-             id="path4539"
-             sodipodi:cx="210.71428"
-             sodipodi:cy="-52.280678"
-             sodipodi:rx="6.7857141"
-             sodipodi:ry="6.7857141"
-             d="m 217.49999,-52.280678 c 0,3.747647 -3.03806,6.785714 -6.78571,6.785714 -3.74765,0 -6.78571,-3.038067 -6.78571,-6.785714 0,-3.747646 3.03806,-6.785714 6.78571,-6.785714 3.74765,0 6.78571,3.038068 6.78571,6.785714 z"
-             transform="matrix(0.78846154,0,0,0.78846154,2650.3635,1001.7164)" />
-          <g
-             transform="matrix(-1,0,0,1,4458.6634,-334.55437)"
-             id="g4541">
-            <path
-               sodipodi:nodetypes="cc"
-               id="path4543"
-               d="m 1701.7853,1295.0495 -59.6255,0"
-               style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(1278.1183,-346.70082)"
-         id="g4545">
-        <path
-           style="fill:#0000de;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-           d="m 1539.9191,1281.0495 102.2067,0"
-           id="path4547"
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cc"
-           id="path4549"
-           d="m 1589.9725,1227.9994 0,53.0501"
-           style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
     <rect
-       y="-714.90259"
-       x="-157.88249"
+       y="332.60852"
+       x="-487.0834"
        height="143.36691"
        width="58.840351"
        id="rect33177-0"
-       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       transform="scale(-1,-1)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-grundfunktion.png"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.99999976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
+    <g
+       id="g16515"
+       transform="translate(17.419206,1640.4472)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 451.3587,-711.63827 59.55279,0"
+         id="path12110-8"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path12108-9"
+         d="m 285.08851,-711.63827 59.5528,0"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="translate(256.62993,-1394.8906)"
+         id="g52081-9">
+        <g
+           id="g52083-7">
+          <path
+             sodipodi:type="arc"
+             style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.69010627;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+             id="path52087-6"
+             sodipodi:cx="421.65353"
+             sodipodi:cy="100.86611"
+             sodipodi:rx="14.173228"
+             sodipodi:ry="10.629921"
+             d="m 435.82676,100.86611 c 0,5.87074 -6.34557,10.62992 -14.17323,10.62992 -7.82765,0 -14.17322,-4.75918 -14.17322,-10.62992 0,-5.870741 6.34557,-10.629919 14.17322,-10.629919 7.82766,0 14.17323,4.759178 14.17323,10.629919 z"
+             transform="matrix(-3.7647525,0,0,5.0196575,1728.7913,176.93908)" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text52089-1"
+           y="706.06537"
+           x="119.25333"
+           style="font-size:66.31791687px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="706.06537"
+             x="119.25333"
+             id="tspan52091-0"
+             sodipodi:role="line">A</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g16557"
+       transform="translate(668.4028,-227.19179)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 186.02363,867.90106 0,-59.55279"
+         id="path12110-5"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path12108-1"
+         d="m 186.02357,1034.1712 7e-5,-59.55275"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         id="g51951-9"
+         transform="translate(44.653531,238.00736)">
+        <g
+           id="g51953-9">
+          <path
+             transform="matrix(-3.7647525,0,0,5.0196575,1728.7913,176.93908)"
+             d="m 435.82676,100.86611 c 0,5.87074 -6.34557,10.62992 -14.17323,10.62992 -7.82765,0 -14.17322,-4.75918 -14.17322,-10.62992 0,-5.870741 6.34557,-10.629919 14.17322,-10.629919 7.82766,0 14.17323,4.759178 14.17323,10.629919 z"
+             sodipodi:ry="10.629921"
+             sodipodi:rx="14.173228"
+             sodipodi:cy="100.86611"
+             sodipodi:cx="421.65353"
+             id="path51957-3"
+             style="color:#000000;fill:none;stroke:#000000;stroke-width:0.69010627;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:66.31791687px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="119.25333"
+           y="706.06537"
+           id="text51959-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan51961-8"
+             x="119.25333"
+             y="706.06537">V</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,266.45269,2298.1221)"
+       id="g188474"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="translate(1550.6754,43.720522)"
+         id="g100766">
+        <g
+           id="g100743"
+           transform="matrix(0,3.3655307,-3.3655307,0,265.46079,-133.76158)"
+           style="stroke-width:0.89138991;stroke-miterlimit:4;stroke-dasharray:none">
+          <path
+             sodipodi:nodetypes="cc"
+             id="path1359"
+             d="m 14.173228,3.5433046 0,17.7165354"
+             style="fill:none;stroke:#000000;stroke-width:0.89138991;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccc"
+             id="path1363"
+             d="m 14.173228,70.86614 0,-17.716536 L 3.5433056,21.25984"
+             style="fill:none;stroke:#000000;stroke-width:0.89138991;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           transform="matrix(0.78846154,0,0,0.78846154,-77.527491,-44.839842)"
+           d="m 217.49999,-52.280678 c 0,3.747647 -3.03806,6.785714 -6.78571,6.785714 -3.74765,0 -6.78571,-3.038067 -6.78571,-6.785714 0,-3.747646 3.03806,-6.785714 6.78571,-6.785714 3.74765,0 6.78571,3.038068 6.78571,6.785714 z"
+           sodipodi:ry="6.7857141"
+           sodipodi:rx="6.7857141"
+           sodipodi:cy="-52.280678"
+           sodipodi:cx="210.71428"
+           id="path82399-4"
+           style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path82399-4-9-1"
+         sodipodi:cx="210.71428"
+         sodipodi:cy="-52.280678"
+         sodipodi:rx="6.7857141"
+         sodipodi:ry="6.7857141"
+         d="m 217.49999,-52.280678 c 0,3.747647 -3.03806,6.785714 -6.78571,6.785714 -3.74765,0 -6.78571,-3.038067 -6.78571,-6.785714 0,-3.747646 3.03806,-6.785714 6.78571,-6.785714 3.74765,0 6.78571,3.038068 6.78571,6.785714 z"
+         transform="matrix(0.78846154,0,0,0.78846154,1578.4455,-1.1193414)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:55.40464783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
+       x="382.46255"
+       y="414.80368"
+       id="text29118"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan29120"
+         x="382.46255"
+         y="414.80368">R</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text29122"
+       y="712.98865"
+       x="469.15118"
+       style="font-size:55.40464783px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
+       xml:space="preserve"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/kondensator-messschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         y="712.98865"
+         x="469.15118"
+         id="tspan29124"
+         sodipodi:role="line">C</tspan></text>
   </g>
 </svg>

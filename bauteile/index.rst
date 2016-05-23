@@ -19,7 +19,7 @@ damit einfache Schaltungen im Eigenbau konstruieren.
     :maxdepth: 1
 
     uebersicht.rst
-    stromquelle.rst
+    stromquellen.rst
     leitung.rst
     schalter.rst
     widerstand.rst

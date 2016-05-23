@@ -4,8 +4,8 @@ Gleich- und Wechselrichter
 ==========================
 
 An haushaltsüblichen Steckdosen liegt eine Wechselspannung mit einer effektiven
-Spannung von :math:`U _{\rm{eff}} = \unit[230]{V}` an. Diese Spannung kann mit
-eingebauten oder externen Transformatoren ("Netzteilen") leicht auf den
+Spannung von :math:`U_{\mathrm{eff}} = \unit[230]{V}` an. Diese Spannung kann
+mit eingebauten oder externen Transformatoren ("Netzteilen") leicht auf den
 gewünschten Spannungswert angepasst werden.
 
 Viele elektronische Bauteile (beispielsweise Elektrolytkondensatoren, LEDs bzw.
@@ -33,8 +33,8 @@ Richtung sperren. Früher wurden zu diesem Zweck Elektronenröhren eingesetzt,
 inzwischen werden fast ausschließlich Halbleiter-Dioden verwendet.
 
 Die folgenden Schaltungen setzen zum sicheren Experimentieren eine
-Wechselspannung von ungefähr :math:`\unit[9]{V} < U _{\rm{eff}} < \unit[12]{V}`
-voraus, wie sie von Labornetzteilen bereitgestellt wird. [#]_
+Wechselspannung von ungefähr :math:`\unit[9]{V} < U_{\mathrm{eff}} <
+\unit[12]{V}` voraus, wie sie von Labornetzteilen bereitgestellt wird. [#]_
 
 
 Der Einweg-Gleichrichter
@@ -92,8 +92,10 @@ Spannung zwischenzeitlich stark, eventuell sogar auf null absinken kann.
 ..  der Kommunikationstechnik eingesetzt. Darin wird die benötigte Leistung durch
 ..  einen nach geschalteten Verstärker erreicht.
 
-Der Zweiweg-Gleichrichter
-^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _Zweiweg-Gleichrichter:
+
+Zweiweg-Gleichrichter
+^^^^^^^^^^^^^^^^^^^^^
 
 Durch den Einsatz von vier Dioden lassen sich -- anders als beim
 Einweg-Gleichrichter -- beide Polungen der Stromquelle, d.h. beide Halbbögen

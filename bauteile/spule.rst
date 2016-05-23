@@ -39,17 +39,40 @@ ferromagnetischen Kernes möglich.
         <../pics/bauteile/schaltzeichen-induktivitaet-spule-mit-eisenkern.svg>`
 
 
-.. todo::
+.. _Spulen im Wechselstromkreis:
 
-    Robbins S.520: Stromfluss durch Spule beim Einschalten
+.. rubric:: Spulen im Wechselstromkreis
 
-    .. math::
+Wird an eine Spule eine Wechselspannung angelegt, so stellt sich eine geringere
+Stromstärke ein, als es beim Anlegen einer gleich großen Gleichspannung der Fall
+wäre. Der Grund hierfür sind ständig auftretende Induktionsvorgänge.
 
-        V _{\rm{L}} = L \cdot \frac{\Delta I}{\Delta t}
+Der induktive Scheinwiderstand ist von der Induktivität der
+Spule und der Frequenz des Wechselstroms abhängig; je größer die
+Kapazität :math:`L` und je höher die Frequenz :math:`f` des Wechselstroms ist,
+desto, desto größer ist der induktive Scheinwiderstand des Kondensators:
 
-    Je schneller sich die Stromstaerke aendert, desto groesser ist die
-    Induktionsspannung. Wuerde sich der Strom beim Einschalten unmittelbar, also
-    mit :math:`\Delta t \approx 0` von Null auf den Endwert aendern, wuerde die
-    auch die Induktionsspannung unendlich gross werden. Der Strom benoetigt also
-    eine Weile, bis er seinen Endwert annimmt; je groesser die Induktivitaet der
-    Spule ist, desto groesser ist auch die Einschaltverzoegerung.
+.. math::
+
+    R_{\mathrm{C}} = \frac{1}{2 \cdot \pi \cdot f \cdot C} = \frac{1}{\omega \cdot
+    C}
+
+Hierbei wird mit :math:`\omega = 2 \cdot \pi \cdot f` die Kreisfrequenz des
+Wechselstroms bezeichnet.
+
+
+
+.. todo Robbins S.520: Stromfluss durch Spule beim Einschalten
+..
+.. .. math::
+..
+..     V_{\mathrm{L}} = L \cdot \frac{\Delta I}{\Delta t}
+..
+.. Je schneller sich die Stromstärke ändert, desto größer ist die
+.. Induktionsspannung. Würde sich der Strom beim Einschalten unmittelbar, also
+.. mit :math:`\Delta t \approx 0` von Null auf den Endwert ändern, würde die
+.. auch die Induktionsspannung unendlich groß werden. Der Strom benötigt also
+.. eine Weile, bis er seinen Endwert annimmt; je größer die Induktivität der
+.. Spule ist, desto größer ist auch die Einschaltverzögerung.
+
+

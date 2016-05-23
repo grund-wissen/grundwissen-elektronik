@@ -11,12 +11,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448"
-   height="1052.3622"
+   width="1052.3622"
+   height="744.09448"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="parallelschaltung-von-kondensatoren.svg">
+   sodipodi:docname="mess-schaltung-widerstand.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="632.21823"
-     inkscape:cy="481.36782"
+     inkscape:zoom="1.3506844"
+     inkscape:cx="601.55178"
+     inkscape:cy="300.0927"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,7 +43,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="false"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="false">
     <sodipodi:guide
        position="0.0,0"
        orientation="744.0945,0"
@@ -78,7 +78,7 @@
        orientation="1,0" />
   </sodipodi:namedview>
   <title
-     id="title4656">Parallelschaltung von Kondensatoren</title>
+     id="title7095">Mess-Schaltung fuer Widerstaende</title>
   <defs
      id="defs4">
     <marker
@@ -1439,98 +1439,223 @@
         </symbol>
       </g>
     </defs>
-    <marker
-       style="overflow:visible"
-       id="TriangleInM-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM">
-      <path
-         inkscape:connector-curvature="0"
-         transform="scale(-0.4,-0.4)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path13059-9" />
-    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4585"
+       id="linearGradient3323"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(189.98931,114.82619)"
+       spreadMethod="reflect"
+       x1="437"
+       y1="117.36218"
+       x2="441"
+       y2="117.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4585-0"
+       id="linearGradient3319"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(229.98931,114.81338)"
+       spreadMethod="reflect"
+       x1="437"
+       y1="117.36218"
+       x2="441"
+       y2="117.36218" />
+    <linearGradient
+       id="linearGradient4585">
+      <stop
+         id="stop4587"
+         offset="0"
+         style="stop-color:#858585;stop-opacity:1;" />
+      <stop
+         id="stop4589"
+         offset="1"
+         style="stop-color:#cecece;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4373">
+      <stop
+         id="stop4375"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4377"
+         offset="1"
+         style="stop-color:#dddddd;stop-opacity:0.99206346;" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4217" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4257" />
+    <radialGradient
+       r="16"
+       fy="592.36218"
+       fx="310"
+       cy="592.36218"
+       cx="310"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4385"
+       xlink:href="#linearGradient4373"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4395" />
+    <radialGradient
+       r="16"
+       fy="592.36218"
+       fx="310"
+       cy="592.36218"
+       cx="310"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4385-1"
+       xlink:href="#linearGradient4373-9"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4373-9">
+      <stop
+         id="stop4375-1"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4377-9"
+         offset="1"
+         style="stop-color:#dddddd;stop-opacity:0.99206346;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4373-9"
+       id="radialGradient4406"
+       gradientUnits="userSpaceOnUse"
+       cx="310"
+       cy="592.36218"
+       fx="310"
+       fy="592.36218"
+       r="16" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4445" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4492" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4527" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4555" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4620" />
+    <linearGradient
+       id="linearGradient4585-0">
+      <stop
+         id="stop4587-3"
+         offset="0"
+         style="stop-color:#858585;stop-opacity:1;" />
+      <stop
+         id="stop4589-4"
+         offset="1"
+         style="stop-color:#cecece;stop-opacity:1;" />
+    </linearGradient>
     <defs
-       id="defs26831">
+       id="defs4031">
       <g
-         id="g26833">
+         id="g4033">
         <symbol
+           style="overflow:visible"
            overflow="visible"
-           id="textext-121de192-0"
-           style="overflow:visible">
+           id="textext-fc1b436d-0">
           <path
+             inkscape:connector-curvature="0"
              style="stroke:none"
-             d="m 7.578125,-6.921875 c 0,-0.03125 -0.015625,-0.109375 -0.109375,-0.109375 -0.03125,0 -0.046875,0.015625 -0.15625,0.125 L 6.625,-6.140625 C 6.53125,-6.28125 6.078125,-7.03125 4.96875,-7.03125 2.734375,-7.03125 0.5,-4.828125 0.5,-2.515625 0.5,-0.875 1.671875,0.21875 3.203125,0.21875 c 0.859375,0 1.625,-0.390625 2.15625,-0.859375 0.921875,-0.8125 1.09375,-1.71875 1.09375,-1.75 C 6.453125,-2.5 6.34375,-2.5 6.328125,-2.5 c -0.0625,0 -0.109375,0.03125 -0.125,0.109375 -0.09375,0.28125 -0.328125,1 -1.015625,1.578125 -0.6875,0.546875 -1.3125,0.71875 -1.828125,0.71875 -0.890625,0 -1.953125,-0.515625 -1.953125,-2.0625 0,-0.578125 0.203125,-2.1875 1.203125,-3.359375 0.609375,-0.703125 1.546875,-1.203125 2.4375,-1.203125 1.015625,0 1.609375,0.765625 1.609375,1.921875 0,0.40625 -0.03125,0.40625 -0.03125,0.515625 0,0.09375 0.109375,0.09375 0.140625,0.09375 0.125,0 0.125,-0.015625 0.1875,-0.203125 z m 0,0"
-             id="path26836"
-             inkscape:connector-curvature="0" />
-        </symbol>
-        <symbol
-           overflow="visible"
-           id="textext-121de192-1"
-           style="overflow:visible">
-          <path
-             style="stroke:none"
-             d="m 1.90625,-2.328125 c 0.546875,0 0.9375,0.375 0.9375,1.125 0,0.859375 -0.515625,1.125 -0.90625,1.125 -0.28125,0 -0.90625,-0.078125 -1.1875,-0.5 0.328125,0 0.40625,-0.234375 0.40625,-0.390625 0,-0.21875 -0.171875,-0.375 -0.390625,-0.375 -0.1875,0 -0.390625,0.125 -0.390625,0.40625 0,0.65625 0.71875,1.078125 1.5625,1.078125 0.96875,0 1.640625,-0.65625 1.640625,-1.34375 0,-0.546875 -0.4375,-1.09375 -1.203125,-1.25 0.71875,-0.265625 0.984375,-0.78125 0.984375,-1.21875 0,-0.546875 -0.625,-0.953125 -1.40625,-0.953125 -0.765625,0 -1.359375,0.375 -1.359375,0.9375 0,0.234375 0.15625,0.359375 0.359375,0.359375 0.21875,0 0.359375,-0.15625 0.359375,-0.34375 0,-0.203125 -0.140625,-0.359375 -0.359375,-0.375 0.25,-0.296875 0.71875,-0.375 0.984375,-0.375 0.3125,0 0.75,0.15625 0.75,0.75 0,0.296875 -0.09375,0.625 -0.28125,0.828125 -0.21875,0.265625 -0.421875,0.28125 -0.765625,0.3125 -0.171875,0.015625 -0.1875,0.015625 -0.21875,0.015625 -0.015625,0 -0.078125,0.015625 -0.078125,0.09375 0,0.09375 0.0625,0.09375 0.1875,0.09375 z m 0,0"
-             id="path26839"
-             inkscape:connector-curvature="0" />
+             d="M 6.1875,-5.828125 C 6.328125,-6.203125 6.59375,-6.484375 7.28125,-6.5 l 0,-0.3125 c -0.3125,0.03125 -0.71875,0.03125 -0.96875,0.03125 -0.296875,0 -0.875,-0.015625 -1.140625,-0.03125 l 0,0.3125 C 5.6875,-6.484375 5.90625,-6.234375 5.90625,-6 c 0,0.078125 -0.03125,0.140625 -0.046875,0.203125 L 4.03125,-1 2.125,-6.03125 C 2.0625,-6.171875 2.0625,-6.1875 2.0625,-6.203125 2.0625,-6.5 2.625,-6.5 2.875,-6.5 l 0,-0.3125 c -0.359375,0.03125 -1.046875,0.03125 -1.421875,0.03125 -0.46875,0 -0.90625,-0.015625 -1.265625,-0.03125 l 0,0.3125 c 0.65625,0 0.84375,0 0.984375,0.375 L 3.484375,0 c 0.0625,0.1875 0.109375,0.21875 0.25,0.21875 0.15625,0 0.1875,-0.046875 0.234375,-0.1875 z m 0,0"
+             id="path4036" />
         </symbol>
       </g>
     </defs>
-    <defs
-       id="defs26245">
-      <g
-         id="g26247">
-        <symbol
-           id="textext-525957da-0"
-           overflow="visible"
-           style="overflow:visible">
-          <path
-             id="path26250"
-             d="m 7.578125,-6.921875 c 0,-0.03125 -0.015625,-0.109375 -0.109375,-0.109375 -0.03125,0 -0.046875,0.015625 -0.15625,0.125 L 6.625,-6.140625 C 6.53125,-6.28125 6.078125,-7.03125 4.96875,-7.03125 2.734375,-7.03125 0.5,-4.828125 0.5,-2.515625 0.5,-0.875 1.671875,0.21875 3.203125,0.21875 c 0.859375,0 1.625,-0.390625 2.15625,-0.859375 0.921875,-0.8125 1.09375,-1.71875 1.09375,-1.75 C 6.453125,-2.5 6.34375,-2.5 6.328125,-2.5 c -0.0625,0 -0.109375,0.03125 -0.125,0.109375 -0.09375,0.28125 -0.328125,1 -1.015625,1.578125 -0.6875,0.546875 -1.3125,0.71875 -1.828125,0.71875 -0.890625,0 -1.953125,-0.515625 -1.953125,-2.0625 0,-0.578125 0.203125,-2.1875 1.203125,-3.359375 0.609375,-0.703125 1.546875,-1.203125 2.4375,-1.203125 1.015625,0 1.609375,0.765625 1.609375,1.921875 0,0.40625 -0.03125,0.40625 -0.03125,0.515625 0,0.09375 0.109375,0.09375 0.140625,0.09375 0.125,0 0.125,-0.015625 0.1875,-0.203125 z m 0,0"
-             style="stroke:none"
-             inkscape:connector-curvature="0" />
-        </symbol>
-        <symbol
-           id="textext-525957da-1"
-           overflow="visible"
-           style="overflow:visible">
-          <path
-             id="path26253"
-             d="m 2.328125,-4.4375 c 0,-0.1875 0,-0.1875 -0.203125,-0.1875 -0.453125,0.4375 -1.078125,0.4375 -1.359375,0.4375 l 0,0.25 c 0.15625,0 0.625,0 1,-0.1875 l 0,3.546875 c 0,0.234375 0,0.328125 -0.6875,0.328125 l -0.265625,0 0,0.25 c 0.125,0 0.984375,-0.03125 1.234375,-0.03125 0.21875,0 1.09375,0.03125 1.25,0.03125 l 0,-0.25 -0.265625,0 c -0.703125,0 -0.703125,-0.09375 -0.703125,-0.328125 z m 0,0"
-             style="stroke:none"
-             inkscape:connector-curvature="0" />
-        </symbol>
-      </g>
-    </defs>
-    <defs
-       id="defs25641">
-      <g
-         id="g25643">
-        <symbol
-           overflow="visible"
-           id="textext-7bf059f2-0"
-           style="overflow:visible">
-          <path
-             style="stroke:none"
-             d="m 7.578125,-6.921875 c 0,-0.03125 -0.015625,-0.109375 -0.109375,-0.109375 -0.03125,0 -0.046875,0.015625 -0.15625,0.125 L 6.625,-6.140625 C 6.53125,-6.28125 6.078125,-7.03125 4.96875,-7.03125 2.734375,-7.03125 0.5,-4.828125 0.5,-2.515625 0.5,-0.875 1.671875,0.21875 3.203125,0.21875 c 0.859375,0 1.625,-0.390625 2.15625,-0.859375 0.921875,-0.8125 1.09375,-1.71875 1.09375,-1.75 C 6.453125,-2.5 6.34375,-2.5 6.328125,-2.5 c -0.0625,0 -0.109375,0.03125 -0.125,0.109375 -0.09375,0.28125 -0.328125,1 -1.015625,1.578125 -0.6875,0.546875 -1.3125,0.71875 -1.828125,0.71875 -0.890625,0 -1.953125,-0.515625 -1.953125,-2.0625 0,-0.578125 0.203125,-2.1875 1.203125,-3.359375 0.609375,-0.703125 1.546875,-1.203125 2.4375,-1.203125 1.015625,0 1.609375,0.765625 1.609375,1.921875 0,0.40625 -0.03125,0.40625 -0.03125,0.515625 0,0.09375 0.109375,0.09375 0.140625,0.09375 0.125,0 0.125,-0.015625 0.1875,-0.203125 z m 0,0"
-             id="path25646"
-             inkscape:connector-curvature="0" />
-        </symbol>
-        <symbol
-           overflow="visible"
-           id="textext-7bf059f2-1"
-           style="overflow:visible">
-          <path
-             style="stroke:none"
-             d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z m 0,0"
-             id="path25649"
-             inkscape:connector-curvature="0" />
-        </symbol>
-      </g>
-    </defs>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4373-9"
+       id="radialGradient26174"
+       gradientUnits="userSpaceOnUse"
+       cx="310"
+       cy="592.36218"
+       fx="310"
+       fy="592.36218"
+       r="16" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4373"
+       id="radialGradient26176"
+       gradientUnits="userSpaceOnUse"
+       cx="310"
+       cy="592.36218"
+       fx="310"
+       fy="592.36218"
+       r="16" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4585"
+       id="linearGradient26228"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(17.10384,1068.1344)"
+       spreadMethod="reflect"
+       x1="437"
+       y1="117.36218"
+       x2="441"
+       y2="117.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4585-0"
+       id="linearGradient26230"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(57.10384,1068.1216)"
+       spreadMethod="reflect"
+       x1="437"
+       y1="117.36218"
+       x2="441"
+       y2="117.36218" />
   </defs>
   <metadata
      id="metadata7">
@@ -1540,8 +1665,8 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Parallelschaltung von Kondensatoren</dc:title>
-        <dc:date>2012-08-13</dc:date>
+        <dc:title>Mess-Schaltung fuer Widerstaende</dc:title>
+        <dc:date>2016-05-23</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Bernhard Grotz</dc:title>
@@ -1564,7 +1689,8 @@
             <rdf:li>Elektrizitaet</rdf:li>
             <rdf:li>Elektronik</rdf:li>
             <rdf:li>Reihen- und Parallelschaltung</rdf:li>
-            <rdf:li>Parallelschaltung von Kondensatoren</rdf:li>
+            <rdf:li>Messschaltung</rdf:li>
+            <rdf:li>Widerstandsmessung</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
@@ -1590,19 +1716,10 @@
     </rdf:RDF>
   </metadata>
   <g
+     transform="translate(0,-308.2677)"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.50000011999999994;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect7449"
-       width="693.77551"
-       height="882.36438"
-       x="25.159485"
-       y="54.701656"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
     <g
        transform="translate(906.22141,124.546)"
        style="fill:#000080"
@@ -1610,426 +1727,508 @@
       <g
          id="g4888" />
     </g>
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       ry="0"
+       rx="0"
+       y="531.66748"
+       x="258.40897"
+       height="291.75299"
+       width="534"
+       id="rect37362"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
-       transform="translate(340.15746,-240.94487)"
-       id="g4343"
-       inkscape:label="Ebene 1">
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       id="g5154"
+       transform="matrix(-0.31381291,0,0,0.31381291,818.59694,427.23287)"
+       style="stroke:#000000;stroke-width:3.18661213">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5156"
+         style="fill:none;stroke:#000000;stroke-width:3.18661213;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 869.13307,1157.3136 -101.00768,0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5158"
+         style="fill:none;stroke:#000000;stroke-width:3.18661213;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 993.94827,1157.3136 -100.39564,0"
+         sodipodi:nodetypes="cc" />
       <g
-         transform="translate(6.1054688e-6,-1.4150817e-6)"
-         id="g4345">
-        <g
-           id="g4347"
-           transform="matrix(0.98229117,0,0,0.98229117,51.65774,-326.68584)" />
+         id="g5160"
+         transform="matrix(1,0,0,0.79163356,0,241.56243)"
+         style="stroke:#000000;stroke-width:3.5815177">
+        <path
+           sodipodi:nodetypes="cc"
+           d="m 893.30241,1257.2562 0,-200.939"
+           style="fill:none;stroke:#000000;stroke-width:3.5815177;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path5162"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cc"
+           d="m 869.46765,1120.08 0,73.4134"
+           style="fill:none;stroke:#000000;stroke-width:3.5815177;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path5164"
+           inkscape:connector-curvature="0" />
       </g>
       <g
-         id="g4355"
-         transform="translate(6.1054688e-6,-1.4150817e-6)">
+         transform="matrix(0,-3.3648134,-3.3648134,0,996.0947,1285.7351)"
+         id="g5166"
+         style="stroke:#000000;stroke-width:0.94703972;stroke-miterlimit:4;stroke-dasharray:none">
         <g
-           transform="matrix(0.98229117,0,0,0.98229117,51.65774,-326.68584)"
-           id="g4357" />
+           id="g64739"
+           style="stroke:#000000;stroke-width:0.94703972">
+          <g
+             id="g64743"
+             transform="translate(0,0.17930292)"
+             style="stroke:#000000;stroke-width:0.94703972">
+            <g
+               id="g64747"
+               style="stroke:#000000;stroke-width:0.94703972">
+              <g
+                 id="g64751"
+                 style="stroke:#000000;stroke-width:0.94703972">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 56.339053,10.468084 0,9.817947"
+                   style="fill:none;stroke:#000000;stroke-width:0.94703972;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                   id="path5168" />
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 61.803286,15.377058 -9.81794,0"
+                   style="fill:none;stroke:#000000;stroke-width:0.94703972;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                   id="path5170" />
+              </g>
+            </g>
+          </g>
+        </g>
       </g>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 835.147,1096.1647 -33.03554,0"
+         style="fill:none;stroke:#000000;stroke-width:3.18661213;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5172" />
     </g>
     <g
-       transform="matrix(5.6572308,0,0,5.6572308,-760.71444,-237.18062)"
-       ns0:text="$U _{\\rm{2}}$"
-       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
-       id="g20835">
-      <defs
-         id="defs20837">
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       transform="matrix(0,-0.31339474,0.31339474,0,368.17757,1239.2798)"
+       id="g188474"
+       style="stroke:#000000;stroke-width:3.19086409">
+      <g
+         transform="translate(1550.6754,43.720522)"
+         id="g100766"
+         style="stroke:#000000;stroke-width:3.19086409">
         <g
-           id="g20839">
+           id="g100743"
+           transform="matrix(0,3.3655307,-3.3655307,0,265.46079,-133.76158)"
+           style="stroke:#000000;stroke-width:0.94810128;stroke-miterlimit:4;stroke-dasharray:none">
+          <path
+             sodipodi:nodetypes="cc"
+             id="path1359"
+             d="m 14.173228,3.5433046 0,17.7165354"
+             style="fill:none;stroke:#000000;stroke-width:0.94810128;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="ccc"
+             id="path1363"
+             d="m 14.173228,70.86614 0,-17.716536 L 3.5433056,21.25984"
+             style="fill:none;stroke:#000000;stroke-width:0.94810128;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           transform="matrix(0.78846154,0,0,0.78846154,-77.527491,-44.839842)"
+           d="m 217.49999,-52.280678 c 0,3.747647 -3.03806,6.785714 -6.78571,6.785714 -3.74765,0 -6.78571,-3.038067 -6.78571,-6.785714 0,-3.747646 3.03806,-6.785714 6.78571,-6.785714 3.74765,0 6.78571,3.038068 6.78571,6.785714 z"
+           sodipodi:ry="6.7857141"
+           sodipodi:rx="6.7857141"
+           sodipodi:cy="-52.280678"
+           sodipodi:cx="210.71428"
+           id="path82399-4"
+           style="fill:#000000;stroke:#000000;stroke-width:4.04694939;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;stroke:#000000;stroke-width:4.04694939;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path82399-4-9-1"
+         sodipodi:cx="210.71428"
+         sodipodi:cy="-52.280678"
+         sodipodi:rx="6.7857141"
+         sodipodi:ry="6.7857141"
+         d="m 217.49999,-52.280678 c 0,3.747647 -3.03806,6.785714 -6.78571,6.785714 -3.74765,0 -6.78571,-3.038067 -6.78571,-6.785714 0,-3.747646 3.03806,-6.785714 6.78571,-6.785714 3.74765,0 6.78571,3.038068 6.78571,6.785714 z"
+         transform="matrix(0.78846154,0,0,0.78846154,1578.4455,-1.1193414)" />
+    </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:connector-curvature="0"
+       id="path5158-1-4"
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 534.02454,628.29439 -179.1163,10e-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       sodipodi:nodetypes="cc"
+       d="m 708.65284,628.2944 -56.38638,0"
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path26304"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:connector-curvature="0"
+       id="path5158-1-9"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 354.90824,673.84959 0,-45.55518"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       sodipodi:nodetypes="cc"
+       d="m 354.90824,790.41283 0,-45.55517"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path26326"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       sodipodi:nodetypes="cc"
+       d="m 496.34747,790.41283 -141.45212,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path26328"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:connector-curvature="0"
+       id="path26330"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 708.66574,790.41283 -141.45212,0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:connector-curvature="0"
+       id="path26332"
+       style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 708.65286,790.41286 0,-162.11843"
+       sodipodi:nodetypes="cc" />
+    <g
+       transform="matrix(0.30076891,0,0,0.30076891,569.53631,355.80546)"
+       id="g5634"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g5636">
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.76482451;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+           id="path5638"
+           sodipodi:cx="421.65353"
+           sodipodi:cy="100.86611"
+           sodipodi:rx="14.173228"
+           sodipodi:ry="10.629921"
+           d="m 435.82676,100.86611 c 0,5.87074 -6.34557,10.62992 -14.17323,10.62992 -7.82765,0 -14.17322,-4.75918 -14.17322,-10.62992 0,-5.870741 6.34557,-10.629919 14.17322,-10.629919 7.82766,0 14.17323,4.759178 14.17323,10.629919 z"
+           transform="matrix(-3.7647525,0,0,5.0196575,1728.7913,176.93908)" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5640"
+         y="706.06537"
+         x="119.25333"
+         style="font-size:66.31791687px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="706.06537"
+           x="119.25333"
+           id="tspan5642"
+           sodipodi:role="line">V</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9385"
+       d="m 681.99587,561.30653 0,66.98787"
+       style="fill:none;stroke:#000000;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 542.11621,561.30646 0,66.98787"
+       id="path9387"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       sodipodi:nodetypes="cc"
+       d="m 652.26646,628.2944 -73.97041,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5660"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       style="stroke:#000000;stroke-width:3.07698894"
+       transform="matrix(0.32468274,0,0,0.3253037,497.70343,215.01436)"
+       id="g5622">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5624"
+         d="m 248.21959,1270.4437 -38.43501,0 m -145.805788,0 -38.621902,0"
+         style="fill:none;stroke:#000000;stroke-width:3.07698894;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="-425.17377"
+         x="1240.4932"
+         height="145.95154"
+         width="59.901131"
+         id="rect5626"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3.07698894;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         transform="matrix(0,1,-1,0,0,0)" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:4.04694939;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path82399-4-9-1-0"
+       sodipodi:cx="210.71428"
+       sodipodi:cy="-52.280678"
+       sodipodi:rx="6.7857141"
+       sodipodi:ry="6.7857141"
+       d="m 217.49999,-52.280678 a 6.7857141,6.7857141 0 1 1 -13.57142,0 6.7857141,6.7857141 0 1 1 13.57142,0 z"
+       transform="matrix(0,-0.2470997,0.2470997,0,694.91441,680.36183)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g9659"
+       style="stroke-width:0.66653192"
+       transform="matrix(1.5003032,0,0,1.5003032,424.43975,486.19326)"
+       ns0:preamble="/home/waldgeist/data/homepage/inkscape-preamble.tex"
+       ns0:text="$R _{\\rm{L}}$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs9661">
+        <g
+           id="g9663">
           <symbol
-             style="overflow:visible"
+             id="textext-f50ba2b5-0"
              overflow="visible"
-             id="symbol20841">
+             style="overflow:visible">
             <path
-               inkscape:connector-curvature="0"
+               id="path9666"
+               d=""
                style="stroke:none"
-               d="M 6.328125,-5.765625 C 6.4375,-6.171875 6.609375,-6.46875 7.40625,-6.5 c 0.046875,0 0.171875,-0.015625 0.171875,-0.203125 0,0 0,-0.109375 -0.125,-0.109375 -0.328125,0 -0.6875,0.03125 -1.015625,0.03125 -0.34375,0 -0.71875,-0.03125 -1.046875,-0.03125 -0.0625,0 -0.171875,0 -0.171875,0.203125 C 5.21875,-6.5 5.3125,-6.5 5.390625,-6.5 c 0.578125,0.015625 0.6875,0.21875 0.6875,0.4375 0,0.03125 -0.03125,0.1875 -0.03125,0.203125 l -0.90625,3.5625 C 4.8125,-0.953125 3.65625,-0.09375 2.65625,-0.09375 c -0.671875,0 -1.203125,-0.4375 -1.203125,-1.296875 0,-0.015625 0,-0.328125 0.109375,-0.765625 L 2.515625,-6.046875 C 2.609375,-6.40625 2.625,-6.5 3.359375,-6.5 c 0.265625,0 0.34375,0 0.34375,-0.203125 0,-0.109375 -0.109375,-0.109375 -0.140625,-0.109375 -0.28125,0 -1,0.03125 -1.28125,0.03125 -0.28125,0 -1,-0.03125 -1.28125,-0.03125 -0.078125,0 -0.1875,0 -0.1875,0.203125 C 0.8125,-6.5 0.890625,-6.5 1.09375,-6.5 c 0.015625,0 0.203125,0 0.375,0.015625 0.171875,0.03125 0.265625,0.03125 0.265625,0.171875 0,0.046875 -0.109375,0.46875 -0.171875,0.703125 l -0.21875,0.875 C 1.25,-4.34375 0.78125,-2.46875 0.734375,-2.265625 0.671875,-2 0.671875,-1.84375 0.671875,-1.6875 c 0,1.203125 0.90625,1.90625 1.953125,1.90625 1.25,0 2.484375,-1.125 2.8125,-2.4375 z m 0,0"
-               id="path20843" />
+               inkscape:connector-curvature="0" />
           </symbol>
           <symbol
-             style="overflow:visible"
+             id="textext-f50ba2b5-1"
              overflow="visible"
-             id="symbol20845">
+             style="overflow:visible">
             <path
-               inkscape:connector-curvature="0"
+               id="path9669"
+               d="m 3.734375,-6.125 c 0.0625,-0.234375 0.09375,-0.328125 0.28125,-0.359375 C 4.109375,-6.5 4.421875,-6.5 4.625,-6.5 c 0.703125,0 1.8125,0 1.8125,0.984375 0,0.34375 -0.15625,1.03125 -0.546875,1.421875 -0.265625,0.25 -0.78125,0.578125 -1.6875,0.578125 l -1.109375,0 z m 1.4375,2.734375 c 1.015625,-0.21875 2.1875,-0.921875 2.1875,-1.921875 0,-0.859375 -0.890625,-1.5 -2.203125,-1.5 l -2.828125,0 c -0.203125,0 -0.296875,0 -0.296875,0.203125 C 2.03125,-6.5 2.125,-6.5 2.3125,-6.5 c 0.015625,0 0.203125,0 0.375,0.015625 0.1875,0.03125 0.265625,0.03125 0.265625,0.171875 0,0.03125 0,0.0625 -0.03125,0.1875 l -1.34375,5.34375 C 1.484375,-0.390625 1.46875,-0.3125 0.671875,-0.3125 0.5,-0.3125 0.40625,-0.3125 0.40625,-0.109375 0.40625,0 0.53125,0 0.546875,0 c 0.28125,0 0.984375,-0.03125 1.25,-0.03125 0.28125,0 1,0.03125 1.28125,0.03125 0.078125,0 0.1875,0 0.1875,-0.203125 0,-0.109375 -0.078125,-0.109375 -0.28125,-0.109375 -0.359375,0 -0.640625,0 -0.640625,-0.171875 0,-0.0625 0.015625,-0.109375 0.03125,-0.171875 l 0.65625,-2.640625 1.1875,0 c 0.90625,0 1.078125,0.5625 1.078125,0.90625 0,0.140625 -0.078125,0.453125 -0.140625,0.6875 C 5.09375,-1.421875 5,-1.0625 5,-0.859375 5,0.21875 6.203125,0.21875 6.328125,0.21875 c 0.84375,0 1.203125,-1 1.203125,-1.140625 0,-0.125 -0.109375,-0.125 -0.125,-0.125 -0.09375,0 -0.109375,0.0625 -0.125,0.140625 C 7.03125,-0.171875 6.59375,0 6.375,0 6.046875,0 5.96875,-0.21875 5.96875,-0.609375 c 0,-0.3125 0.0625,-0.8125 0.109375,-1.140625 0.015625,-0.140625 0.03125,-0.328125 0.03125,-0.46875 0,-0.765625 -0.671875,-1.078125 -0.9375,-1.171875 z m 0,0"
                style="stroke:none"
-               d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z m 0,0"
-               id="path20847" />
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-f50ba2b5-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path9672"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-f50ba2b5-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path9675"
+               d="m 4.53125,-1.828125 -0.234375,0 C 4.21875,-1.15625 4.125,-0.25 2.796875,-0.25 l -0.6875,0 c -0.328125,0 -0.34375,-0.0625 -0.34375,-0.265625 l 0,-3.671875 c 0,-0.234375 0,-0.328125 0.65625,-0.328125 l 0.25,0 0,-0.25 C 2.515625,-4.75 1.625,-4.734375 1.453125,-4.734375 c -0.265625,0 -1.0625,-0.03125 -1.0625,-0.03125 l 0,0.25 0.171875,0 c 0.53125,0 0.546875,0.078125 0.546875,0.328125 l 0,3.625 c 0,0.234375 -0.015625,0.3125 -0.546875,0.3125 l -0.171875,0 0,0.25 3.9375,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
           </symbol>
         </g>
       </defs>
       <g
-         id="g20849">
+         id="textext-f50ba2b5-4">
         <g
-           style="fill:#000000;fill-opacity:1"
-           id="g20851">
+           id="g9678"
+           style="fill:#000000;fill-opacity:1">
           <use
-             height="744.09448"
+             id="use9680"
+             y="83.403"
+             x="118.801"
+             xlink:href="#textext-f50ba2b5-1"
              width="1052.3622"
-             xlink:href="#textext-0dcaac7d-0"
-             x="223.43201"
-             y="134.765"
-             id="use20853" />
+             height="744.09448" />
         </g>
         <g
-           style="fill:#000000;fill-opacity:1"
-           id="g20855">
+           id="g9682"
+           style="fill:#000000;fill-opacity:1">
           <use
-             height="744.09448"
+             id="use9684"
+             y="84.898003"
+             x="126.366"
+             xlink:href="#textext-f50ba2b5-3"
              width="1052.3622"
-             xlink:href="#textext-0dcaac7d-1"
-             x="230.23399"
-             y="136.259"
-             id="use20857" />
+             height="744.09448" />
         </g>
       </g>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 214.51097,526.19261 -60.63268,0"
-       id="path4640"
+       sodipodi:nodetypes="cc"
+       d="m 542.11621,561.30654 -139.8797,10e-6"
+       style="fill:none;stroke:#008000;stroke-width:0.99999981999999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path9963"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:connector-curvature="0"
-       id="path4646"
-       d="m 524.23325,526.19261 -39.27457,0"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
+       inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
        inkscape:connector-curvature="0"
-       id="path4654"
-       d="m 524.23325,818.19263 0,-292"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
+       id="path9965"
+       style="fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 681.99587,561.30653 -53.92357,1e-5"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g5628"
+       transform="matrix(0.30076891,0,0,0.30076891,350.22503,842.33304)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-stromstaerke.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.3248117;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 451.3587,-711.63827 298.88897,1e-5"
+         id="path5630"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5632"
+         d="m 285.08851,-711.63827 59.5528,0"
+         style="fill:none;stroke:#000000;stroke-width:3.3248117;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="translate(256.62993,-1394.8906)"
+         id="g5634-5">
+        <g
+           id="g5636-3">
+          <path
+             sodipodi:type="arc"
+             style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.76482451;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+             id="path5638-6"
+             sodipodi:cx="421.65353"
+             sodipodi:cy="100.86611"
+             sodipodi:rx="14.173228"
+             sodipodi:ry="10.629921"
+             d="m 435.82676,100.86611 c 0,5.87074 -6.34557,10.62992 -14.17323,10.62992 -7.82765,0 -14.17322,-4.75918 -14.17322,-10.62992 0,-5.870741 6.34557,-10.629919 14.17322,-10.629919 7.82766,0 14.17323,4.759178 14.17323,10.629919 z"
+             transform="matrix(-3.7647525,0,0,5.0196575,1728.7913,176.93908)" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5640-3"
+           y="706.06537"
+           x="119.25333"
+           style="font-size:66.31791687px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="706.06537"
+             x="119.25333"
+             id="tspan5642-0"
+             sodipodi:role="line">A</tspan></text>
+      </g>
+    </g>
     <path
-       transform="matrix(0.78846154,0,0,0.78846154,358.09314,567.41391)"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       style="fill:none;stroke:#008000;stroke-width:1.00000011999999994;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 402.23654,561.30655 0,66.98787"
+       id="path10921"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       transform="matrix(0,-0.2470997,0.2470997,0,415.15508,680.36185)"
        d="m 217.49999,-52.280678 a 6.7857141,6.7857141 0 1 1 -13.57142,0 6.7857141,6.7857141 0 1 1 13.57142,0 z"
        sodipodi:ry="6.7857141"
        sodipodi:rx="6.7857141"
        sodipodi:cy="-52.280678"
        sodipodi:cx="210.71428"
-       id="path4923"
-       style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="arc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
+       id="path10923"
+       style="fill:#008000;stroke:#008000;stroke-width:4.04694938999999998;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
+       inkscape:connector-curvature="0"
+       id="path10925"
+       style="fill:none;stroke:#000000;stroke-width:0.99999982;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 596.0074,561.30653 -53.8912,1e-5"
+       sodipodi:nodetypes="cc" />
     <path
        sodipodi:type="arc"
-       style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path24186"
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:4.04694938999999998;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path82399-4-9-1-2"
        sodipodi:cx="210.71428"
        sodipodi:cy="-52.280678"
        sodipodi:rx="6.7857141"
        sodipodi:ry="6.7857141"
        d="m 217.49999,-52.280678 a 6.7857141,6.7857141 0 1 1 -13.57142,0 6.7857141,6.7857141 0 1 1 13.57142,0 z"
-       transform="matrix(0.78846154,0,0,0.78846154,53.721129,567.41391)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
+       transform="matrix(0,-0.2470997,0.2470997,0,555.03475,680.36183)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/mess-schaltung-spannung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 259.1358,526.19261 -39.27457,0"
-       id="path24188"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 259.1358,818.19261 -39.27457,0"
-       id="path24192"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path24194"
-       d="m 524.23325,818.19261 -39.27457,0"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       transform="matrix(0.78846154,0,0,0.78846154,53.721129,859.41391)"
-       d="m 217.49999,-52.280678 a 6.7857141,6.7857141 0 1 1 -13.57142,0 6.7857141,6.7857141 0 1 1 13.57142,0 z"
-       sodipodi:ry="6.7857141"
-       sodipodi:rx="6.7857141"
-       sodipodi:cy="-52.280678"
-       sodipodi:cx="210.71428"
-       id="path24200"
-       style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="arc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path24190"
-       d="m 261.96423,234.19261 -39.27457,0"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 524.23325,234.19261 -39.27457,0"
-       id="path24196"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       transform="matrix(0.78846154,0,0,0.78846154,53.721125,275.41391)"
-       d="m 217.49999,-52.280678 a 6.7857141,6.7857141 0 1 1 -13.57142,0 6.7857141,6.7857141 0 1 1 13.57142,0 z"
-       sodipodi:ry="6.7857141"
-       sodipodi:rx="6.7857141"
-       sodipodi:cy="-52.280678"
-       sodipodi:cx="210.71428"
-       id="path24198"
-       style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="arc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path24202"
-       sodipodi:cx="210.71428"
-       sodipodi:cy="-52.280678"
-       sodipodi:rx="6.7857141"
-       sodipodi:ry="6.7857141"
-       d="m 217.49999,-52.280678 a 6.7857141,6.7857141 0 1 1 -13.57142,0 6.7857141,6.7857141 0 1 1 13.57142,0 z"
-       transform="matrix(0.78846154,0,0,0.78846154,358.09314,275.41391)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path24204"
-       sodipodi:cx="210.71428"
-       sodipodi:cy="-52.280678"
-       sodipodi:rx="6.7857141"
-       sodipodi:ry="6.7857141"
-       d="m 217.49999,-52.280678 a 6.7857141,6.7857141 0 1 1 -13.57142,0 6.7857141,6.7857141 0 1 1 13.57142,0 z"
-       transform="matrix(0.78846154,0,0,0.78846154,358.09314,859.41391)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 524.23325,526.19261 0,-292"
-       id="path24652"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path24654"
-       d="m 219.86123,526.19261 0,-292"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 219.86123,818.19261 0,-292"
-       id="path24656"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path24660"
-       d="m 584.86593,526.19261 -60.63268,0"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <g
-       id="g67044"
-       transform="matrix(4.5000356,0,0,4.5000356,260.43219,430.52257)"
-       style="stroke-width:0.66666138;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         id="path1303-4"
-         d="m 21.259842,3.5433059 0,35.4330711"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path1305-5"
-         d="m 28.346457,3.5433059 0,35.4330711"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path1307-5"
-         d="m 21.236798,21.259841 -21.39073492,0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path1309-3"
-         d="m 28.369499,21.259841 21.390736,0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="textext-7bf059f2-2"
-       transform="matrix(5.6572308,0,0,5.6572308,-916.13465,-339.31677)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <g
-         style="fill:#000000;fill-opacity:1"
-         id="g25652">
-        <use
-           xlink:href="#textext-7bf059f2-0"
-           x="223.43201"
-           y="134.765"
-           id="use25654"
-           width="744.09448"
-           height="1052.3622" />
-      </g>
-      <g
-         style="fill:#000000;fill-opacity:1"
-         id="g25656">
-        <use
-           xlink:href="#textext-7bf059f2-1"
-           x="230.55299"
-           y="136.259"
-           id="use25658"
-           width="744.09448"
-           height="1052.3622" />
-      </g>
-    </g>
-    <g
-       style="stroke-width:0.66666138;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(4.5000356,0,0,4.5000356,260.43219,138.52257)"
-       id="g25957"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 21.259842,3.5433059 0,35.4330711"
-         id="path25959" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 28.346457,3.5433059 0,35.4330711"
-         id="path25961" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 21.236798,21.259841 -21.39073492,0"
-         id="path25963" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 28.369499,21.259841 21.390736,0"
-         id="path25965" />
-    </g>
-    <g
-       id="textext-525957da-2"
-       transform="matrix(5.6572308,0,0,5.6572308,-916.04425,-631.31677)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <g
-         id="g26256"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use26258"
-           y="134.765"
-           x="223.43201"
-           xlink:href="#textext-525957da-0"
-           width="744.09448"
-           height="1052.3622" />
-      </g>
-      <g
-         id="g26260"
-         style="fill:#000000;fill-opacity:1">
-        <use
-           id="use26262"
-           y="136.259"
-           x="230.55299"
-           xlink:href="#textext-525957da-1"
-           width="744.09448"
-           height="1052.3622" />
-      </g>
-    </g>
-    <g
-       style="stroke-width:0.66666138;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(4.5000356,0,0,4.5000356,260.43219,722.52257)"
-       id="g26552"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 21.259842,3.5433059 0,35.4330711"
-         id="path26554" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 28.346457,3.5433059 0,35.4330711"
-         id="path26556" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 21.236798,21.259841 -21.39073492,0"
-         id="path26558" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000;stroke-width:0.66666138;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 28.369499,21.259841 21.390736,0"
-         id="path26560" />
-    </g>
-    <g
-       id="textext-121de192-2"
-       transform="matrix(5.6572308,0,0,5.6572308,-915.22505,-47.714543)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/elektronik/schaltungen/parallelschaltung-von-kondensatoren.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <g
-         style="fill:#000000;fill-opacity:1"
-         id="g26842">
-        <use
-           xlink:href="#textext-121de192-0"
-           x="223.43201"
-           y="134.765"
-           id="use26844"
-           width="744.09448"
-           height="1052.3622" />
-      </g>
-      <g
-         style="fill:#000000;fill-opacity:1"
-         id="g26846">
-        <use
-           xlink:href="#textext-121de192-1"
-           x="230.55299"
-           y="136.259"
-           id="use26848"
-           width="744.09448"
-           height="1052.3622" />
-      </g>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008000;fill-opacity:1;stroke:none;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+       x="391.80743"
+       y="599.46246"
+       id="text10927"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10929"
+         x="391.80743"
+         y="599.46246">1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text10931"
+       y="599.46246"
+       x="531.51031"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+       xml:space="preserve"><tspan
+         y="599.46246"
+         x="531.51031"
+         id="tspan10933"
+         sodipodi:role="line">2</tspan></text>
   </g>
 </svg>

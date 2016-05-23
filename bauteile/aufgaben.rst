@@ -3,76 +3,68 @@
 Aufgaben zu elektronischen Bauteilen
 ====================================
 
-.. _Aufgaben zu Widerständen:
+.. _Aufgaben Widerstände:
 
-Aufgaben zu Widerständen
-------------------------
+Widerstände
+-----------
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Widerstände
 <Widerstände>`.
 
 ----
 
-.. _Widerstand-01:
+.. _bwid01:
 
 * Der Widerstand in Abbildung :ref:`Farbringe-Beispiel 01
   <fig-widerstand-farbringe-01>` hat vier Farbringe mit folgenden Farben
   aufgedruckt: Braun, schwarz, gelb, und goldfarben. Welchen Widerstandswert und
   welche Toleranz besitzt der Widerstand?
 
-  .. figure::
+  .. image::
       ../pics/bauteile/widerstand-farbringe-01.png
-      :name: fig-widerstand-farbringe-01
-      :alt:  fig-widerstand-farbringe-01
       :align: center
       :width: 30%
 
-      Farbringe-Beispiel 01.
+  .. only:: html
 
-      .. only:: html
+      .. centered:: :download:`SVG: Farbringe-Beispiel 01
+                      <../pics/bauteile/widerstand-farbringe-01.svg>`
 
-          :download:`SVG: Farbringe-Beispiel 01
-          <../pics/bauteile/widerstand-farbringe-01.svg>`
-
-  :ref:`Lösung <Widerstand-01-Lösung>`
+  :ref:`Lösung <bwid01l>`
 
 ----
 
-.. _Widerstand-02:
+.. _bwid02:
 
 * Welchen Widerstandswert besitzt der Widerstand in Abbildung
   :ref:`Farbringe-Beispiel 02 <fig-widerstand-farbringe-02>`? Die Farbringe
   haben die Farben rot, rot, orange und goldfarben.
 
-  .. figure::
+  .. image::
       ../pics/bauteile/widerstand-farbringe-02.png
-      :name: fig-widerstand-farbringe-02
-      :alt:  fig-widerstand-farbringe-02
       :align: center
       :width: 30%
 
-      Farbringe-Beispiel 02.
+  .. only:: html
 
-      .. only:: html
+      .. centered:: :download:`SVG: Farbringe-Beispiel 02
+                      <../pics/bauteile/widerstand-farbringe-02.svg>`
 
-          :download:`SVG: Farbringe-Beispiel 02
-          <../pics/bauteile/widerstand-farbringe-02.svg>`
-
-  :ref:`Lösung <Widerstand-02-Lösung>`
+  :ref:`Lösung <bwid02l>`
 
 ----
 
-.. _Widerstand-03:
+.. _bwid03:
 
 * Ein Widerstand hat den Wert :math:`\unit[332]{Ohm}`. Welche Farbringe sind auf
   dem Widerstand mit Sicherheit aufgedruckt? Handelt es sich um einen
   Kohleschicht- oder einen Metallschicht-Widerstand?
 
-  :ref:`Lösung <Widerstand-03-Lösung>`
+  :ref:`Lösung <bwid03l>`
 
 ----
 
-.. _Widerstand-04:
+.. _bwid04:
 
 * Welchen Widerstandswert und welche Toleranz hat der Widerstand in Abbildung
   :ref:`Farbringe-Beispiel 03 <fig-widerstand-farbringe-03>`? Die Farbringe
@@ -92,62 +84,60 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Widerstände
           :download:`SVG: Farbringe-Beispiel 03
           <../pics/bauteile/widerstand-farbringe-03.svg>`
 
-  :ref:`Lösung <Widerstand-04-Lösung>`
+  :ref:`Lösung <bwid04l>`
+
+----
+
+.. Kondensatoren
+
+.. Welche Ladung hat ein auf :math:`\unit[9]{V}` aufgeladener Kondensator mit
+.. einer Kapazität von :math:`\unit[100]{\mu F}`?
 
 
-.. _Aufgaben zu Transformatoren:
+.. _Aufgaben Transformatoren:
 
-Aufgaben zu Transformatoren
----------------------------
+Transformatoren
+---------------
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Transformatoren
 <Transformator>`.
 
 ----
 
-.. _Transformator-01:
+.. _btra01:
 
-*   An einen idealen Transformator, der eine (Primär-)Spule mit :math:`n
-    _{\rm{1}} = 300` Windungen besitzt, wird eine Spannung von :math:`U
-    _{\rm{1}} = \unit[230]{V}` angelegt. Wie viele Windungen muss die zweite
-    Spule haben, damit an ihr eine Spannung von :math:`U _{\rm{2}} =
-    \unit[100]{V}` abgegriffen werden kann?
+* An einen idealen Transformator, der eine (Primär-)Spule mit :math:`n
+  _1 = 300` Windungen besitzt, wird eine Spannung von :math:`U
+  _1 = \unit[230]{V}` angelegt. Wie viele Windungen muss die zweite
+  Spule haben, damit an ihr eine Spannung von :math:`U_2 =
+  \unit[100]{V}` abgegriffen werden kann?
 
-    :ref:`Lösung <Transformator-01-Lösung>`
-
-----
-
-.. _Transformator-02:
-
-*   Ein Transformator hat zwei Spulen mit unterschiedlicher Windungsanzahl
-    :math:`(n _{\rm{1}} \ne n _{\rm{2}})`. An welcher Seite liegt stets die
-    höhere Spannung bzw. niedrigere Spannung an?
-
-    :ref:`Lösung <Transformator-02-Lösung>`
+  :ref:`Lösung <btra01l>`
 
 ----
 
-.. _Transformator-03:
+.. _btra02:
 
-*   In der Primärspule (Windungszahl :math:`n _{\rm{1}} = 300`) eines idealen
-    Transformators fließt eine Stromstärke von :math:`I _{\rm{1}}  =
-    \unit[2]{A}`. Wie hoch ist die Stromstärke in der Sekundärspule, wenn diese
-    :math:`n _{\rm{2}} = 1200` Windungen besitzt?
+* Ein Transformator hat zwei Spulen mit unterschiedlicher Windungsanzahl
+  :math:`(n_1 \ne n_2)`. An welcher Seite liegt stets die
+  höhere Spannung bzw. niedrigere Spannung an?
 
-    :ref:`Lösung <Transformator-03-Lösung>`
+  :ref:`Lösung <btra02l>`
 
-..
-    Welche Ladung hat ein auf :math:`\unit[9]{V}` aufgeladener Kondensator mit
-    einer Kapazitaet von :math:`\unit[100]{\mu F}`?
+----
 
+.. _btra03:
 
-.. raw:: latex
+* In der Primärspule (Windungszahl :math:`n_1 = 300`) eines idealen
+  Transformators fließt eine Stromstärke von :math:`I_1  =
+  \unit[2]{A}`. Wie hoch ist die Stromstärke in der Sekundärspule, wenn diese
+  :math:`n_2 = 1200` Windungen besitzt?
 
-    \rule{\linewidth}{0.5pt}
+  :ref:`Lösung <btra03l>`
 
-.. raw:: html
+----
 
-    <hr/>
+.. foo
 
 .. only:: html
 

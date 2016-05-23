@@ -22,17 +22,18 @@ Als Knoten wird eine leitende Verbindung zweier oder mehrerer Leiter bezeichnet.
 
 Aufgrund der Ladungserhaltung ergibt es sich, dass an jedem Knotenpunkt die
 Menge der zufließenden Ladung gleich der Menge der abfließenden Ladung sein
-muss. Somit muss auch die Summe der zufließenden Stromstärken :math:`I _{\rm{in,
-1}},\; I _{\rm{in, 2}},\; \ldots` gleich der Summe der abfließenden
-Stromstärken :math:`I _{\rm{out, 1}},\; I _{\rm{out, 2}},\; \ldots` sein.
+muss. Somit muss auch die Summe der zufließenden Stromstärken
+:math:`I_{\mathrm{in, 1}},\; I_{\mathrm{in, 2}},\; \ldots` gleich der Summe der
+abfließenden Stromstärken :math:`I_{\mathrm{out, 1}},\; I_{\mathrm{out, 2}},\;
+\ldots` sein.
 
 .. math::
 
-    I _{\rm{in, 1}} + I _{\rm{in, 2}} + I _{\rm{in, 3}} + \ldots =
-    I _{\rm{out, 1}} + I _{\rm{out, 2}} + I _{\rm{out, 3}} + \ldots
+    I_{\mathrm{in, 1}} + I_{\mathrm{in, 2}} + I_{\mathrm{in, 3}} + \ldots =
+    I_{\mathrm{out, 1}} + I_{\mathrm{out, 2}} + I_{\mathrm{out, 3}} + \ldots
 
-Zählt man die Werte der zufließenden Stromstärke(n) :math:`I _{\rm{in}}` als
-positiv und die Werte der abfließenden Stromstärke(n) :math:`I _{\rm{out}}`
+Zählt man die Werte der zufließenden Stromstärke(n) :math:`I_{\mathrm{in}}` als
+positiv und die Werte der abfließenden Stromstärke(n) :math:`I_{\mathrm{out}}`
 als negativ, so lässt sich die obige Gleichung mit dem Summenzeichen
 :math:`\Sigma` einfacher schreiben als:
 
@@ -67,20 +68,22 @@ Die Maschenregel
 
 Als Masche wird eine geschlossene Aneinanderreihung von Bauteilen bezeichnet.
 
-Die Spannungswerte der Stromquellen :math:`U _{\rm{\uparrow \, 1}},\; U
-_{\rm{\uparrow \, 2}},\; \ldots` müssen in der Summe gleich der Summe der
-einzelnen an den Verbrauchern anliegenden Spannungen :math:`U _{\rm{\downarrow \,
-1}},\; U _{\rm{\downarrow \, 2}},\; \ldots` sein.
+Die Spannungswerte der Stromquellen :math:`U_{\mathrm{\uparrow \, 1}},\;
+U_{\mathrm{\uparrow \, 2}},\; \ldots` müssen in der Summe gleich der Summe der
+einzelnen an den Verbrauchern anliegenden Spannungen
+:math:`U_{\mathrm{\downarrow \, 1}},\; U_{\mathrm{\downarrow \, 2}},\; \ldots`
+sein.
 
 .. math::
 
-    U _{\rm{\uparrow \, 1}} + U _{\rm{\uparrow \, 2}} + U _{\rm{\uparrow \, 3}} + \ldots =
-    U _{\rm{\downarrow \, 1}} + U _{\rm{\downarrow \, 2}} + U _{\rm{\downarrow \, 3}} + \ldots
+    U_{\mathrm{\uparrow \, 1}} + U_{\mathrm{\uparrow \, 2}} +
+    U_{\mathrm{\uparrow \, 3}} + \ldots = U_{\mathrm{\downarrow \, 1}} +
+    U_{\mathrm{\downarrow \, 2}} + U_{\mathrm{\downarrow \, 3}} + \ldots
 
-Zählt man wiederum die Spannungswerte der Stromquellen :math:`U _{\rm{\uparrow
-}}` als positiv und die Spannungswerte der Verbraucher :math:`I _{\rm{\downarrow
-}}` als negativ, so lässt sich die obige Gleichung mit dem Summenzeichen
-:math:`\Sigma` einfacher schreiben als:
+Zählt man wiederum die Spannungswerte der Stromquellen
+:math:`U_{\mathrm{\uparrow }}` als positiv und die Spannungswerte der
+Verbraucher :math:`I_{\mathrm{\downarrow }}` als negativ, so lässt sich die
+obige Gleichung mit dem Summenzeichen :math:`\Sigma` einfacher schreiben als:
 
 .. math::
     :label: eqn-maschenregel
@@ -103,3 +106,4 @@ Sämtliche Spannungen innerhalb einer Masche müssen in der Summe stets null erg
         :download:`SVG: Maschenregel
         <../pics/schaltungen/maschenregel.svg>`
 
+.. todo übungsaufgaben

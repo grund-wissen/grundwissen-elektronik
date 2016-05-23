@@ -35,9 +35,10 @@ einstellbar oder vom Bauteil festgelegt sein.
 
 Die Gehäuseform eines Spannungsreglers ähnelt der eines TO-220-Transistors. Am
 linken Anschluss wird der Spannungsregler mit der ``+``-Seite der Stromquelle
-:math:`(\rm{IN})` verbunden, am mittleren liegt die Masse :math:`(\rm{GND})` an.
-Am rechten Anschluss kann die vom Spannungsregler bereitgestellte konstante
-Ausgangsspannung :math:`(\rm{OUT})` abgegriffen werden.
+:math:`(\mathrm{IN})` verbunden, am mittleren liegt die Masse
+:math:`(\mathrm{GND})` an. Am rechten Anschluss kann die vom Spannungsregler
+bereitgestellte konstante Ausgangsspannung :math:`(\mathrm{OUT})` abgegriffen
+werden.
 
 ..  [#]_
 

@@ -25,7 +25,7 @@ Elektronik
 
     bauteile/index.rst
     schaltungen/index.rst
-    versuche-aufgaben-loesungen.rst
+    experimente-aufgaben-loesungen.rst
     links.rst
 
 

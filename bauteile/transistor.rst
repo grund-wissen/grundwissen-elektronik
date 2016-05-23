@@ -12,13 +12,15 @@ Ein Transistor (Kurzwort für "transfer resistor") kann, je nach Schaltungsart,
 tatsächlich wie ein elektrisch regelbarer Widerstand eingesetzt werden.
 Grundsätzlich ähnelt ein Transistor allerdings vielmehr einer :ref:`Röhrentriode
 <Röhrentriode>`, weshalb er auch als "Halbleiter-Triode" bezeichnet wird.
+Transistoren werden insbesondere verwendet, um Ströme zu schalten, zu verstärken
+oder zu steuern.
 
 Im Elektronik-Selbstbau werden meist so genannte "bipolare" Transistoren
 eingesetzt. Diese bestehen aus drei Halbleiterschichten, wobei je nach
 Reihenfolge der Dotierungen zwischen :math:`npn`- und :math:`pnp`-Transistoren
 unterschieden wird. Die drei an den Halbleiterschichten angebrachten Anschlüsse
-eines bipolaren Transistors werden Kollektor :math:`\rm{C}`, Basis :math:`\rm{B}` und
-Emitter :math:`\rm{E}` genannt. [#]_
+eines bipolaren Transistors werden Kollektor :math:`\mathrm{C}`, Basis :math:`\mathrm{B}` und
+Emitter :math:`\mathrm{E}` genannt. [#]_
 
 
 .. figure::
@@ -29,7 +31,7 @@ Emitter :math:`\rm{E}` genannt. [#]_
     :width: 33%
 
     Bauformen von :math:`npn`-Transistoren. Bei :math:`pnp`-Transistoren sind
-    :math:`\rm{C}` und :math:`\rm{E}` vertauscht.
+    :math:`\mathrm{C}` und :math:`\mathrm{E}` vertauscht.
 
     .. only:: html
 
@@ -39,13 +41,8 @@ Emitter :math:`\rm{E}` genannt. [#]_
 Neben den gewöhnlichen bipolaren Transistoren gibt es auch "unipolare"
 Feldeffekttransistoren (FETs), die im Hobby-Bereich meist zum Steuern größerer
 Stromstärken genutzt werden. In großen Stückzahlen bilden sie darüber hinaus die
-wichtigsten Bestandteile von integrierten Schaltkreisen, z.B. Operationsverstärker
-oder Mikroprozessoren.
-
-..  Bipolare Transistoren
-..  ---------------------
-
-..  .. rubric:: Der npn-Transistor
+wichtigsten Bestandteile von integrierten Schaltkreisen, beispielsweise
+Operationsverstärkern oder Mikroprozessoren.
 
 .. _npn-Transistor:
 
@@ -60,10 +57,10 @@ metallischen Anschluss-Kontakten verbunden.
 
 .. figure::
     ../pics/bauteile/aufbau-transistor-npn.png
-    :width: 60%
-    :align: center
     :name: fig-aufbau-transistor-npn
     :alt:  fig-aufbau-transistor-npn
+    :align: center
+    :width: 60%
 
     Innerer Aufbau eines :math:`npn`-Transistors.
 
@@ -74,17 +71,17 @@ metallischen Anschluss-Kontakten verbunden.
 
 
 Gewöhnlich verläuft der zu steuernde Hauptstrom zwischen dem Kollektor
-:math:`\rm{C}` und dem Emitter :math:`(\rm{E})`. Die Wirkungsweise des
+:math:`\mathrm{C}` und dem Emitter :math:`(\mathrm{E})`. Die Wirkungsweise des
 Transistors wird dabei durch die Stromstärke bestimmt, die durch die Basis
-:math:`\rm{B}` fließt: [#]_
+:math:`\mathrm{B}` fließt: [#]_
 
-* Fließt durch die Basis :math:`\rm{B}` kein Strom, so ist die
-  Kollektor-Emitter-Strecke :math:`\rm{CE}` des Transistors gesperrt. In seiner
+* Fließt durch die Basis :math:`\mathrm{B}` kein Strom, so ist die
+  Kollektor-Emitter-Strecke :math:`\mathrm{CE}` des Transistors gesperrt. In seiner
   Wirkung entspricht er dabei einem unendlich großen Widerstand bzw. einem
   geöffneten Schalter.
 
-* Fließt ein schwacher Strom durch die Basis :math:`\rm{B}`, so wird die
-  Kollektor-Emitter-Strecke :math:`\rm{CE}` leitfähig. Je nach Art der
+* Fließt ein schwacher Strom durch die Basis :math:`\mathrm{B}`, so wird die
+  Kollektor-Emitter-Strecke :math:`\mathrm{CE}` leitfähig. Je nach Art der
   Transistor-Schaltung entspricht die Wirkungsweise des Transistors einem
   elektrisch regelbaren Widerstand oder einer leitenden Verbindung (fast) ohne
   Widerstand.
@@ -92,10 +89,10 @@ Transistors wird dabei durch die Stromstärke bestimmt, die durch die Basis
 
 .. figure::
     ../pics/bauteile/schaltzeichen-transistor-npn.png
-    :width: 33%
-    :align: center
     :name: fig-schaltzeichen-transistor-npn
     :alt:  fig-schaltzeichen-transistor-npn
+    :align: center
+    :width: 33%
 
     Schaltzeichen eines :math:`npn`-Transistors.
 
@@ -114,6 +111,22 @@ Bauart, bei rund :math:`100 \text{ bis } 500`; beispielsweise kann bei einem
 Transistor mit einem Verstärkungsfaktor von :math:`300` ein Basis-Strom von
 :math:`\unit[1]{mA}` einen Kollektor-Emitter-Strom von maximal
 :math:`\unit[300]{mA} = \unit[0,3]{A}` steuern.
+
+.. figure::
+    ../pics/bauteile/diagramm-kennlinie-transistor.png
+    :name: fig-diagramm-kennlinie-transistor
+    :alt:  fig-diagramm-kennlinie-transistor
+    :align: center
+    :width: 60%
+
+    Beispiel einer :math:`I_{\mathrm{C}}(I_{\mathrm{B}})`-Kennlinie eines
+    Transistors.
+
+    .. only:: html
+
+        :download:`SVG: Transistor-Kennlinie
+        <../pics/bauteile/diagramm-kennlinie-transistor.svg>`
+
 
 Ist der durch die Basis fließende Strom groß genug, so ist der Transistor "in
 Sättigung" -- zwischen Kollektor und Emitter fließt entsprechend der maximal
@@ -184,6 +197,6 @@ Entsprechend sind auch der Kollektor- und der Emitter-Anschluss eines
 .. [#]  Im Englischen wird die Basis in Anlehnung an das Gitter einer
         Röhrentriode als "gate" bezeichnet.
 
-.. [#]  Ebenso wie der Kollektor-Strom :math:`\rm{CE}` fließt auch der
-        Basis-Strom :math:`\rm{BE}` zum Emitter hin ab.
+.. [#]  Ebenso wie der Kollektor-Strom :math:`\mathrm{CE}` fließt auch der
+        Basis-Strom :math:`\mathrm{BE}` zum Emitter hin ab.
 

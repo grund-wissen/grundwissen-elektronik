@@ -531,8 +531,7 @@ vorgesehen.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu
-    Widerständen>`.
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Widerstände>`.
 
 .. :ref:`Versuche <Versuche zu Widerständen>`
 

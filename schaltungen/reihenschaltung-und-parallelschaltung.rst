@@ -28,19 +28,19 @@ parallel oder in Reihe geschaltet sind.
 .. rubric:: Reihenschaltung von Widerständen
 
 Bei einer Reihenschaltung von :math:`n` Widerständen ist der Gesamtwiderstand
-:math:`R _{\rm{ges}}` gleich der Summe der Einzelwiderstände :math:`R
-_{\rm{1}},\; R _{\rm{2}},\; \ldots,\; R _{\rm{n}}`:
+:math:`R_{\mathrm{ges}}` gleich der Summe der Einzelwiderstände :math:`R_1,\;
+R_2,\; \ldots,\; R_{\mathrm{n}}`:
 
 .. math::
     :label: eqn-reihenschaltung-widerstand
 
-    R _{\rm{ges}} &= R _{\rm{1}} + R _{\rm{2}} + \ldots + R _{\rm{n}} \\
-    &= \sum_{i=1}^{n} R  _{\rm{i}}
+    R_{\mathrm{ges}} &= R_1 + R_2 + \ldots + R_{\mathrm{n}} \\
+    &= \sum_{i=1}^{n} R  _{\mathrm{i}}
 
 Werden beispielsweise drei Widerstände der Größe :math:`R = \unit[100]{\Omega }`
 in Reihe geschaltet, so wirken sie zusammen wie ein Widerstand der Größe
-:math:`R _{\rm{ges}} = \unit[100]{\Omega } + \unit[100]{\Omega } +
-\unit[100]{\Omega } = \unit[300]{\Omega }`.
+:math:`R_{\mathrm{ges}} = \unit[100]{\Omega} + \unit[100]{\Omega} +
+\unit[100]{\Omega} = \unit[300]{\Omega}`.
 
 .. figure::
     ../pics/schaltungen/reihenschaltung-von-widerstaenden.png
@@ -56,25 +56,25 @@ in Reihe geschaltet, so wirken sie zusammen wie ein Widerstand der Größe
         :download:`SVG: Reihenschaltung von Widerständen
         <../pics/schaltungen/reihenschaltung-von-widerstaenden.svg>`
 
-Die an einer Reihenschaltung anliegende Gesamtspannung :math:`U _{\rm{ges}}`
+Die an einer Reihenschaltung anliegende Gesamtspannung :math:`U_{\mathrm{ges}}`
 teilt sich gemäß der :ref:`Maschenregel <Die Maschenregel>` in :math:`n`
-Teilspannungen :math:`U _{\rm{1}},\; U _{\rm{2}},\; \ldots` auf. Dabei ist die
-Gesamtspannung gleich der Summe der einzelnen Teilspannungen:
+Teilspannungen :math:`U_1,\; U_2,\; \ldots` auf. Dabei ist die Gesamtspannung
+gleich der Summe der einzelnen Teilspannungen:
 
 .. math::
     :label: eqn-reihenschaltung-spannung
 
-    U _{\rm{ges}} &= U _{\rm{1}} + U _{\rm{2}} + \ldots + U _{\rm{n}} \\
-    &= \sum_{i=1}^{n} U  _{\rm{i}}
+    U_{\mathrm{ges}} &= U_1 + U_2 + \ldots + U_{\mathrm{n}} \\
+    &= \sum_{i=1}^{n} U  _{\mathrm{i}}
 
-Die Stromstärke :math:`I _{\rm{ges}}`, die mehrere in Reihe geschaltete
+Die Stromstärke :math:`I_{\mathrm{ges}}`, die mehrere in Reihe geschaltete
 Widerstände durchfließt, ist an allen Stellen der Reihenschaltung gleich. Somit
 gilt:
 
 .. math::
     :label: eqn-reihenschaltung-stromstärke
 
-    I _{\rm{ges}} = I _{\rm{1}} = I _{\rm{2}} = \ldots = I _{\rm{n}}
+    I_{\mathrm{ges}} = I_1 = I_2 = \ldots = I_{\mathrm{n}}
 
 Diese Tatsache wird u.a. zur Stromstärkemessung genutzt, indem ein Amperemeter
 an einer beliebigen Stelle in den zu untersuchenden (Teil-)Stromkreis als
@@ -87,8 +87,8 @@ die durch den Widerstand fließende Stromstärke :math:`I` geschlossen werden:
 
 .. math::
 
-    U = R \cdot I _{\rm{ges}} \quad ; \quad I = I _{\rm{ges}} = \frac{U
-    _{\rm{ges}}}{R _{\rm{ges}}}
+    U = R \cdot I_{\mathrm{ges}} \quad ; \quad I = I_{\mathrm{ges}} = \frac{U
+    _{\mathrm{ges}}}{R_{\mathrm{ges}}}
 
 
 .. index::
@@ -97,23 +97,24 @@ die durch den Widerstand fließende Stromstärke :math:`I` geschlossen werden:
 
 .. rubric:: Parallelschaltung von Widerständen
 
-Bei einer Parallelschaltung von :math:`n` Widerständen addieren sich die Kehrwerte
-der Einzelwiderstände :math:`R _{\rm{1}},\; R _{\rm{2}},\; \ldots` zum Kehrwert
-des Gesamtwiderstandes :math:`R _{\rm{ges}}` auf:
+Bei einer Parallelschaltung von :math:`n` Widerständen addieren sich die
+Kehrwerte der Einzelwiderstände :math:`R_1,\; R_2,\; \ldots` zum Kehrwert des
+Gesamtwiderstandes :math:`R_{\mathrm{ges}}` auf:
 
 .. math::
     :label: eqn-parallelschaltung-widerstand
 
-    \frac{1}{R _{\rm{ges}}} &= \frac{1}{R _{\rm{1}} } + \frac{1}{R _{\rm{2}} } +
-    \ldots + \frac{1}{R _{\rm{n}}} \\
-    &= \sum_{i=1}^{n} \frac{1}{R  _{\rm{i}}}
+    \frac{1}{R_{\mathrm{ges}}} &= \frac{1}{R_1} + \frac{1}{R_2} + \ldots +
+    \frac{1}{R_{\mathrm{n}}} \\
+    &= \sum_{i=1}^{n} \frac{1}{R_{\mathrm{i}}}
 
-Werden beispielsweise drei Widerstände der Größe :math:`R = \unit[100]{\Omega }`
+Werden beispielsweise drei Widerstände der Größe :math:`R = \unit[100]{\Omega}`
 parallel zueinander geschaltet, so ergibt sich für den Kehrwert des
-Gesamtwiderstands :math:`\frac{1}{R _{\rm{ges}}} = \unit[\frac{1}{100}]{\Omega }
-+ \unit[\frac{1}{100} ]{\Omega } + \unit[\frac{1}{100} ]{\Omega } =
-\unit[\frac{3}{100} ]{\Omega }`. Der Gesamtwiderstand beträgt somit :math:`R
-_{\rm{ges}} = \unit[\frac{100}{3} ]{\Omega } \approx \unit[33,3]{\Omega }`.
+Gesamtwiderstands :math:`\frac{1}{R_{\mathrm{ges}}} =
+\unit[\frac{1}{100}]{\Omega} + \unit[\frac{1}{100}]{\Omega} +
+\unit[\frac{1}{100}]{\Omega} = \unit[\frac{3}{100} ]{\Omega }`. Der
+Gesamtwiderstand beträgt somit :math:`R_{\mathrm{ges}} =
+\unit[\frac{100}{3}]{\Omega} \approx \unit[33,3]{\Omega}`.
 
 .. figure::
     ../pics/schaltungen/parallelschaltung-von-widerstaenden.png
@@ -130,25 +131,25 @@ _{\rm{ges}} = \unit[\frac{100}{3} ]{\Omega } \approx \unit[33,3]{\Omega }`.
         <../pics/schaltungen/parallelschaltung-von-widerstaenden.svg>`
 
 An allen :math:`n` Widerständen einer Parallelschaltung liegt die gleiche
-Spannung an. Diese ist gleich der Gesamtspannung :math:`U _{\rm{ges}}`:
+Spannung an. Diese ist gleich der Gesamtspannung :math:`U_{\mathrm{ges}}`:
 
 .. math::
     :label: eqn-parallelschaltung-spannung
 
-    U _{\rm{ges}} = U _{\rm{1}} = U _{\rm{2}} = \ldots = U _{\rm{n}}
+    U_{\mathrm{ges}} = U_1 = U_2 = \ldots = U_{\mathrm{n}}
 
 Diese Tatsache wird u.a. zur Spannungsmessung genutzt, indem ein Voltmeter
 parallel zum untersuchten (Teil-)Stromkreis bzw. Bauteil geschalten wird.
 
-Die Stromstärke :math:`I _{\rm{ges}}` teilt sich bei einer Parallelschaltung
+Die Stromstärke :math:`I_{\mathrm{ges}}` teilt sich bei einer Parallelschaltung
 gemäß der :ref:`Knotenregel <Die Knotenregel>` auf :math:`n` Teilstromstärken
 auf:
 
 .. math::
     :label: eqn-parallelschaltung-stromstärke
 
-    I _{\rm{ges}} &= I _{\rm{1}} + I _{\rm{2}} + \ldots + I _{\rm{n}} \\
-    &= \sum_{i=1}^{n} I  _{\rm{i}}
+    I_{\mathrm{ges}} &= I_1 + I_2 + \ldots + I_{\mathrm{n}} \\
+    &= \sum_{i=1}^{n} I_{\mathrm{i}}
 
 Ist der Widerstandswert :math:`R` eines Widerstands einer Parallelschaltung
 bekannt, kann wiederum mit Hilfe der obigen Formeln und des :ref:`Ohmschen
@@ -158,7 +159,7 @@ geschlossen werden:
 
 .. math::
 
-    U = U _{\rm{ges}} \quad ; \quad I = \frac{U _{\rm{ges}}}{R}
+    U = U_{\mathrm{ges}} \quad ; \quad I = \frac{U_{\mathrm{ges}}}{R}
 
 
 .. _Reihen- und Parallelschaltung von Stromquellen:
@@ -179,26 +180,26 @@ werden.
 .. rubric:: Reihenschaltung von Stromquellen
 
 Werden :math:`n` Stromquellen in Reihe geschaltet, so addieren sich ihre
-einzelnen Spannungswerte :math:`U _{\rm{1}},\; U _{\rm{2}},\; U _{\rm{n}}` zu
-einer Gesamtspannung :math:`U _{\rm{ges}}`:
+einzelnen Spannungswerte :math:`U_1,\; U_2,\; U_{\mathrm{n}}` zu
+einer Gesamtspannung :math:`U_{\mathrm{ges}}`:
 
 .. math::
 
-    U _{\rm{ges}} &= U _{\rm{1}} + U _{\rm{2}} + \ldots + U _{\rm{n}} \\
-    &= \sum_{i=1}^{n} U  _{\rm{i}}
+    U_{\mathrm{ges}} &= U_1 + U_2 + \ldots + U_{\mathrm{n}} \\
+    &= \sum_{i=1}^{n} U_{\mathrm{i}}
 
 Diese Gleichung ist formal mit Gleichung :eq:`eqn-reihenschaltung-spannung` identisch.
 Der Unterschied liegt in der entgegengesetzten Wirkungsweise von Stromquellen
 und Widerständen:
 
 * In einer Reihenschaltung wird durch das Hinzufügen eines zusätzlichen
-  Widerstands :math:`R _{\rm{\downarrow }}` die für die übrigen Verbraucher
-  verfügbare Spannung auf :math:`U _{\rm{neu}} = U _{\rm{ges}} - R
-  _{\rm{\downarrow }} \cdot I _{\rm{ges}}` reduziert.
+  Widerstands :math:`R_{\mathrm{\downarrow}}` die für die übrigen Verbraucher
+  verfügbare Spannung auf :math:`U_{\mathrm{neu}} = U_{\mathrm{ges}} -
+  R_{\mathrm{\downarrow}} \cdot I_{\mathrm{ges}}` reduziert.
 * In einer Reihenschaltung wird durch das Hinzufügen einer zusätzlichen
-  Stromquelle :math:`U _{\rm{\uparrow }}` die für die übrigen Verbraucher
-  verfügbare Spannung auf :math:`U _{\rm{neu}} = U _{\rm{ges}} + U
-  _{\rm{\uparrow }}` erhöht.
+  Stromquelle :math:`U_{\mathrm{\uparrow}}` die für die übrigen Verbraucher
+  verfügbare Spannung auf :math:`U_{\mathrm{neu}} = U_{\mathrm{ges}} +
+  U_{\mathrm{\uparrow}}` erhöht.
 
 .. figure::
     ../pics/schaltungen/reihenschaltung-von-stromquellen.png
@@ -225,38 +226,38 @@ resultierende Stromquelle eine :math:`n`-fache Spannung auf.
 .. rubric:: Parallelschaltung von Stromquellen
 
 Werden :math:`n` Stromquellen parallel zueinander geschaltet, so reduzieren sich
-die Teilstromstärken :math:`I _{\rm{1}},\; I _{\rm{2}},\; \ldots`, die jede
-einzelne Stromquelle zur gesamten Stromstärke :math:`I _{\rm{ges}}` beisteuert.
+die Teilstromstärken :math:`I_1,\; I_2,\; \ldots`, die jede
+einzelne Stromquelle zur gesamten Stromstärke :math:`I_{\mathrm{ges}}` beisteuert.
 
 .. math::
 
-    I _{\rm{ges}} &= I _{\rm{1}} + I _{\rm{2}} + \ldots + I _{\rm{n}} \\
-    &= \sum_{i=1}^{n} I  _{\rm{i}}
+    I_{\mathrm{ges}} &= I_1 + I_2 + \ldots + I_{\mathrm{n}} \\
+    &= \sum_{i=1}^{n} I_{\mathrm{i}}
 
 Diese Gleichung ist formal mit Gleichung :eq:`eqn-parallelschaltung-stromstärke`
 identisch. An dieser Stelle hat sie zweierlei gleichsam gültige Wirkungen zur
 Folge:
 
-* Wird eine Stromquelle, die eine maximale Stromstärke :math:`I _{\rm{\uparrow }}`
+* Wird eine Stromquelle, die eine maximale Stromstärke :math:`I_{\mathrm{\uparrow}}`
   liefern kann, parallel zu einer bestehenden Stromquelle geschaltet, so erhöht
-  sich die insgesamt mögliche Stromstärke auf :math:`I _{\rm{max,neu}} = I
-  _{\rm{max,alt}} + I _{\rm{\uparrow }}`. [#]_
+  sich die insgesamt mögliche Stromstärke auf :math:`I_{\mathrm{max,neu}} =
+  I_{\mathrm{max,alt}} + I_{\mathrm{\uparrow}}`. [#]_
 
   .. pic
 
-* Wird eine weitere Stromquelle :math:`I _{\rm{\uparrow }}` parallel zu einem
+* Wird eine weitere Stromquelle :math:`I_{\mathrm{\uparrow}}` parallel zu einem
   bestehenden Stromkreis geschaltet, so wird die bisherige Stromquelle auf
-  :math:`I _{\rm{neu}} = I _{\rm{ges}} - I _{\rm{\uparrow }}` "entlastet". Bei
-  Stromquellen mit einem begrenzten Energiespeicher, beispielsweise Batterien
-  und Akkumulatoren, wird dadurch die Entladezeit ("Lebensdauer") entsprechend
-  erhöht. [#]_
+  :math:`I_{\mathrm{neu}} = I_{\mathrm{ges}} - I_{\mathrm{\uparrow}}`
+  "entlastet". Bei Stromquellen mit einem begrenzten Energiespeicher,
+  beispielsweise Batterien und Akkumulatoren, wird dadurch die Entladezeit
+  ("Lebensdauer") entsprechend erhöht. [#]_
 
 .. figure::
     ../pics/schaltungen/parallelschaltung-von-stromquellen.png
     :name:  fig-parallelschaltung-von-stromquellen
     :alt:   fig-parallelschaltung-von-stromquellen
     :align: center
-    :width: 45%
+    :width: 30%
 
     Parallelschaltung von drei Stromquellen.
 
@@ -308,27 +309,27 @@ Ladungsmenge :math:`Q`  aufgeladen.
 
 
 Wie bei Reihenschaltungen üblich, addieren sich dabei die an den einzelnen
-Kondensatoren abfallenden Teilspannungen :math:`U _{\rm{i}}`, die sich mit Hilfe
-der allgemeinen Kondensator-Formel :math:`(Q = C \cdot U)` als :math:`U
-_{\rm{i}} =Q / C _{\rm{i}}` ausdrücken lassen:
+Kondensatoren abfallenden Teilspannungen :math:`U_{\mathrm{i}}`, die sich mit
+Hilfe der allgemeinen Kondensator-Formel :math:`(Q = C \cdot U)` als
+:math:`U_{\mathrm{i}} =Q / C_{\mathrm{i}}` ausdrücken lassen:
 
 .. math::
 
-    U _{\rm{ges}} = \frac{Q}{C _{\rm{1}}} + \frac{Q}{ C _{\rm{2}}} + \ldots =
-    \sum_{i=1}^{n} \frac{Q}{C _{\rm{i}}}
+    U_{\mathrm{ges}} = \frac{Q}{C_1} + \frac{Q}{ C_2} + \ldots =
+    \sum_{i=1}^{n} \frac{Q}{C_{\mathrm{i}}}
 
 Um herauszufinden, wie mehrere Kondensatoren in ihrer Gesamtheit wirken, d.h.
-welche Gesamt-Kapazität :math:`C _{\rm{ges}}` sich aus der Reihenschaltung der
-:math:`n` einzelnen Kondensatoren :math:`C _{\rm{i}}` ergibt, muss man beide
-Seiten der obigen Gleichung durch die konstante Ladung :math:`Q` teilen. Die
-linke Seite der Gleichung entspricht dann der Gesamtkapazität :math:`C
-_{\rm{ges}} = U _{\rm{ges}} / Q`, die rechte Seite der Summe aller Kehrwerte der
-einzelnen Kondensatoren:
+welche Gesamt-Kapazität :math:`C_{\mathrm{ges}}` sich aus der Reihenschaltung
+der :math:`n` einzelnen Kondensatoren :math:`C_{\mathrm{i}}` ergibt, muss man
+beide Seiten der obigen Gleichung durch die konstante Ladung :math:`Q` teilen.
+Die linke Seite der Gleichung entspricht dann der Gesamtkapazität
+:math:`C_{\mathrm{ges}} = U_{\mathrm{ges}} / Q`, die rechte Seite der Summe
+aller Kehrwerte der einzelnen Kondensatoren:
 
 .. math::
     :label: eqn-reihenschaltung-kondensator
 
-    C _{\rm{Ges}} = \sum_{i=1}^{n} \frac{1}{C _{\rm{i}}}
+    C_{\mathrm{Ges}} = \sum_{i=1}^{n} \frac{1}{C_{\mathrm{i}}}
 
 Wird zu einem bestehenden Kondensator ein weiterer in Reihe geschaltet, so nimmt
 die Gesamtkapazität ab. Kondensatoren verhalten sich in einer Reihenschaltung
@@ -342,16 +343,16 @@ somit ähnlich wie Widerstände in einer Parallelschaltung.
 .. rubric:: Parallelschaltung von Kondensatoren
 
 Werden :math:`n`  Kondensatoren parallel zueinander geschaltet, so liegt an
-allen die gleiche Spannung :math:`U` an. Der Gesamtstrom :math:`I _{\rm{ges}}`
+allen die gleiche Spannung :math:`U` an. Der Gesamtstrom :math:`I_{\mathrm{ges}}`
 teilt sich in :math:`n` Teilströme auf, wodurch die einzelnen Kondensatoren mit
-unterschiedlichen Ladungen :math:`Q _{\rm{i}}` geladen werden.
+unterschiedlichen Ladungen :math:`Q_{\mathrm{i}}` geladen werden.
 
 .. figure::
     ../pics/schaltungen/parallelschaltung-von-kondensatoren.png
     :name:  fig-parallelschaltung-von-kondensatoren
     :alt:   fig-parallelschaltung-von-kondensatoren
     :align: center
-    :width: 45%
+    :width: 30%
 
     Parallelschaltung von drei Kondensatoren.
 
@@ -362,22 +363,22 @@ unterschiedlichen Ladungen :math:`Q _{\rm{i}}` geladen werden.
 
 
 Mit Hilfe der allgemeinen Kondensator-Formel :math:`(Q = C \cdot U)` lässt sich
-die Gesamt-Kapazität :math:`C _{\rm{ges}}` direkt ausdrücken:
+die Gesamt-Kapazität :math:`C_{\mathrm{ges}}` direkt ausdrücken:
 
 .. math::
 
-    C _{\rm{ges}} = \frac{Q _{\rm{ges}}}{U} = \frac{Q _{\rm{1}}}{U} + \ldots +
-    \frac{Q _{\rm{n}}}{U}  = \sum_{i=1}^{n}  \frac{Q _{\rm{i}}}{U}
+    C_{\mathrm{ges}} = \frac{Q_{\mathrm{ges}}}{U} = \frac{Q_1}{U} + \ldots +
+    \frac{Q_{\mathrm{n}}}{U}  = \sum_{i=1}^{n}  \frac{Q_{\mathrm{i}}}{U}
 
 
-Die einzelnen Quotienten :math:`Q _{\rm{i}} / U` entsprechen dabei den einzelnen
-Kapazitäten :math:`C _{\rm{i}}` der parallel zueinander geschalteten
+Die einzelnen Quotienten :math:`Q_{\mathrm{i}} / U` entsprechen dabei den einzelnen
+Kapazitäten :math:`C_{\mathrm{i}}` der parallel zueinander geschalteten
 Kondensatoren. Somit gilt:
 
 .. math::
     :label: eqn-parallelschaltung-kondensator
 
-    C _{\rm{Ges}} = \sum_{i=1}^{n} C  _{\rm{i}}
+    C_{\mathrm{Ges}} = \sum_{i=1}^{n} C  _{\mathrm{i}}
 
 Eine Parallelschaltung zweier oder mehrerer Kondensatoren gleicht somit einem
 einzigen Kondensator mit einer entsprechend größeren Kapazität. Kondensatoren
@@ -413,18 +414,7 @@ Reihenschaltung.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Reihen- und
-    Parallelschaltungen>` und :ref:`Übungsaufgaben <Aufgaben zu Reihen- und
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Reihen- und
     Parallelschaltungen>`.
 
-
-..
-    In einem unverzweigten Stromkreis ist die Stromstaerke überall gleich
-    groß, die Summe der verbrauchten Spannung(en) ist gleich der
-    Versorgungsspannung.
-
-..
-    In einem Stromverzweigungspunkt (Knoten) ist die Summe der zufliessenden
-    Stroeme gleich der Summe der abfliessenden Stroeme.
-
-
+.. :ref:`Experimente <Experimente Reihen- und Parallelschaltungen>` und 

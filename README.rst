@@ -10,7 +10,7 @@ ausgebaut, Unterstützung bei der Weiterentwicklung ist gerne willkommen.
 
 Eine HTML-Version dieser Seite ist unter folgender Adresse abrufbar:
 
-http://www.grund-wissen.de/physik
+http://www.grund-wissen.de/elektronik/
 
 Lokale Kopien und eigene Änderungen
 -----------------------------------

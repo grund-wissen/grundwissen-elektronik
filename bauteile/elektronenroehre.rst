@@ -53,7 +53,7 @@ eingebaut sind.
         :download:`SVG: Schaltzeichen Röhrendiode
         <../pics/bauteile/schaltzeichen-roehrendiode.svg>`
 
-Die Kathode :math:`\rm{K}` besteht aus einem sehr dünnen Draht, der sich bei
+Die Kathode :math:`\mathrm{K}` besteht aus einem sehr dünnen Draht, der sich bei
 anliegender Spannung aufgrund seines elektrischen Widerstands in kurzer Zeit bis
 zur Weißglut erhitzt. Aufgrund der hohen thermischen Energie verlassen dabei
 auch Elektronen den Draht und umgeben ihn in Form einer winzigen "Ladungswolke".
@@ -64,7 +64,7 @@ thermischen Bewegung und der elektrischen Anziehung einstellt.
 
 .. pic Elektronenroehre PK89
 
-Die Anode :math:`\rm{A}` besteht, wie in Edisons Versuch, aus einer kleinen Metallplatte.
+Die Anode :math:`\mathrm{A}` besteht, wie in Edisons Versuch, aus einer kleinen Metallplatte.
 Wird an dieser eine genügend große positive Spannung angelegt, so lassen sich
 Elektronen von der Kathode zur Anode hin "absaugen". Damit ergibt sich folgender
 Stromkreis: Ausgehend vom Minuspol der Stromquelle treten die Elektronen an der
@@ -108,8 +108,8 @@ metallischer Draht in Zickzack-Form ("Gitter") als dritte Elektrode befindet.
 
 .. lee de forest.
 
-Über die am Gitter :math:`\rm{G}` anliegende Spannung ist es auf einfache Weise
-möglich, die Stärke des durch die Elektronenröhre fließenden Stromes zu
+Über die am Gitter :math:`\mathrm{G}` anliegende Spannung ist es auf einfache
+Weise möglich, die Stärke des durch die Elektronenröhre fließenden Stromes zu
 bestimmen:
 
 * Liegt keine Spannung am Gitter an, so können die Elektronen es (nahezu)

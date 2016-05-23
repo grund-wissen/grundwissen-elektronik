@@ -3,16 +3,18 @@
 Lösungen zu elektronischen Bauteilen
 ====================================
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
-elektronischen Bauteilen>` zum Abschnitt :ref:`Widerstände
-<Widerstände>`.
 
+.. _Lösungen Widerstände:
 
-.. rubric:: Lösungen zu Widerständen
+Widerstände
+-----------
+
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Widerstände>` zum Abschnitt :ref:`Widerstände <Widerstände>`.
 
 ----
 
-.. _Widerstand-01-Lösung:
+.. _bwid01l:
 
 * Der erste Ring ist braun, somit ist die erste Ziffer des Widerstandswertes
   gleich :math:`1`. Der zweite Ring ist schwarz, somit ist die zweite Ziffer
@@ -38,11 +40,11 @@ elektronischen Bauteilen>` zum Abschnitt :ref:`Widerstände
   :math:`5\%` liegt. Der tatsächliche Wert des Widerstands liegt somit
   zwischen :math:`\unit[95]{k \Omega }` und :math:`\unit[105]{k \Omega }`.
 
-  :ref:`Zurück zur Aufgabe <Widerstand-01>`
+  :ref:`Zurück zur Aufgabe <bwid01>`
 
 ----
 
-.. _Widerstand-02-Lösung:
+.. _bwid02l:
 
 * Die ersten beiden Ringe des Widerstands sind rot, somit haben die ersten
   beiden Ziffern des Widerstandswertes jeweils den Wert :math:`2`. Der dritte
@@ -64,11 +66,11 @@ elektronischen Bauteilen>` zum Abschnitt :ref:`Widerstände
           :download:`SVG: Farbringe-Beispiel 02 (Lösung)
           <../pics/bauteile/widerstand-farbringe-02-loesung.svg>`
 
-  :ref:`Zurück zur Aufgabe <Widerstand-02>`
+  :ref:`Zurück zur Aufgabe <bwid02>`
 
 ----
 
-.. _Widerstand-03-Lösung:
+.. _bwid03l:
 
 * Der Zahlenwert :math:`332` des Widerstands hat drei von Null verschiedene
   Zahlenziffern; somit muss es sich um einen Metallschicht-Widerstand mit
@@ -96,11 +98,11 @@ elektronischen Bauteilen>` zum Abschnitt :ref:`Widerstände
   festgelegt. (Metallschicht-Widerstände haben üblicherweise einen
   Toleranzbereich von :math:`1\%` oder geringer.)
 
-  :ref:`Zurück zur Aufgabe <Widerstand-03>`
+  :ref:`Zurück zur Aufgabe <bwid03>`
 
 ----
 
-.. _Widerstand-04-Lösung:
+.. _bwid04l:
 
 * Der Widerstand hat fünf Ringe, somit geben die ersten drei Ziffern den
   Zahlenwert und die vierte Ziffer den Multiplikator bzw. die Anzahl an Nullen
@@ -111,8 +113,8 @@ elektronischen Bauteilen>` zum Abschnitt :ref:`Widerstände
   Widerstandswertes gleich :math:`5`. Der dritte Ring ist schwarz, somit ist
   die dritte Ziffer des Widerstandswertes gleich :math:`0`. Der vierte Ring
   ist orange, somit sind drei Nullen an den Zahlenwert anzuhängen. Insgesamt
-  ergibt sich somit ein Widerstandswert von :math:`\unit[150\,000]{\Omega } =
-  \unit[150]{k \Omega }`.
+  ergibt sich somit ein Widerstandswert von :math:`\unit[150\,000]{\Omega} =
+  \unit[150]{k \Omega}`.
 
   .. figure::
       ../pics/bauteile/widerstand-farbringe-04-loesung.png
@@ -130,25 +132,31 @@ elektronischen Bauteilen>` zum Abschnitt :ref:`Widerstände
 
   Der fünfte Ring ist violett, somit liegt der Toleranzbereich bei
   :math:`0,1\%`. Der tatsächliche Wert des Widerstands liegt somit
-  zwischen :math:`\unit[95]{k \Omega }` und :math:`\unit[105]{k \Omega }`.
+  zwischen :math:`\unit[95]{k \Omega}` und :math:`\unit[105]{k \Omega}`.
 
-  :ref:`Zurück zur Aufgabe <Widerstand-04>`
-
-----
-
-.. rubric:: Lösungen zu Transformatoren
+  :ref:`Zurück zur Aufgabe <bwid04>`
 
 ----
 
-.. _Transformator-01-Lösung:
+.. _Lösungen Transformatoren:
+
+Transformatoren
+---------------
+
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Transformatoren>` zum Abschnitt :ref:`Transformatoren <Transformatoren>`.
+
+----
+
+.. _btra01l:
 
 * Um die Windungszahl der Sekundärspule zu bestimmen, löst man die
-  Transformator-Gleichung nach :math:`n _2` auf:
+  Transformator-Gleichung nach :math:`n_2` auf:
 
   .. math::
 
-      \frac{U_1}{U_2} = \frac{n_1}{n_2} \quad
-      \Leftrightarrow \quad n_2 = \frac{n_1 \cdot U_1}{U_2}
+      \frac{U_1}{U_2} = \frac{n_1}{n_2} \quad \Leftrightarrow \quad n_2 =
+      \frac{n_1 \cdot U_1}{U_2}
 
   Eingesetzt ergibt sich mit :math:`n_1 = 300`,  :math:`U_1 = \unit[230]{V}` und
   :math:`U_2 = \unit[100]{V}`:
@@ -160,23 +168,23 @@ elektronischen Bauteilen>` zum Abschnitt :ref:`Widerstände
 
   Die Sekundärspule muss somit :math:`n_2 = 690` Windungen besitzen.
 
-  :ref:`Zurück zur Aufgabe <Transformator-01>`
+  :ref:`Zurück zur Aufgabe <btra01>`
 
 ----
 
-.. _Transformator-02-Lösung:
+.. _btra02l:
 
 * Die Windungszahlen stehen nach der Transformator-Gleichung
-  :math:`\frac{n_1}{n_2} = \frac{U_1}{U_2}` im gleichen Verhältnis wie
-  die anliegenden Spannungen. An der Spule mit der höheren Anzahl an Windungen
-  liegt daher auch stets die höhere Spannung, an der Spule mit der geringeren
-  Anzahl an Windungen die niedrigere Spannung an.
+  :math:`\frac{n_1}{n_2} = \frac{U_1}{U_2}` im gleichen Verhältnis wie die
+  anliegenden Spannungen. An der Spule mit der höheren Anzahl an Windungen liegt
+  daher auch stets die höhere Spannung, an der Spule mit der geringeren Anzahl
+  an Windungen die niedrigere Spannung an.
 
-  :ref:`Zurück zur Aufgabe <Transformator-02>`
+  :ref:`Zurück zur Aufgabe <btra02>`
 
 ----
 
-.. _Transformator-03-Lösung:
+.. _btra03l:
 
 * Um die Stromstärke in der Sekundärspule zu bestimmen, löst man die
   Transformator-Gleichung nach :math:`I_2` auf:
@@ -197,16 +205,12 @@ elektronischen Bauteilen>` zum Abschnitt :ref:`Widerstände
   Die Stromstärke in der Sekundärspule des Transformators beträgt somit
   :math:`I_2 = \unit[0,5]{A}`.
 
-  :ref:`Zurück zur Aufgabe <Transformator-03>`
+  :ref:`Zurück zur Aufgabe <btra03>`
 
 
-.. raw:: latex
+----
 
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

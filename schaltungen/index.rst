@@ -15,6 +15,7 @@ elektronischen Bauteile durch symbolische Schaltzeichen dargestellt.
 
     knotenregel-und-maschenregel.rst
     reihenschaltung-und-parallelschaltung.rst
+    mess-und-pruefschaltungen.rst
     grundschaltungen.rst
     kippschaltungen.rst
     logik-grundschaltungen.rst

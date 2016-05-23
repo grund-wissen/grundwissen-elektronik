@@ -1,14 +1,14 @@
-.. _Aufgaben zu Grundschaltungen:
+.. _Aufgaben Grundschaltungen:
 
-Aufgaben zu Grundschaltungen
-============================
+Grundschaltungen
+================
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Grundschaltungen
 <Grundschaltungen>`.
 
 ----
 
-.. _Diode-01:
+.. _sgrd01:
 
 * Ist es möglich, den Stromkreis nach Abbildung :ref:`Diode als Schalthelfer
   <fig-diode-schalthelfer-allgemein>` durch den Einbau einer Diode so zu
@@ -17,28 +17,21 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Grundschaltungen
 
   .. figure::
       ../pics/schaltungen/diode-als-schalthelfer-allgemein.png
-      :name: fig-diode-schalthelfer-allgemein
-      :alt:  fig-diode-schalthelfer-allgemein
       :align: center
       :width: 60%
 
       Die Diode als Schalthelfer.
 
-      .. only:: html
+  .. only:: html
 
-          :download:`SVG: Diode als Schalthelfer
-          <../pics/schaltungen/diode-als-schalthelfer-allgemein.svg>`
+      .. centered:: :download:`SVG: Diode als Schalthelfer
+                      <../pics/schaltungen/diode-als-schalthelfer-allgemein.svg>`
 
-  :ref:`Lösung <Diode-01-Lösung>`
+  :ref:`Lösung <sgrd01l>`
 
+----
 
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

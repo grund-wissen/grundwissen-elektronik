@@ -1,7 +1,7 @@
-.. _Elektronik-Versuche-Aufgaben-Lösungen:
+.. _Experimente, Aufgaben und Lösungen:
 
-Versuche, Aufgaben und Lösungen
-===============================
+Experimente, Aufgaben und Lösungen
+==================================
 
 
 Übungsaufgaben
@@ -21,7 +21,5 @@ Lösungen
     :maxdepth: 2
 
     bauteile/loesungen.rst
-    schaltungen//loesungen.rst
-
-..  versuche/index.rst
+    schaltungen/loesungen.rst
 

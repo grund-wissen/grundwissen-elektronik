@@ -40,15 +40,15 @@ Stromquelle bewirkt.
         <../pics/schaltungen/led-mit-vorwiderstand.svg>`
 
 Bei einer Versorgungsspannung von :math:`U = \unit[9]{V}` muss am Vorwiderstand
-eine Spannung von :math:`U _{\rm{R}} = \unit[7,6]{V}` abfallen, um eine typische
-Betriebsspannung von :math:`U _{\rm{LED}} = \unit[1,4]{V}` an der Leuchtdiode zu
+eine Spannung von :math:`U_{\mathrm{R}} = \unit[7,6]{V}` abfallen, um eine typische
+Betriebsspannung von :math:`U_{\mathrm{LED}} = \unit[1,4]{V}` an der Leuchtdiode zu
 erreichen. Beträgt der Wert des Vorwiderstandes beispielsweise :math:`R =
 \unit[470]{\Omega }`, so ergibt sich nach dem Ohmschen Gesetz ein Stromfluss
 durch den Widerstand von:
 
 .. math::
 
-    I = \frac{U _{\rm{R}}}{R} = \frac{\unit[7,6]{V}}{\unit[470]{\Omega }} =
+    I = \frac{U_{\mathrm{R}}}{R} = \frac{\unit[7,6]{V}}{\unit[470]{\Omega }} =
     \unit[0,016]{A} = \unit[16]{mA}
 
 Der gleiche Strom fließt, da der Vorwiderstand und die Leuchtdiode als
@@ -60,14 +60,13 @@ Vorwiderständen lassen sich Leuchtdioden beliebig dimmen; hierzu kann man am
 einfachsten ein Potentiometer in Reihe zum Vorwiderstand schalten.
 
 Man kann in Schaltung :ref:`LED mit Vorwiderstand <fig-led-mit-vorwiderstand>`
-den Taster :math:`S _{\rm{1}}` auch durch zwei offene Leiterenden ersetzen, um
-einen "Durchgangsprüfer" zu erhalten. Hält man diese an die Kontaktstellen
-eines anderen leitenden Bauteils, z.B. an einen (nicht zu großen) Widerstand,
-eine andere Leuchtdiode oder an ein Glühbirnchen, so leuchtet die Leuchtdiode
-:math:`D _{\rm{1}}` auf, wenn das Bauteil intakt ist. Bei zu großen
-Widerständen oder unterbrochenen Kontaktstellen -- beispielsweise einem
-intakten Kondensator oder einer durchgebrannten Sicherung -- bleibt :math:`D
-_{\rm{1}}` dunkel.
+den Taster :math:`S_1` auch durch zwei offene Leiterenden ersetzen, um einen
+"Durchgangsprüfer" zu erhalten. Hält man diese an die Kontaktstellen eines
+anderen leitenden Bauteils, z.B. an einen (nicht zu großen) Widerstand, eine
+andere Leuchtdiode oder an ein Glühbirnchen, so leuchtet die Leuchtdiode
+:math:`D_1` auf, wenn das Bauteil intakt ist. Bei zu großen Widerständen oder
+unterbrochenen Kontaktstellen -- beispielsweise einem intakten Kondensator oder
+einer durchgebrannten Sicherung -- bleibt :math:`D_1` dunkel.
 
 
 .. _Kondensator-Grundfunktion:
@@ -140,17 +139,16 @@ Stromkreises vor dem Kollektor-Anschluss befindet.
         <../pics/schaltungen/transistor-emitterschaltung.svg>`
 
 Ist in der :ref:`Emitterschaltung eines Transistors
-<fig-transistor-emitterschaltung>` der Schalter :math:`S _{\rm{1}}` geöffnet, so
-sperrt der Transistor :math:`T _{\rm{1}}`, und die Leuchtdiode :math:`D
-_{\rm{1}}` bleibt dunkel. Schließt man den Schalter :math:`S _{\rm{1}}`, so
-fließt ein schwacher Strom durch den Basiswiderstand :math:`R _{\rm{2}}` -- der
-einen um ein Vielfaches größeren Widerstandswert als der Lastwiderstand :math:`R
-_{\rm{1}}` besitzen darf -- an die Basis von :math:`T _{\rm{1}}`. [#]_ Die
-Kollektor-Emitter-Strecke des Transistors leitend, der Transistor "steuert
-durch".
+<fig-transistor-emitterschaltung>` der Schalter :math:`S_1` geöffnet, so sperrt
+der Transistor :math:`T_1`, und die Leuchtdiode :math:`D_1` bleibt dunkel.
+Schließt man den Schalter :math:`S_1`, so fließt ein schwacher Strom durch den
+Basiswiderstand :math:`R_2` -- der einen um ein Vielfaches größeren
+Widerstandswert als der Lastwiderstand :math:`R_1` besitzen darf -- an die
+Basis von :math:`T_1`. [#]_ Die Kollektor-Emitter-Strecke des Transistors
+leitend, der Transistor "steuert durch".
 
-Ein schwacher Basis-Strom :math:`I _{\rm{B}}` kann auf diese Weise einen
-Kollektor-Emitter-Strom :math:`I _{\rm{CE}}` schalten, der je nach Bautyp des
+Ein schwacher Basis-Strom :math:`I_{\mathrm{B}}` kann auf diese Weise einen
+Kollektor-Emitter-Strom :math:`I_{\mathrm{CE}}` schalten, der je nach Bautyp des
 Transistors etwa :math:`100` bis :math:`500` mal größer sein kann. [#]_ Zwischen
 Basis und Emitter stellt sich dabei, solange der Transistor durchgesteuert
 bleibt, eine Spannung von rund :math:`\unit[0,7]{V}` ein.
@@ -163,7 +161,7 @@ bleibt, eine Spannung von rund :math:`\unit[0,7]{V}` ein.
 Bei der so genannten Kollektor-Schaltung ist der Kollektor des Transistors mit
 dem ``+``-Pol der Stromquelle verbunden. In dieser Position funktioniert der
 Transistor als regelbarer Verstärker. Eine variierende Basis-Stromstärke
-:math:`I _{\rm{B}}` führt dabei, je nach Bautyp des Transistors, zu einer
+:math:`I_{\mathrm{B}}` führt dabei, je nach Bautyp des Transistors, zu einer
 etwa :math:`100` bis :math:`500` mal größeren Stromstärke im Verbraucher, der
 sich hinter dem Emitter-Anschluss befindet.
 
@@ -183,13 +181,13 @@ sich hinter dem Emitter-Anschluss befindet.
 
 Das Funktionsprinzip der :ref:`Kollektorschaltung eines Transistors
 <fig-transistor-kollektorschaltung>` liegt darin, dass sich die hinter dem
-Widerstand :math:`R _{\rm{2}}` an der Basis anliegende Spannung :math:`U
-_{\rm{in}}` in die Basis-Emitter-Spannung :math:`U _{\rm{BE}} \approx
-\unit[0,7]{V}` *und* die am Verbraucher abfallende Spannung :math:`U _{\rm{R
-_{\rm{1}}}}` aufteilt. Die Basis-Emitter-Stromstärke :math:`I _{\rm{BE}}` und
-die Stromstärke im Verbraucher sind somit unmittelbar aneinander gekoppelt; umso
-größer :math:`I _{\rm{BE}}` ist, desto größer ist (mit entsprechender
-Verstärkung) auch :math:`I _{\rm{R _{\rm{1}}}}`.
+Widerstand :math:`R_2` an der Basis anliegende Spannung :math:`U_{\mathrm{in}}`
+in die Basis-Emitter-Spannung :math:`U_{\mathrm{BE}} \approx \unit[0,7]{V}`
+*und* die am Verbraucher abfallende Spannung :math:`U_{\mathrm{R_1}}` aufteilt.
+Die Basis-Emitter-Stromstärke :math:`I_{\mathrm{BE}}` und die Stromstärke im
+Verbraucher sind somit unmittelbar aneinander gekoppelt; umso größer
+:math:`I_{\mathrm{BE}}` ist, desto größer ist (mit entsprechender Verstärkung)
+auch :math:`I_{\mathrm{R_1}}`.
 
 
 .. raw:: html
@@ -206,21 +204,21 @@ Verstärkung) auch :math:`I _{\rm{R _{\rm{1}}}}`.
         verbunden, so fließt diese Ladung von der Stromquelle auf den
         Kondensator nach.
 
-.. [#]  Der Widerstand :math:`R _{\rm{3}}` hat lediglich die Aufgabe, die durch
-        die Basis-Emitter-Strecke fließende Stromstärke :math:`I _{\rm{BE}}` zu
+.. [#]  Der Widerstand :math:`R_3` hat lediglich die Aufgabe, die durch
+        die Basis-Emitter-Strecke fließende Stromstärke :math:`I_{\mathrm{BE}}` zu
         begrenzen; häufig wählt man dabei einen Widerstandswert, der etwa halb
-        so groß ist wie :math:`R _{\rm{2}}`.
+        so groß ist wie :math:`R_2`.
 
-.. [#]  Bei einem Basis-Strom von nur :math:`I _{\rm{B}} \approx \unit[0,1]{\mu
-        A}` wäre (bei einer rund :math:`300`-fachen Stromverstärkung) ein
-        Kollektor-Emitter-Strom von :math:`I _{\rm{CE}} \approx \unit[30]{mA}`
-        möglich, bei höheren Basis-Strömen sogar entsprechend mehr. Durch die
-        Leuchtdiode fließt bei normaler Helligkeit allerdings nur
-        ein Strom von etwa :math:`\unit[0,15]{mA}`. Der Transistor ermöglicht somit einen
-        größeren Stromfluss als nötig -- er "übersteuert". Bei Schaltvorgängen
-        ist dies durchaus erwünscht, denn somit ist das Einschalten des
-        eigentlichen Verbrauchers (hier: LED mit Vorwiderstand) auf alle Fälle
-        sichergestellt.
+.. [#]  Bei einem Basis-Strom von nur :math:`I_{\mathrm{B}} \approx
+        \unit[0,1]{\mu A}` wäre (bei einer rund :math:`300`-fachen
+        Stromverstärkung) ein Kollektor-Emitter-Strom von :math:`I_{\mathrm{CE}}
+        \approx \unit[30]{mA}` möglich, bei höheren Basis-Strömen sogar
+        entsprechend mehr. Durch die Leuchtdiode fließt bei normaler Helligkeit
+        allerdings nur ein Strom von etwa :math:`\unit[0,15]{mA}`. Der
+        Transistor ermöglicht somit einen größeren Stromfluss als nötig -- er
+        "übersteuert". Bei Schaltvorgängen ist dies durchaus erwünscht, denn
+        somit ist das Einschalten des eigentlichen Verbrauchers (hier: LED mit
+        Vorwiderstand) auf alle Fälle sichergestellt.
 
 .. raw:: html
 
@@ -228,7 +226,7 @@ Verstärkung) auch :math:`I _{\rm{R _{\rm{1}}}}`.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben
     Grundschaltungen>`.
 
 
